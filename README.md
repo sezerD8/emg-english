@@ -12,7 +12,7 @@ Oyun oynarken, çalışırken, internette gezerken ekranın köşesinde sürekli
 > pronunciation) while you game or work; a spaced-repetition trainer, tense lessons and an optional AI
 > coach help you retain them. Built with Python + PySide6.
 
-<p align="center"><img src="assets/screenshots/widget.png" alt="Widget" width="420"></p>
+![Masaüstünde widget](assets/screenshots/desktop.png)
 
 ## İndir
 
