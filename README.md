@@ -1,115 +1,118 @@
-# EMG English
+# EMG English — gün boyu İngilizceye maruz kal
 
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-A Windows desktop app that keeps you exposed to English all day. An always-on-top widget cycles through
-words and phrases in a corner of your screen while you game, work or browse, and a spaced-repetition trainer
-turns that exposure into long-term memory.
+Oyun oynarken, çalışırken, internette gezerken ekranın köşesinde sürekli dönen kelimelerle İngilizce
+öğren. Widget kelimeleri gösterir; Eğitim sayfası aralıklı tekrar (SRS) ile kalıcı öğrenmeyi sağlar.
 
-EMG English is made for **Turkish speakers learning English**: every entry comes with its Turkish meaning,
-IPA and a Turkish-letter pronunciation guide, and the interface is in Turkish.
+> **EN:** A Windows desktop app for Turkish speakers learning English. An always-on-top overlay widget
+> cycles through ~4,150 words, phrasal verbs, idioms and proverbs (with Turkish meanings, IPA and Turkish
+> pronunciation) while you game or work; a spaced-repetition trainer, tense lessons and an optional AI
+> coach help you retain them. Built with Python + PySide6.
 
-## Features
+## İndir
 
-- **Overlay widget**: transparent, always on top, hidden from the taskbar. Shows the English word, its
-  Turkish meaning, IPA, Turkish pronunciation and an example sentence. Stays visible over borderless and
-  windowed fullscreen games.
-- **~4,150 entries**: ~3,260 words ordered by frequency (B1/B2) plus ~890 phrasal verbs, sentence patterns,
-  ready-made phrases, idioms and proverbs, each with a translated example.
-- **Training**: five modes (flashcards with spaced repetition, English→Turkish, Turkish→English, typing,
-  listening) with a daily goal and smart word selection.
-- **Library**: browse, search, filter and edit every entry, add notes and favorites, build decks, fill in
-  missing data from free online dictionaries, import/export CSV.
-- **Tenses**: all 12 tenses plus *used to*, conditionals, passive voice and modals, with Turkish explanations,
-  formulas, examples, common mistakes and quizzes.
-- **Card Draft**: build your own deck by drafting cards like in a card game (rarity = level).
-- **AI Coach** (optional): chat with a bilingual language coach for translations, grammar, vocabulary,
-  pronunciation and conversation practice. See [AI Coach](#ai-coach).
-- **Light and dark themes**, a custom dark title bar and native Windows window behavior (Aero Snap, resizing,
-  system menu).
+[**Releases**](https://github.com/sezerD8/emg-english/releases/latest) sayfasından
+`EMG-English.exe`'yi indirip çalıştır. Kurulum ya da Python gerekmez (Windows 10/11).
 
-## Download
+> Uygulama dijital olarak imzalı olmadığı için Windows SmartScreen ilk açılışta uyarı verebilir:
+> **Ek bilgi → Yine de çalıştır**.
 
-Grab `EMG-English.exe` from the [**Releases**](https://github.com/sezerD8/emg-english/releases/latest) page
-and run it. No installer or Python required (Windows 10/11).
+`EMG-English.exe --minimized` yalnızca widget + sistem tepsisi ile başlatır. Kişisel verilerin (ilerleme,
+ayarlar, yedekler) `%APPDATA%\EMGEnglish\` klasöründe tutulur; `.exe`'yi silmek ya da güncellemek
+ilerlemene dokunmaz.
 
-> The executable is not code-signed, so Windows SmartScreen may warn on first launch:
-> **More info → Run anyway**.
+## Sayfalar
 
-Run `EMG-English.exe --minimized` to start with only the widget and the tray icon.
+- **Ana sayfa** — günün kelimesi, bugün tekrar edilecekler ve günlük hedef, kısa bir ilerleme özeti.
+- **Eğitim** — 5 mod: Kartlar (aralıklı tekrar), İngilizce→Türkçe, Türkçe→İngilizce, Yazma, Dinleme.
+  Kaynak seçimi: akıllı, sadece tekrarlar, yeni kelimeler, widget'ta en çok gördüklerin, en çok yanıldıkların,
+  favoriler, bir deste… Kısayollar: `Space` cevabı göster, `1-4` puan/seçenek, `Enter` devam.
+- **Widget** — değişme süresi, kelime kaynağı/sırası, seviyeler, arka plan rengi ve opaklığı, yazı opaklığı,
+  her satırın boyutu/rengi, yazı tipi, hizalama, hazır temalar, 9 konum + sürükleyerek özel konum, monitör seçimi,
+  aktif hatırlama modu, tense cümlesi karıştırma, otomatik seslendirme, oyun modu. Canlı önizlemeli.
+- **Kütüphane** — ~4150 kelime ve ifadenin tamamı; arama, filtre, düzenleme, not, favori, desteye ekleme,
+  internetten doldurma (ücretsiz sözlük + çeviri), CSV içe/dışa aktarma.
+- **Tenses** — 12 zaman + used to, şart cümleleri, edilgen yapı, modal fiiller. Türkçe açıklama, formül,
+  kullanım yerleri, ipucu kelimeler, örnek cümleler, sık hatalar ve her konu için mini test + karışık test.
+- **Card Draft** — oyunlardaki draft gibi: her turda 3 kart çıkar (nadirlik = seviye), birini seç, kendi
+  desteni kur. Desteyi çalış veya widget'ta döndür. Kendi kartlarını da oluşturabilirsin.
+- **AI Koç** (isteğe bağlı) — Türkçe ve İngilizce bilen dil koçuyla sohbet: çeviri, gramer, kelime, telaffuz
+  soruları, hata düzeltme, rol yapma ve konuşma pratiği. Ayrıntılar: [AI Koç](#ai-koç).
+- **Ayarlar** — adın, günlük hedef, Windows ile başlat, tepsiye küçült, ses ve konuşma hızı, okunuş yazım
+  tarzı (w / v, th / t), Gündüz / Gece teması, yedekleme–geri yükleme, ilerlemeyi sıfırlama.
 
 ## Widget
 
-Five lines: **English word → Turkish meaning → IPA → Turkish pronunciation → example sentence**. Choose
-which entry types rotate under Widget → *Content*.
+5 satır: **İngilizce kelime → Türkçe anlamı → fonetik (IPA) → Türkçe okunuşu → örnek cümle**. Widget →
+*İçerik* ile hangi türlerin döneceği seçilir. Arka planı şeffaf, her pencerenin ve oyunun üstünde durur,
+görev çubuğunda görünmez.
 
-- Drag to move, right-click for the menu, double-click to hear the word. The word does not change while the
-  mouse is over it.
-- **Game mode** makes the widget click-through so it never blocks your game.
-- Interval, source, order, levels, colors, opacity, font, size of each line, alignment, nine preset positions
-  or a custom position, and monitor are all configurable with a live preview.
+- Sürükle → taşı • Sağ tık → menü • Çift tık → seslendir • Fare üzerindeyken kelime değişmez
+- **Oyun modu**: tıklamalar widget'ın içinden geçer, oyunu engellemez.
 
-### Fullscreen games
+### Tam ekran oyunlar
 
-The widget follows the foreground window:
+Widget ön plandaki uygulamayı izler:
 
-- **Borderless / windowed fullscreen** (and F11 video): the widget is kept on top, refreshed four times a
-  second so games that push themselves forward don't cover it.
-- **Exclusive fullscreen**: Windows does not allow any window to draw over it. Overlays like Discord or
-  Steam inject code into the game to get around this, which risks bans in anti-cheat games, so EMG English
-  doesn't. Instead, the word and its meaning are **read aloud**. For the visual widget, switch the game to
-  borderless or windowed fullscreen.
+- **Borderless / pencereli tam ekran** (ve F11 video vb.): widget oyunun üstünde tutulur; saniyede 4 kez
+  yenilenir, böylece kendini öne iten oyunlarda da üstte kalır.
+- **Exclusive (özel) tam ekran**: Windows bu modda hiçbir pencerenin oyunun üstüne çizilmesine izin vermez
+  (Discord/Steam overlay'leri bunu oyunun içine kod enjekte ederek yapar; bu, hile korumalı oyunlarda ban
+  riski taşıdığı için yapılmadı). Bu modda kelime ve Türkçe anlamı **sesli okunur**. Görsel widget
+  istiyorsan oyunun görüntü ayarından *Borderless / Pencereli tam ekran*'ı seç.
+- Davranış Widget → *Tam ekran ve oyunlar* bölümünden seçilir.
 
-The behavior is configurable under Widget → *Fullscreen and games*.
+### Global kısayollar (oyun içindeyken de çalışır)
 
-### Global hotkeys (work in games too)
-
-| Hotkey | Action |
+| Kısayol | Eylem |
 |---|---|
-| `Ctrl+Alt+→` / `Ctrl+Alt+←` | Next / previous word |
-| `Ctrl+Alt+H` | Show / hide widget |
-| `Ctrl+Alt+P` | Pause / resume |
-| `Ctrl+Alt+L` | Mark as learned |
-| `Ctrl+Alt+F` | Toggle favorite |
-| `Ctrl+Alt+S` | Speak |
-| `Ctrl+Alt+R` | Reveal meaning (active recall mode) |
-| `Ctrl+Alt+C` | Toggle game mode |
+| `Ctrl+Alt+→` / `Ctrl+Alt+←` | Sonraki / önceki kelime |
+| `Ctrl+Alt+H` | Widget'ı gizle / göster |
+| `Ctrl+Alt+P` | Duraklat / devam |
+| `Ctrl+Alt+L` | Bu kelimeyi öğrendim |
+| `Ctrl+Alt+F` | Favori |
+| `Ctrl+Alt+S` | Seslendir |
+| `Ctrl+Alt+R` | Anlamı göster (aktif hatırlama) |
+| `Ctrl+Alt+C` | Oyun modunu aç / kapat |
 
-## How learning works
+## Öğrenme mantığı
 
-- The 2,000 most common words (A1–A2) are left out; they are archived in `app/data/words_archive/`. The
-  remaining words become B1 (first 1,500) and B2 by frequency. Words you add yourself are C1.
-- Phrasal verbs, patterns, phrases, idioms and proverbs are spread evenly between words.
-- **Smart widget**: shows words you are learning more often, introduces new ones (least-seen first) and
-  occasionally repeats learned ones. New words you see often on the widget come first in training.
-- **Spaced repetition (SM-2 style)**: each correct answer pushes the next review further out
-  (1 day → 3 days → …). After **4 successful on-time reviews** a word counts as learned. A wrong answer resets
-  it and asks again 10 minutes later.
+- A1–A2 (en sık 2000 temel kelime: the, you, I…) listede yok; arşivi `app/data/words_archive/` klasöründe.
+  Kalan kelimeler sıklık sırasına göre B1 (ilk 1500) ve B2 (sonrası) olur. Kendi eklediklerin C1 olur.
+- Tek kelimelerin yanında **phrasal verb**, **kalıp** (*it's no use doing something*), **hazır cümle**
+  (*I'm on my way*), **deyim** (*break the ice*) ve **atasözü** (*better late than never*) da var. Her birinde
+  Türkçe karşılık ve çevirili örnek cümle bulunur. Bu türler kelimelerin arasına eşit aralıklarla serpiştirilir.
+- **Akıllı widget**: öğrenmekte olduğun kelimeleri daha sık, sıradaki yeni kelimeleri (en az görülenler önce) ve
+  ara sıra öğrendiklerini gösterir. Widget'ta sık gördüğün yeni kelimeler Eğitim'de öncelikli gelir.
+- **Aralıklı tekrar (SM-2 benzeri)**: her doğru cevap bir sonraki tekrarı ileri atar (1 gün → 3 gün → …).
+  Zamanında yapılan **4 başarılı tekrar** sonrası kelime "öğrenildi" olur. Yanlış cevap kelimeyi sıfırlar ve
+  10 dk sonra tekrar sorar.
 
-## AI Coach
+## AI Koç
 
-The coach runs [Claude Code](https://claude.com/claude-code) installed on your computer as a background
-language-coach agent. **No API key is needed**: it uses the account you are signed in with in Claude Code,
-and EMG English never sees or stores your credentials.
+Koç, bilgisayarında kurulu [Claude Code](https://claude.com/claude-code)'u arka planda dil koçu olarak
+çalıştırır. **API anahtarı gerekmez**: Claude Code'da giriş yaptığın hesap kullanılır, EMG English hesap
+bilgilerini görmez ve saklamaz.
 
-The agent has no tools (it cannot read files or run commands) and only chats. Its answers are personalized
-with your progress data, such as the words you struggle with. Conversations are kept and resume after a
-restart; the model (Opus / Sonnet / Haiku) is selectable.
+Ajanın hiçbir aracı yoktur (dosya okuyamaz, komut çalıştıramaz), sadece sohbet eder. Cevaplar ilerleme
+verine göre (zorlandığın kelimeler vb.) kişiselleşir. Sohbet saklanır, uygulama kapanıp açılınca kaldığı
+yerden devam eder. Model seçilebilir (Opus / Sonnet / Haiku).
 
-Requirement: Claude Code installed and signed in (run `claude` once in a terminal). Every other feature works
-without it.
+Gereksinim: Claude Code kurulu ve bir terminalde `claude` yazılarak giriş yapılmış olmalı.
+**Claude Code yoksa sadece AI Koç sayfası çalışmaz**, uygulamanın geri kalanı normal kullanılır.
 
-## Your data
+## Veri
 
-Everything is stored in `%APPDATA%\EMGEnglish\emg.db` (SQLite): words, per-word progress, settings, daily
-stats, answer history, decks and tense scores. Backups go to `backups\` in the same folder and errors are
-logged to `error.log`. Deleting or updating the `.exe` does not touch your progress.
+Her şey `%APPDATA%\EMGEnglish\emg.db` (SQLite) dosyasında saklanır: kelimeler, her kelimenin ilerlemesi,
+ayarlar, günlük istatistikler, cevap geçmişi, desteler, tense skorları. Yedekler aynı klasördeki `backups\`
+içine alınır. Hata olursa ayrıntı `error.log` dosyasına yazılır.
 
-## Running from source
+## Kaynaktan çalıştırma
 
-Requires [Python 3.10+](https://www.python.org/downloads/).
+Gereksinim: [Python 3.10+](https://www.python.org/downloads/).
 
 ```powershell
 git clone https://github.com/sezerD8/emg-english.git
@@ -120,63 +123,61 @@ pip install -r requirements.txt
 python main.py
 ```
 
-### Building the .exe
+### .exe derleme
 
 ```powershell
 pip install pyinstaller
 pyinstaller emg-english.spec      # → dist\EMG-English.exe
 ```
 
-Pushing a tag such as `v1.2.0` (`git tag v1.2.0 && git push origin v1.2.0`) makes GitHub Actions build the
-`.exe` and attach it to a release (`.github/workflows/release.yml`). If the icon design changes, regenerate
-`assets/emg.ico` with `python tools/make_icon.py` (requires Pillow).
+`v1.2.0` gibi bir etiket gönderildiğinde (`git tag v1.2.0 && git push origin v1.2.0`) GitHub Actions
+`.exe`'yi kendisi derleyip Releases'a yükler (`.github/workflows/release.yml`). İkon tasarımı değişirse
+`python tools/make_icon.py` ile `assets/emg.ico` yeniden üretilir (Pillow gerekir).
 
-## Word list format
+## Kelime listesi biçimi
 
-Built-in entries live in `app/data/words/*.txt`, one per line:
-
-```
-english|pos|turkish|ipa|example|example_turkish
-```
-
-The last two fields are optional and line order is frequency order. A `#! level=B1` line sets the level for
-the whole file. Phrase files are `phrases_*.txt` with these type codes: `phr` phrasal verb, `pat` pattern,
-`expr` ready-made phrase, `idiom` idiom, `prov` proverb.
-
-When the list changes, bump `config.DATA_VERSION`; on startup the database is synced with the list (built-in
-entries removed from the list are deleted after an automatic backup). Turkish pronunciations are generated
-from IPA and can be edited per word.
-
-CSV import format (header optional): `english;turkish;phonetic;pos;example;example_tr`
-
-## Project structure
+Gömülü kelimeler `app/data/words/*.txt` dosyalarındadır, her satır bir kayıt:
 
 ```
-main.py                 entry point (single instance, tray, hotkeys)
-app/database.py         SQLite schema, data access, spaced repetition
-app/overlay.py          desktop widget
-app/widget_render.py    widget drawing (shared by widget and preview)
-app/pronunciation.py    IPA → Turkish pronunciation
-app/hotkeys.py          global hotkeys (RegisterHotKey)
-app/winutil.py          Win32: topmost, fullscreen detection, custom frame
-app/tts.py              text-to-speech (WinRT / SAPI)
-app/online.py           dictionaryapi.dev + MyMemory lookups
-app/ai_coach.py         AI Coach agent process and prompt
-app/ui/*.py             pages and title bar
-app/data/tenses.py      tense lessons and quizzes
-app/data/words/*.txt    built-in word and phrase lists
-app/data/words_archive/ archived A1–A2 words (not loaded)
-emg-english.spec        PyInstaller build (single-file .exe)
-assets/emg.ico          app icon (generated by tools/make_icon.py)
-.github/workflows/      builds the .exe and publishes releases on tags
+ingilizce|tür|türkçe|ipa|örnek|örnek türkçe
 ```
 
-## Contributing
+Son iki alan isteğe bağlı; satır sırası = sıklık sırası. `#! level=B1` satırı o dosyanın seviyesini belirler.
+Kalıp/deyim dosyaları `phrases_*.txt`, tür kodları: `phr` phrasal verb, `pat` kalıp, `expr` hazır cümle,
+`idiom` deyim, `prov` atasözü. Liste değişince `config.DATA_VERSION` artırılır; açılışta veritabanı listeyle
+eşitlenir (listeden çıkarılan gömülü kelimeler silinir, öncesinde otomatik yedek alınır). Türkçe okunuşlar
+IPA'dan otomatik üretilir; kelime düzenleme penceresinden elle değiştirilebilir.
 
-Bug reports, suggestions and pull requests are welcome. Fixes to translations, IPA or example sentences are
-especially valuable: edit `app/data/words/*.txt` and bump `config.DATA_VERSION`. For larger changes, please
-open an issue first.
+CSV içe aktarma biçimi (başlık satırı isteğe bağlı): `english;turkish;phonetic;pos;example;example_tr`
 
-## License
+## Proje yapısı
+
+```
+main.py                 giriş noktası (tek kopya, tepsi, kısayollar)
+app/database.py         SQLite şeması ve tüm veri işlemleri, SRS
+app/overlay.py          masaüstü widget'ı
+app/widget_render.py    widget çizimi (widget + önizleme ortak)
+app/pronunciation.py    IPA → Türkçe okunuş
+app/hotkeys.py          global kısayollar (RegisterHotKey)
+app/winutil.py          Win32: üstte tutma, tam ekran algılama, özel pencere çerçevesi
+app/tts.py              seslendirme (WinRT / SAPI)
+app/online.py           dictionaryapi.dev + MyMemory
+app/ai_coach.py         AI Koç ajanı (Claude Code süreci, sistem istemi, öğrenci profili)
+app/ui/*.py             sayfalar ve başlık çubuğu
+app/data/tenses.py      tense içerikleri ve testleri
+app/data/words/*.txt    gömülü kelime ve ifade listeleri
+app/data/words_archive/ çıkarılan A1–A2 kelimeleri (yüklenmez)
+emg-english.spec        PyInstaller derleme tanımı (tek dosyalık .exe)
+assets/emg.ico          .exe ikonu (tools/make_icon.py üretir)
+.github/workflows/      etiket gönderilince .exe'yi derleyip Releases'a yükler
+```
+
+## Katkı
+
+Hata bildirimi, öneri ve pull request'ler memnuniyetle karşılanır. Özellikle kelime listesindeki
+çeviri / IPA / örnek cümle düzeltmeleri çok değerli: `app/data/words/*.txt` dosyalarını düzenleyip
+`config.DATA_VERSION`'ı bir artırman yeterli. Büyük değişikliklerden önce bir issue açarak konuşalım.
+
+## Lisans
 
 [MIT](LICENSE)
