@@ -1,4 +1,4 @@
-# EMG English — gün boyu İngilizceye maruz kalma
+# EMG English — gün boyu İngilizceye maruz kal
 
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
