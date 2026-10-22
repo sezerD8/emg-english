@@ -12,6 +12,8 @@ Oyun oynarken, çalışırken, internette gezerken ekranın köşesinde sürekli
 > pronunciation) while you game or work; a spaced-repetition trainer, tense lessons and an optional AI
 > coach help you retain them. Built with Python + PySide6.
 
+<p align="center"><img src="assets/screenshots/widget.png" alt="Widget" width="420"></p>
+
 ## İndir
 
 [**Releases**](https://github.com/sezerD8/emg-english/releases/latest) sayfasından
@@ -23,6 +25,16 @@ Oyun oynarken, çalışırken, internette gezerken ekranın köşesinde sürekli
 `EMG-English.exe --minimized` yalnızca widget + sistem tepsisi ile başlatır. Kişisel verilerin (ilerleme,
 ayarlar, yedekler) `%APPDATA%\EMGEnglish\` klasöründe tutulur; `.exe`'yi silmek ya da güncellemek
 ilerlemene dokunmaz.
+
+## Ekran görüntüleri
+
+| Ana sayfa | Eğitim |
+|---|---|
+| ![Ana sayfa](assets/screenshots/home.png) | ![Eğitim](assets/screenshots/training.png) |
+| **Kütüphane** | **Tenses** |
+| ![Kütüphane](assets/screenshots/library.png) | ![Tenses](assets/screenshots/tenses.png) |
+| **Card Draft** | **Gece teması** |
+| ![Card Draft](assets/screenshots/draft.png) | ![Gece teması](assets/screenshots/home-dark.png) |
 
 ## Sayfalar
 
