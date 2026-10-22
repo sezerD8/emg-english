@@ -1,11 +1,12 @@
-# EMG English — gün boyu İngilizceye maruz kal
+# EMG English — gün boyu İngilizceye maruz kalma
 
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 Oyun oynarken, çalışırken, internette gezerken ekranın köşesinde sürekli dönen kelimelerle İngilizce
-öğren. Widget kelimeleri gösterir; Eğitim sayfası aralıklı tekrar (SRS) ile kalıcı öğrenmeyi sağlar.
+öğrenmeyi sağlayan bir masaüstü uygulaması. Widget kelimeleri gösterir; Eğitim sayfası aralıklı tekrar (SRS)
+ile kalıcı öğrenmeyi sağlar.
 
 > **EN:** A Windows desktop app for Turkish speakers learning English. An always-on-top overlay widget
 > cycles through ~4,150 words, phrasal verbs, idioms and proverbs (with Turkish meanings, IPA and Turkish
@@ -14,17 +15,17 @@ Oyun oynarken, çalışırken, internette gezerken ekranın köşesinde sürekli
 
 ![Masaüstünde widget](assets/screenshots/desktop.png)
 
-## İndir
+## İndirme
 
-[**Releases**](https://github.com/sezerD8/emg-english/releases/latest) sayfasından
-`EMG-English.exe`'yi indirip çalıştır. Kurulum ya da Python gerekmez (Windows 10/11).
+[**Releases**](https://github.com/sezerD8/emg-english/releases/latest) sayfasından `EMG-English.exe`
+indirilip doğrudan çalıştırılabilir. Kurulum ya da Python gerekmez (Windows 10/11).
 
-> Uygulama dijital olarak imzalı olmadığı için Windows SmartScreen ilk açılışta uyarı verebilir:
-> **Ek bilgi → Yine de çalıştır**.
+> Uygulama dijital olarak imzalı olmadığı için Windows SmartScreen ilk açılışta uyarı verebilir;
+> **Ek bilgi → Yine de çalıştır** ile devam edilebilir.
 
-`EMG-English.exe --minimized` yalnızca widget + sistem tepsisi ile başlatır. Kişisel verilerin (ilerleme,
-ayarlar, yedekler) `%APPDATA%\EMGEnglish\` klasöründe tutulur; `.exe`'yi silmek ya da güncellemek
-ilerlemene dokunmaz.
+`EMG-English.exe --minimized` uygulamayı yalnızca widget + sistem tepsisi ile başlatır. Kişisel veriler
+(ilerleme, ayarlar, yedekler) `%APPDATA%\EMGEnglish\` klasöründe tutulur; `.exe`'yi silmek ya da güncellemek
+ilerlemeyi etkilemez.
 
 ## Ekran görüntüleri
 
@@ -40,29 +41,33 @@ ilerlemene dokunmaz.
 
 - **Ana sayfa** — günün kelimesi, bugün tekrar edilecekler ve günlük hedef, kısa bir ilerleme özeti.
 - **Eğitim** — 5 mod: Kartlar (aralıklı tekrar), İngilizce→Türkçe, Türkçe→İngilizce, Yazma, Dinleme.
-  Kaynak seçimi: akıllı, sadece tekrarlar, yeni kelimeler, widget'ta en çok gördüklerin, en çok yanıldıkların,
-  favoriler, bir deste… Kısayollar: `Space` cevabı göster, `1-4` puan/seçenek, `Enter` devam.
+  Kaynak olarak akıllı seçim, sadece tekrarlar, yeni kelimeler, widget'ta en çok görülenler, en çok yanlış
+  yapılanlar, favoriler ya da bir deste seçilebilir. Kısayollar: `Space` cevabı gösterir, `1-4` puan/seçenek
+  seçer, `Enter` devam ettirir.
 - **Widget** — değişme süresi, kelime kaynağı/sırası, seviyeler, arka plan rengi ve opaklığı, yazı opaklığı,
   her satırın boyutu/rengi, yazı tipi, hizalama, hazır temalar, 9 konum + sürükleyerek özel konum, monitör seçimi,
-  aktif hatırlama modu, tense cümlesi karıştırma, otomatik seslendirme, oyun modu. Canlı önizlemeli.
+  aktif hatırlama modu, tense cümlesi karıştırma, otomatik seslendirme ve oyun modu ayarlanabilir. Değişiklikler
+  canlı önizlemede görülür.
 - **Kütüphane** — ~4150 kelime ve ifadenin tamamı; arama, filtre, düzenleme, not, favori, desteye ekleme,
   internetten doldurma (ücretsiz sözlük + çeviri), CSV içe/dışa aktarma.
 - **Tenses** — 12 zaman + used to, şart cümleleri, edilgen yapı, modal fiiller. Türkçe açıklama, formül,
   kullanım yerleri, ipucu kelimeler, örnek cümleler, sık hatalar ve her konu için mini test + karışık test.
-- **Card Draft** — oyunlardaki draft gibi: her turda 3 kart çıkar (nadirlik = seviye), birini seç, kendi
-  desteni kur. Desteyi çalış veya widget'ta döndür. Kendi kartlarını da oluşturabilirsin.
+- **Card Draft** — oyunlardaki draft mantığıyla deste kurma: her turda 3 kart çıkar (nadirlik = seviye),
+  biri seçilir ve böylece kişisel bir deste oluşur. Deste çalışılabilir ya da widget'ta döndürülebilir;
+  yeni kartlar da eklenebilir.
 - **AI Koç** (isteğe bağlı) — Türkçe ve İngilizce bilen dil koçuyla sohbet: çeviri, gramer, kelime, telaffuz
   soruları, hata düzeltme, rol yapma ve konuşma pratiği. Ayrıntılar: [AI Koç](#ai-koç).
-- **Ayarlar** — adın, günlük hedef, Windows ile başlat, tepsiye küçült, ses ve konuşma hızı, okunuş yazım
-  tarzı (w / v, th / t), Gündüz / Gece teması, yedekleme–geri yükleme, ilerlemeyi sıfırlama.
+- **Ayarlar** — kullanıcı adı, günlük hedef, Windows ile başlatma, tepsiye küçültme, ses ve konuşma hızı,
+  okunuş yazım tarzı (w / v, th / t), Gündüz / Gece teması, yedekleme–geri yükleme, ilerlemeyi sıfırlama.
 
 ## Widget
 
 5 satır: **İngilizce kelime → Türkçe anlamı → fonetik (IPA) → Türkçe okunuşu → örnek cümle**. Widget →
-*İçerik* ile hangi türlerin döneceği seçilir. Arka planı şeffaf, her pencerenin ve oyunun üstünde durur,
+*İçerik* ile hangi türlerin döneceği seçilir. Arka planı şeffaftır, her pencerenin ve oyunun üstünde durur,
 görev çubuğunda görünmez.
 
-- Sürükle → taşı • Sağ tık → menü • Çift tık → seslendir • Fare üzerindeyken kelime değişmez
+- Sürükleyerek taşınır, sağ tıkla menü açılır, çift tıkla kelime seslendirilir. Fare üzerindeyken kelime
+  değişmez.
 - **Oyun modu**: tıklamalar widget'ın içinden geçer, oyunu engellemez.
 
 ### Tam ekran oyunlar
@@ -73,8 +78,8 @@ Widget ön plandaki uygulamayı izler:
   yenilenir, böylece kendini öne iten oyunlarda da üstte kalır.
 - **Exclusive (özel) tam ekran**: Windows bu modda hiçbir pencerenin oyunun üstüne çizilmesine izin vermez
   (Discord/Steam overlay'leri bunu oyunun içine kod enjekte ederek yapar; bu, hile korumalı oyunlarda ban
-  riski taşıdığı için yapılmadı). Bu modda kelime ve Türkçe anlamı **sesli okunur**. Görsel widget
-  istiyorsan oyunun görüntü ayarından *Borderless / Pencereli tam ekran*'ı seç.
+  riski taşıdığı için yapılmadı). Bu modda kelime ve Türkçe anlamı **sesli okunur**. Görsel widget için
+  oyunun görüntü ayarından *Borderless / Pencereli tam ekran* seçilmelidir.
 - Davranış Widget → *Tam ekran ve oyunlar* bölümünden seçilir.
 
 ### Global kısayollar (oyun içindeyken de çalışır)
@@ -82,35 +87,36 @@ Widget ön plandaki uygulamayı izler:
 | Kısayol | Eylem |
 |---|---|
 | `Ctrl+Alt+→` / `Ctrl+Alt+←` | Sonraki / önceki kelime |
-| `Ctrl+Alt+H` | Widget'ı gizle / göster |
-| `Ctrl+Alt+P` | Duraklat / devam |
-| `Ctrl+Alt+L` | Bu kelimeyi öğrendim |
-| `Ctrl+Alt+F` | Favori |
-| `Ctrl+Alt+S` | Seslendir |
-| `Ctrl+Alt+R` | Anlamı göster (aktif hatırlama) |
-| `Ctrl+Alt+C` | Oyun modunu aç / kapat |
+| `Ctrl+Alt+H` | Widget'ı gizleme / gösterme |
+| `Ctrl+Alt+P` | Duraklatma / devam |
+| `Ctrl+Alt+L` | Kelimeyi öğrenildi olarak işaretleme |
+| `Ctrl+Alt+F` | Favorilere ekleme |
+| `Ctrl+Alt+S` | Seslendirme |
+| `Ctrl+Alt+R` | Anlamı gösterme (aktif hatırlama) |
+| `Ctrl+Alt+C` | Oyun modunu açma / kapatma |
 
 ## Öğrenme mantığı
 
 - A1–A2 (en sık 2000 temel kelime: the, you, I…) listede yok; arşivi `app/data/words_archive/` klasöründe.
-  Kalan kelimeler sıklık sırasına göre B1 (ilk 1500) ve B2 (sonrası) olur. Kendi eklediklerin C1 olur.
+  Kalan kelimeler sıklık sırasına göre B1 (ilk 1500) ve B2 (sonrası) olur. Kullanıcının eklediği kelimeler C1
+  olur.
 - Tek kelimelerin yanında **phrasal verb**, **kalıp** (*it's no use doing something*), **hazır cümle**
   (*I'm on my way*), **deyim** (*break the ice*) ve **atasözü** (*better late than never*) da var. Her birinde
   Türkçe karşılık ve çevirili örnek cümle bulunur. Bu türler kelimelerin arasına eşit aralıklarla serpiştirilir.
-- **Akıllı widget**: öğrenmekte olduğun kelimeleri daha sık, sıradaki yeni kelimeleri (en az görülenler önce) ve
-  ara sıra öğrendiklerini gösterir. Widget'ta sık gördüğün yeni kelimeler Eğitim'de öncelikli gelir.
+- **Akıllı widget**: öğrenilmekte olan kelimeleri daha sık, sıradaki yeni kelimeleri (en az görülenler önce) ve
+  ara sıra öğrenilmiş kelimeleri gösterir. Widget'ta sık görülen yeni kelimeler Eğitim'de öncelikli gelir.
 - **Aralıklı tekrar (SM-2 benzeri)**: her doğru cevap bir sonraki tekrarı ileri atar (1 gün → 3 gün → …).
   Zamanında yapılan **4 başarılı tekrar** sonrası kelime "öğrenildi" olur. Yanlış cevap kelimeyi sıfırlar ve
   10 dk sonra tekrar sorar.
 
 ## AI Koç
 
-Koç, bilgisayarında kurulu [Claude Code](https://claude.com/claude-code)'u arka planda dil koçu olarak
-çalıştırır. **API anahtarı gerekmez**: Claude Code'da giriş yaptığın hesap kullanılır, EMG English hesap
+Koç, bilgisayarda kurulu [Claude Code](https://claude.com/claude-code)'u arka planda dil koçu olarak
+çalıştırır. **API anahtarı gerekmez**: Claude Code'da oturum açılmış hesap kullanılır, EMG English hesap
 bilgilerini görmez ve saklamaz.
 
 Ajanın hiçbir aracı yoktur (dosya okuyamaz, komut çalıştıramaz), sadece sohbet eder. Cevaplar ilerleme
-verine göre (zorlandığın kelimeler vb.) kişiselleşir. Sohbet saklanır, uygulama kapanıp açılınca kaldığı
+verisine göre (zorlanılan kelimeler vb.) kişiselleşir. Sohbet saklanır, uygulama kapanıp açılınca kaldığı
 yerden devam eder. Model seçilebilir (Opus / Sonnet / Haiku).
 
 Gereksinim: Claude Code kurulu ve bir terminalde `claude` yazılarak giriş yapılmış olmalı.
@@ -187,8 +193,8 @@ assets/emg.ico          .exe ikonu (tools/make_icon.py üretir)
 ## Katkı
 
 Hata bildirimi, öneri ve pull request'ler memnuniyetle karşılanır. Özellikle kelime listesindeki
-çeviri / IPA / örnek cümle düzeltmeleri çok değerli: `app/data/words/*.txt` dosyalarını düzenleyip
-`config.DATA_VERSION`'ı bir artırman yeterli. Büyük değişikliklerden önce bir issue açarak konuşalım.
+çeviri / IPA / örnek cümle düzeltmeleri çok değerlidir: `app/data/words/*.txt` dosyalarını düzenleyip
+`config.DATA_VERSION` değerini bir artırmak yeterlidir. Büyük değişikliklerden önce bir issue açılması önerilir.
 
 ## Lisans
 
