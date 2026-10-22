@@ -1,0 +1,458 @@
+# sıklık sırası ~500-1000 (A1)
+leg|n|bacak|leɡ
+arm|n|kol|ɑːrm
+foot|n|ayak|fʊt
+hair|n|saç|her
+mouth|n|ağız|maʊθ
+nose|n|burun|noʊz
+ear|n|kulak|ɪr
+tooth|n|diş|tuːθ
+back|n|sırt|bæk
+blood|n|kan|blʌd
+skin|n|cilt, deri|skɪn
+bed|n|yatak|bed
+chair|n|sandalye|tʃer
+window|n|pencere|ˈwɪndoʊ
+wall|n|duvar|wɔːl
+floor|n|zemin; kat|flɔːr
+kitchen|n|mutfak|ˈkɪtʃɪn
+garden|n|bahçe|ˈɡɑːrdən
+box|n|kutu|bɑːks
+bag|n|çanta|bæɡ
+key|n|anahtar|kiː
+clothes|n|kıyafetler|kloʊðz
+shirt|n|gömlek|ʃɜːrt
+shoe|n|ayakkabı|ʃuː
+dress|n|elbise|dres
+hat|n|şapka|hæt
+glass|n|bardak; cam|ɡlæs
+cup|n|fincan|kʌp
+bottle|n|şişe|ˈbɑːtəl
+plate|n|tabak|pleɪt
+money|n|para|ˈmʌni
+price|n|fiyat|praɪs
+cost|n,v|maliyet; mal olmak|kɔːst
+gift|n|hediye|ɡɪft
+card|n|kart|kɑːrd
+river|n|nehir|ˈrɪvər
+mountain|n|dağ|ˈmaʊntən
+lake|n|göl|leɪk
+forest|n|orman|ˈfɔːrɪst
+island|n|ada|ˈaɪlənd
+beach|n|plaj|biːtʃ
+sky|n|gökyüzü|skaɪ
+star|n|yıldız|stɑːr
+moon|n|ay (gök cismi)|muːn
+earth|n|dünya; toprak|ɜːrθ
+flower|n|çiçek|ˈflaʊər
+animal|n|hayvan|ˈænɪməl
+bird|n|kuş|bɜːrd
+horse|n|at|hɔːrs
+cow|n|inek|kaʊ
+chicken|n|tavuk|ˈtʃɪkɪn
+sheep|n|koyun|ʃiːp
+pig|n|domuz|pɪɡ
+mouse|n|fare|maʊs
+rice|n|pirinç|raɪs
+sugar|n|şeker|ˈʃʊɡər
+salt|n|tuz|sɔːlt
+cheese|n|peynir|tʃiːz
+butter|n|tereyağı|ˈbʌtər
+potato|n|patates|pəˈteɪtoʊ
+tomato|n|domates|təˈmeɪtoʊ
+orange|n,adj|portakal; turuncu|ˈɔːrɪndʒ
+banana|n|muz|bəˈnænə
+cake|n|pasta, kek|keɪk
+soup|n|çorba|suːp
+juice|n|meyve suyu|dʒuːs
+beer|n|bira|bɪr
+wine|n|şarap|waɪn
+yellow|adj|sarı|ˈjeloʊ
+brown|adj|kahverengi|braʊn
+gray|adj|gri|ɡreɪ
+pink|adj|pembe|pɪŋk
+purple|adj|mor|ˈpɜːrpəl
+tall|adj|uzun boylu|tɔːl
+fat|adj|şişman|fæt
+thin|adj|ince, zayıf|θɪn
+heavy|adj|ağır|ˈhevi
+fast|adj|hızlı|fæst
+slow|adj|yavaş|sloʊ
+quick|adj|çabuk, hızlı|kwɪk
+quiet|adj|sessiz|ˈkwaɪət
+loud|adj|yüksek sesli|laʊd
+rich|adj|zengin|rɪtʃ
+poor|adj|fakir|pʊr
+cheap|adj|ucuz|tʃiːp
+expensive|adj|pahalı|ɪkˈspensɪv
+new|adj|yeni|nuː
+modern|adj|modern|ˈmɑːdərn
+famous|adj|ünlü|ˈfeɪməs
+popular|adj|popüler|ˈpɑːpjələr
+busy|adj|meşgul|ˈbɪzi
+tired|adj|yorgun|ˈtaɪərd
+hungry|adj|aç|ˈhʌŋɡri
+thirsty|adj|susamış|ˈθɜːrsti
+sick|adj|hasta|sɪk
+ill|adj|hasta|ɪl
+angry|adj|kızgın|ˈæŋɡri
+sad|adj|üzgün|sæd
+afraid|adj|korkmuş|əˈfreɪd
+scared|adj|korkmuş|skerd
+bored|adj|sıkılmış|bɔːrd
+boring|adj|sıkıcı|ˈbɔːrɪŋ
+interesting|adj|ilginç|ˈɪntrəstɪŋ
+funny|adj|komik|ˈfʌni
+kind|adj|nazik|kaɪnd
+friendly|adj|arkadaş canlısı|ˈfrendli
+lucky|adj|şanslı|ˈlʌki
+careful|adj|dikkatli|ˈkerfəl
+dangerous|adj|tehlikeli|ˈdeɪndʒərəs
+safe|adj|güvenli|seɪf
+wrong|adj|yanlış|rɔːŋ
+correct|adj|doğru|kəˈrekt
+difficult|adj|zor|ˈdɪfɪkəlt
+wonderful|adj|harika|ˈwʌndərfəl
+amazing|adj|inanılmaz, muhteşem|əˈmeɪzɪŋ
+terrible|adj|berbat, korkunç|ˈterəbəl
+awful|adj|berbat|ˈɔːfəl
+perfect|adj|mükemmel|ˈpɜːrfɪkt
+excellent|adj|mükemmel|ˈeksələnt
+fine|adj|iyi; ince|faɪn
+cool|adj|serin; havalı|kuːl
+warm|adj|ılık, sıcak|wɔːrm
+wet|adj|ıslak|wet
+dry|adj|kuru|draɪ
+empty|adj|boş|ˈempti
+dirty|adj|kirli|ˈdɜːrti
+alone|adj|yalnız|əˈloʊn
+alive|adj|canlı, hayatta|əˈlaɪv
+dead|adj|ölü|ded
+married|adj|evli|ˈmærid
+single|adj|bekar; tek|ˈsɪŋɡəl
+next|adj|bir sonraki|nekst
+last|adj|son|læst
+front|n|ön|frʌnt
+top|n|üst, tepe|tɑːp
+bottom|n|alt, dip|ˈbɑːtəm
+middle|n|orta|ˈmɪdəl
+center|n|merkez|ˈsentər
+corner|n|köşe|ˈkɔːrnər
+left|adj,n|sol|left
+north|n|kuzey|nɔːrθ
+south|n|güney|saʊθ
+east|n|doğu|iːst
+west|n|batı|west
+inside|adv|içeride|ɪnˈsaɪd
+outside|adv|dışarıda|ˌaʊtˈsaɪd
+near|prep|yakın|nɪr
+above|prep|yukarısında|əˈbʌv
+below|prep|aşağısında|bɪˈloʊ
+next to|prep|yanında|ˈnekst tuː
+opposite|prep,adj|karşısında; zıt|ˈɑːpəzɪt
+everywhere|adv|her yerde|ˈevriwer
+somewhere|adv|bir yerde|ˈsʌmwer
+nowhere|adv|hiçbir yerde|ˈnoʊwer
+upstairs|adv|üst katta|ˌʌpˈsterz
+downstairs|adv|alt katta|ˌdaʊnˈsterz
+tonight|adv|bu gece|təˈnaɪt
+o'clock|adv|saat (tam)|əˈklɑːk
+Monday|n|Pazartesi|ˈmʌndeɪ
+Tuesday|n|Salı|ˈtuːzdeɪ
+Wednesday|n|Çarşamba|ˈwenzdeɪ
+Thursday|n|Perşembe|ˈθɜːrzdeɪ
+Friday|n|Cuma|ˈfraɪdeɪ
+Saturday|n|Cumartesi|ˈsætərdeɪ
+Sunday|n|Pazar|ˈsʌndeɪ
+January|n|Ocak|ˈdʒænjueri
+February|n|Şubat|ˈfebrueri
+March|n|Mart|mɑːrtʃ
+April|n|Nisan|ˈeɪprəl
+May|n|Mayıs|meɪ
+June|n|Haziran|dʒuːn
+July|n|Temmuz|dʒʊˈlaɪ
+August|n|Ağustos|ˈɔːɡəst
+September|n|Eylül|sepˈtembər
+October|n|Ekim|ɑːkˈtoʊbər
+November|n|Kasım|noʊˈvembər
+December|n|Aralık|dɪˈsembər
+eleven|num|on bir|ɪˈlevən
+twelve|num|on iki|twelv
+twenty|num|yirmi|ˈtwenti
+thirty|num|otuz|ˈθɜːrti
+forty|num|kırk|ˈfɔːrti
+fifty|num|elli|ˈfɪfti
+third|adj|üçüncü|θɜːrd
+half|n|yarım, yarı|hæf
+pair|n|çift|per
+dozen|n|düzine|ˈdʌzən
+piece|n|parça|piːs
+bit|n|parça; biraz|bɪt
+kind of|adv|biraz, bir tür|ˈkaɪnd əv
+sort|n|tür, çeşit|sɔːrt
+type|n|tip, tür|taɪp
+group|n|grup|ɡruːp
+list|n|liste|lɪst
+member|n|üye|ˈmembər
+boss|n|patron|bɔːs
+worker|n|işçi|ˈwɜːrkər
+manager|n|müdür, yönetici|ˈmænɪdʒər
+driver|n|sürücü|ˈdraɪvər
+farmer|n|çiftçi|ˈfɑːrmər
+artist|n|sanatçı|ˈɑːrtɪst
+player|n|oyuncu|ˈpleɪər
+singer|n|şarkıcı|ˈsɪŋər
+writer|n|yazar|ˈraɪtər
+nurse|n|hemşire|nɜːrs
+lawyer|n|avukat|ˈlɔːjər
+engineer|n|mühendis|ˌendʒɪˈnɪr
+soldier|n|asker|ˈsoʊldʒər
+king|n|kral|kɪŋ
+queen|n|kraliçe|kwiːn
+neighbor|n|komşu|ˈneɪbər
+guest|n|misafir|ɡest
+customer|n|müşteri|ˈkʌstəmər
+stranger|n|yabancı|ˈstreɪndʒər
+uncle|n|amca, dayı|ˈʌŋkəl
+aunt|n|teyze, hala|ænt
+cousin|n|kuzen|ˈkʌzən
+grandmother|n|büyükanne|ˈɡrænmʌðər
+grandfather|n|büyükbaba|ˈɡrænfɑːðər
+boyfriend|n|erkek arkadaş|ˈbɔɪfrend
+girlfriend|n|kız arkadaş|ˈɡɜːrlfrend
+people|n|insanlar|ˈpiːpəl
+men|n|adamlar|men
+women|n|kadınlar|ˈwɪmɪn
+children|n|çocuklar|ˈtʃɪldrən
+everybody|pron|herkes|ˈevribɑːdi
+somebody|pron|birisi|ˈsʌmbɑːdi
+nobody|pron|hiç kimse|ˈnoʊbɑːdi
+anyone|pron|herhangi biri|ˈeniwʌn
+none|pron|hiçbiri|nʌn
+whose|pron|kimin|huːz
+whom|pron|kimi, kime|huːm
+mine|pron|benimki|maɪn
+yours|pron|seninki|jʊrz
+ours|pron|bizimki|ˈaʊərz
+theirs|pron|onlarınki|ðerz
+hers|pron|onunki (kadın)|hɜːrz
+ourselves|pron|kendimiz|ˌaʊərˈselvz
+can't|modal|-emez|kænt
+must|modal|-meli, zorunda|mʌst
+might|modal|-ebilir (olasılık)|maɪt
+may|modal|-ebilir; izin|meɪ
+shall|modal|-elim mi; -ecek|ʃæl
+ought|modal|-meli (ought to)|ɔːt
+won't|modal|-meyecek|woʊnt
+don't|v|yapma; -mez|doʊnt
+doesn't|v|-mez (he/she/it)|ˈdʌzənt
+didn't|v|-medi|ˈdɪdənt
+isn't|v|değil|ˈɪzənt
+aren't|v|değiller|ɑːrnt
+wasn't|v|değildi|ˈwʌzənt
+going|v|gidiyor|ˈɡoʊɪŋ
+gonna|v|-ecek (going to)|ˈɡɑːnə
+wanna|v|istemek (want to)|ˈwɑːnə
+got|v|aldı; sahip olmak|ɡɑːt
+went|v|gitti|went
+came|v|geldi|keɪm
+saw|v|gördü|sɔː
+took|v|aldı|tʊk
+made|v|yaptı|meɪd
+knew|v|bildi|nuː
+thought|v,n|düşündü; düşünce|θɔːt
+told|v|söyledi, anlattı|toʊld
+found|v|buldu|faʊnd
+gave|v|verdi|ɡeɪv
+felt|v|hissetti|felt
+left|v|ayrıldı, bıraktı|left
+became|v|oldu|bɪˈkeɪm
+brought|v|getirdi|brɔːt
+began|v|başladı|bɪˈɡæn
+kept|v|tuttu|kept
+held|v|tuttu|held
+wrote|v|yazdı|roʊt
+stood|v|durdu|stʊd
+heard|v|duydu|hɜːrd
+meant|v|kastetti|ment
+met|v|tanıştı|met
+ran|v|koştu|ræn
+paid|v|ödedi|peɪd
+sat|v|oturdu|sæt
+spoke|v|konuştu|spoʊk
+lay|v|uzanmak; yatırmak|leɪ
+lie|v,n|yalan söylemek; uzanmak|laɪ
+set|v|ayarladı; koymak|set
+built|v|inşa etti|bɪlt
+bought|v|satın aldı|bɔːt
+caught|v|yakaladı|kɔːt
+taught|v|öğretti|tɔːt
+sold|v|sattı|soʊld
+sent|v|gönderdi|sent
+spent|v|harcadı|spent
+lost|v,adj|kaybetti; kayıp|lɔːst
+won|v|kazandı|wʌn
+fell|v|düştü|fel
+ate|v|yedi|eɪt
+drank|v|içti|dræŋk
+slept|v|uyudu|slept
+drove|v|sürdü|droʊv
+flew|v|uçtu|fluː
+broke|v,adj|kırdı; meteliksiz|broʊk
+chose|v|seçti|tʃoʊz
+forgot|v|unuttu|fərˈɡɑːt
+understood|v|anladı|ˌʌndərˈstʊd
+gone|v|gitmiş|ɡɔːn
+done|v|yapılmış|dʌn
+seen|v|görülmüş|siːn
+taken|v|alınmış|ˈteɪkən
+given|v|verilmiş|ˈɡɪvən
+known|v|bilinen|noʊn
+written|v|yazılmış|ˈrɪtən
+eaten|v|yenmiş|ˈiːtən
+spoken|v|konuşulmuş|ˈspoʊkən
+broken|adj|kırık|ˈbroʊkən
+chosen|v|seçilmiş|ˈtʃoʊzən
+fallen|v|düşmüş|ˈfɔːlən
+forgotten|v|unutulmuş|fərˈɡɑːtən
+hidden|adj|gizli|ˈhɪdən
+born|adj|doğmuş|bɔːrn
+hide|v|saklamak, saklanmak|haɪd
+catch|v|yakalamak|kætʃ
+throw|v|fırlatmak|θroʊ
+pull|v|çekmek|pʊl
+push|v|itmek|pʊʃ
+draw|v|çizmek|drɔː
+paint|v|boyamak|peɪnt
+jump|v|zıplamak|dʒʌmp
+climb|v|tırmanmak|klaɪm
+ride|v|binmek, sürmek|raɪd
+shout|v|bağırmak|ʃaʊt
+cross|v|karşıdan karşıya geçmek|krɔːs
+borrow|v|ödünç almak|ˈbɑːroʊ
+lend|v|ödünç vermek|lend
+rent|v|kiralamak|rent
+fix|v|tamir etmek|fɪks
+repair|v|onarmak|rɪˈper
+order|v,n|sipariş etmek; düzen|ˈɔːrdər
+count|v|saymak|kaʊnt
+spell|v|hecelemek|spel
+repeat|v|tekrarlamak|rɪˈpiːt
+practice|v,n|pratik yapmak|ˈpræktɪs
+guess|v|tahmin etmek|ɡes
+imagine|v|hayal etmek|ɪˈmædʒɪn
+dream|n,v|rüya, hayal|driːm
+wish|v,n|dilemek; dilek|wɪʃ
+prefer|v|tercih etmek|prɪˈfɜːr
+hate|v|nefret etmek|heɪt
+mind|v|sakıncası olmak|maɪnd
+matter|v,n|önemli olmak; mesele|ˈmætər
+belong|v|ait olmak|bɪˈlɔːŋ
+share|v|paylaşmak|ʃer
+save|v|kurtarmak; biriktirmek|seɪv
+arrive|v|varmak|əˈraɪv
+enter|v|girmek|ˈentər
+invite|v|davet etmek|ɪnˈvaɪt
+introduce|v|tanıtmak|ˌɪntrəˈduːs
+thank|v|teşekkür etmek|θæŋk
+welcome|int,v|hoş geldin; karşılamak|ˈwelkəm
+goodbye|int|hoşça kal|ɡʊdˈbaɪ
+bye|int|güle güle|baɪ
+hi|int|selam|haɪ
+oh|int|oh, ah|oʊ
+wow|int|vay|waʊ
+hey|int|hey|heɪ
+congratulations|int|tebrikler|kənˌɡrætʃəˈleɪʃənz
+excuse|v|affetmek (excuse me)|ɪkˈskjuːz
+pardon|int|efendim? pardon|ˈpɑːrdən
+mister|n|bay|ˈmɪstər
+madam|n|hanımefendi|ˈmædəm
+sir|n|efendim, beyefendi|sɜːr
+fun|n,adj|eğlence; eğlenceli|fʌn
+joke|n|şaka|dʒoʊk
+toy|n|oyuncak|tɔɪ
+ball|n|top|bɔːl
+football|n|futbol|ˈfʊtbɔːl
+sport|n|spor|spɔːrt
+match|n|maç; kibrit|mætʃ
+goal|n|gol; hedef|ɡoʊl
+race|n|yarış; ırk|reɪs
+hobby|n|hobi|ˈhɑːbi
+camera|n|kamera|ˈkæmərə
+photo|n|fotoğraf|ˈfoʊtoʊ
+television|n|televizyon|ˈtelɪvɪʒən
+TV|n|televizyon|ˌtiːˈviː
+radio|n|radyo|ˈreɪdioʊ
+video|n|video|ˈvɪdioʊ
+online|adj,adv|çevrimiçi|ˌɑːnˈlaɪn
+website|n|web sitesi|ˈwebsaɪt
+screen|n|ekran|skriːn
+keyboard|n|klavye|ˈkiːbɔːrd
+mobile|adj|mobil, taşınabilir|ˈmoʊbəl
+app|n|uygulama|æp
+password|n|şifre|ˈpæswɜːrd
+newspaper|n|gazete|ˈnuːzpeɪpər
+magazine|n|dergi|ˈmæɡəziːn
+dictionary|n|sözlük|ˈdɪkʃəneri
+pen|n|kalem (tükenmez)|pen
+pencil|n|kurşun kalem|ˈpensəl
+desk|n|çalışma masası|desk
+board|n|tahta; kurul|bɔːrd
+homework|n|ev ödevi|ˈhoʊmwɜːrk
+university|n|üniversite|ˌjuːnɪˈvɜːrsəti
+college|n|üniversite, yüksekokul|ˈkɑːlɪdʒ
+library|n|kütüphane|ˈlaɪbreri
+museum|n|müze|mjuˈziːəm
+church|n|kilise|tʃɜːrtʃ
+mosque|n|cami|mɑːsk
+park|n|park|pɑːrk
+airport|n|havalimanı|ˈerpɔːrt
+station|n|istasyon|ˈsteɪʃən
+bridge|n|köprü|brɪdʒ
+village|n|köy|ˈvɪlɪdʒ
+building|n|bina|ˈbɪldɪŋ
+apartment|n|daire|əˈpɑːrtmənt
+flat|n,adj|daire; düz|flæt
+bathroom|n|banyo|ˈbæθruːm
+bedroom|n|yatak odası|ˈbedruːm
+toilet|n|tuvalet|ˈtɔɪlət
+shower|n|duş|ˈʃaʊər
+stairs|n|merdiven|sterz
+roof|n|çatı|ruːf
+gate|n|kapı (bahçe), geçit|ɡeɪt
+map|n|harita|mæp
+trip|n|gezi|trɪp
+journey|n|yolculuk|ˈdʒɜːrni
+tour|n|tur|tʊr
+passport|n|pasaport|ˈpæspɔːrt
+luggage|n|bagaj|ˈlʌɡɪdʒ
+bike|n|bisiklet|baɪk
+bicycle|n|bisiklet|ˈbaɪsɪkəl
+boat|n|tekne|boʊt
+ship|n|gemi|ʃɪp
+taxi|n|taksi|ˈtæksi
+truck|n|kamyon|trʌk
+traffic|n|trafik|ˈtræfɪk
+accident|n|kaza|ˈæksɪdənt
+problem|n|problem|ˈprɑːbləm
+help|n|yardım|help
+idea|n|fikir|aɪˈdiːə
+plan|n|plan|plæn
+rule|n|kural|ruːl
+way|n|yol|weɪ
+chance|n|şans, fırsat|tʃæns
+luck|n|şans|lʌk
+mistake|n|hata|mɪˈsteɪk
+fault|n|kusur, hata|fɔːlt
+truth|n|gerçek|truːθ
+secret|n|sır|ˈsiːkrət
+answer|n|cevap|ˈænsər
+choice|n|seçim|tʃɔɪs
+decision|n|karar|dɪˈsɪʒən
+reason|n|neden|ˈriːzən
+dream|n|rüya|driːm
+feeling|n|his, duygu|ˈfiːlɪŋ
+fear|n|korku|fɪr
+pain|n|acı, ağrı|peɪn
+peace|n|barış, huzur|piːs
+hope|n|umut|hoʊp

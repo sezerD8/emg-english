@@ -1,0 +1,103 @@
+# Atasözleri ve özdeyişler (B2)
+# english|tür|türkçe|ipa|örnek|örnek (türkçe)
+#! level=B2
+actions speak louder than words|prov|söz değil icraat önemlidir|ˈækʃənz spiːk laʊdər ðæn wɜːrdz|Stop promising. Actions speak louder than words.|Söz vermeyi bırak. Önemli olan icraat.
+better late than never|prov|geç olsun güç olmasın|ˈbetər leɪt ðæn ˈnevər|You finally finished it. Better late than never!|Sonunda bitirdin. Geç olsun güç olmasın!
+better safe than sorry|prov|sonradan pişman olmaktansa tedbirli olmak iyidir|ˈbetər seɪf ðæn ˈsɑːri|Take a coat, better safe than sorry.|Mont al, sonra pişman olmaktansa tedbirli ol.
+don't count your chickens before they hatch|prov|dereyi görmeden paçaları sıvama|doʊnt kaʊnt jʊr ˈtʃɪkɪnz bɪˈfɔːr ðeɪ hætʃ|You haven't got the job yet. Don't count your chickens before they hatch.|İşi daha almadın. Dereyi görmeden paçaları sıvama.
+don't cry over spilled milk|prov|olan olmuş, üzülmenin faydası yok|doʊnt kraɪ ˈoʊvər spɪld mɪlk|It's broken now. Don't cry over spilled milk.|Artık kırıldı. Olan olmuş, üzülme.
+don't judge a book by its cover|prov|görünüşe aldanma|doʊnt dʒʌdʒ ə bʊk baɪ ɪts ˈkʌvər|He looks scary, but don't judge a book by its cover.|Korkutucu görünüyor ama görünüşe aldanma.
+don't put off until tomorrow what you can do today|prov|bugünün işini yarına bırakma|doʊnt pʊt ɔːf ənˈtɪl təˈmɑːroʊ wʌt juː kæn duː təˈdeɪ|Do your homework now. Don't put off until tomorrow what you can do today.|Ödevini şimdi yap. Bugünün işini yarına bırakma.
+easy come, easy go|prov|haydan gelen huya gider|ˈiːzi kʌm ˈiːzi ɡoʊ|I won fifty dollars and lost it the same day. Easy come, easy go.|Elli dolar kazandım, aynı gün kaybettim. Haydan gelen huya gider.
+every cloud has a silver lining|prov|her işte bir hayır vardır|ˈevri klaʊd hæz ə ˈsɪlvər laɪnɪŋ|I missed the train, but I met an old friend. Every cloud has a silver lining.|Treni kaçırdım ama eski bir arkadaşla karşılaştım. Her işte bir hayır var.
+first come, first served|prov|ilk gelen alır, önce gelen önce alır|fɜːrst kʌm fɜːrst sɜːrvd|The seats are first come, first served.|Koltuklar ilk gelene veriliyor.
+honesty is the best policy|prov|doğruluk en iyi yoldur|ˈɑːnəsti ɪz ðə best ˈpɑːləsi|Tell her what happened. Honesty is the best policy.|Ona ne olduğunu anlat. Doğruluk en iyi yoldur.
+if it ain't broke, don't fix it|prov|çalışıyorsa kurcalama|ɪf ɪt eɪnt broʊk doʊnt fɪks ɪt|The old system works fine. If it ain't broke, don't fix it.|Eski sistem gayet iyi çalışıyor. Çalışıyorsa kurcalama.
+it takes two to tango|prov|tek elden ses çıkmaz|ɪt teɪks tuː tə ˈtæŋɡoʊ|Don't blame only him. It takes two to tango.|Sadece onu suçlama. Tek elden ses çıkmaz.
+laughter is the best medicine|prov|gülmek en iyi ilaçtır|ˈlæftər ɪz ðə best ˈmedɪsən|Watch a comedy tonight. Laughter is the best medicine.|Bu akşam bir komedi izle. Gülmek en iyi ilaçtır.
+look before you leap|prov|atlamadan önce bak, ince eleyip sık doku|lʊk bɪˈfɔːr juː liːp|Read the contract first. Look before you leap.|Önce sözleşmeyi oku. Atlamadan önce bak.
+no pain, no gain|prov|emek olmadan yemek olmaz|noʊ peɪn noʊ ɡeɪn|My legs hurt after the gym, but no pain, no gain.|Spordan sonra bacaklarım ağrıyor ama emek olmadan yemek olmaz.
+practice makes perfect|prov|işleyen demir ışıldar, pratik mükemmelleştirir|ˈpræktɪs meɪks ˈpɜːrfɪkt|Keep playing the guitar. Practice makes perfect.|Gitar çalmaya devam et. İşleyen demir ışıldar.
+the early bird catches the worm|prov|erken kalkan yol alır|ðə ˈɜːrli bɜːrd kætʃɪz ðə wɜːrm|Get there at seven. The early bird catches the worm.|Oraya yedide git. Erken kalkan yol alır.
+time is money|prov|vakit nakittir|taɪm ɪz ˈmʌni|Hurry up, time is money!|Acele et, vakit nakittir!
+two heads are better than one|prov|akıl akıldan üstündür|tuː hedz ɑːr ˈbetər ðæn wʌn|Let's solve it together. Two heads are better than one.|Birlikte çözelim. Akıl akıldan üstündür.
+when in Rome, do as the Romans do|prov|gittiğin yerin adetine uy|wen ɪn roʊm duː æz ðə ˈroʊmənz duː|Everyone eats with their hands here. When in Rome, do as the Romans do.|Burada herkes eliyle yiyor. Gittiğin yerin adetine uy.
+where there's a will, there's a way|prov|isteyen her şeyi başarır, azmin elinden bir şey kurtulmaz|wer ðerz ə wɪl ðerz ə weɪ|It's hard, but where there's a will, there's a way.|Zor ama azmin elinden bir şey kurtulmaz.
+you can't have your cake and eat it too|prov|hem ye hem doy olmaz, ikisi birden olmaz|juː kænt hæv jʊr keɪk ənd iːt ɪt tuː|You want a big house and no debt? You can't have your cake and eat it too.|Hem büyük ev hem borçsuzluk mu? İkisi birden olmaz.
+all good things must come to an end|prov|her güzel şeyin bir sonu vardır|ɔːl ɡʊd θɪŋz mʌst kʌm tə ən end|The holiday is over. All good things must come to an end.|Tatil bitti. Her güzel şeyin bir sonu var.
+a picture is worth a thousand words|prov|bir resim bin kelimeye bedeldir|ə ˈpɪktʃər ɪz wɜːrθ ə ˈθaʊzənd wɜːrdz|Just show them the photo. A picture is worth a thousand words.|Onlara fotoğrafı göster. Bir resim bin kelimeye bedel.
+absence makes the heart grow fonder|prov|ayrılık özlemi, sevgiyi artırır|ˈæbsəns meɪks ðə hɑːrt ɡroʊ ˈfɑːndər|We see each other less now, but absence makes the heart grow fonder.|Artık daha az görüşüyoruz ama ayrılık sevgiyi artırıyor.
+out of sight, out of mind|prov|gözden ırak olan gönülden de ırak olur|aʊt əv saɪt aʊt əv maɪnd|Since he moved away, he never calls. Out of sight, out of mind.|Taşındığından beri hiç aramıyor. Gözden ırak, gönülden ırak.
+beggars can't be choosers|prov|dilenciye hıyar vermişler, eğri diye beğenmemiş|ˈbeɡərz kænt biː ˈtʃuːzərz|It's not my favorite, but beggars can't be choosers.|En sevdiğim değil ama muhtaç olan seçici olamaz.
+birds of a feather flock together|prov|benzer benzeri çeker, tencere yuvarlanmış kapağını bulmuş|bɜːrdz əv ə ˈfeðər flɑːk təˈɡeðər|They're both lazy. Birds of a feather flock together.|İkisi de tembel. Tencere yuvarlanmış kapağını bulmuş.
+blood is thicker than water|prov|kan sudan koyudur|blʌd ɪz θɪkər ðæn ˈwɔːtər|He helped his brother first. Blood is thicker than water.|Önce kardeşine yardım etti. Kan sudan koyudur.
+curiosity killed the cat|prov|merak kediyi öldürdü, fazla merak başa bela|ˌkjʊriˈɑːsəti kɪld ðə kæt|Don't open his letters. Curiosity killed the cat.|Mektuplarını açma. Fazla merak başa beladır.
+don't bite the hand that feeds you|prov|sana iyilik edene nankörlük etme|doʊnt baɪt ðə hænd ðæt fiːdz juː|Don't criticize your boss in public. Don't bite the hand that feeds you.|Patronunu herkesin önünde eleştirme. Ekmek yediğin kapıya nankörlük etme.
+don't put all your eggs in one basket|prov|bütün yumurtaları aynı sepete koyma|doʊnt pʊt ɔːl jʊr eɡz ɪn wʌn ˈbæskɪt|Invest in different things. Don't put all your eggs in one basket.|Farklı şeylere yatırım yap. Bütün yumurtaları aynı sepete koyma.
+every dog has its day|prov|herkesin bir gün şansı döner|ˈevri dɔːɡ hæz ɪts deɪ|He lost every match, but every dog has its day.|Her maçı kaybetti ama herkesin bir gün şansı döner.
+fortune favors the bold|prov|talih cesurlardan yanadır|ˈfɔːrtʃən ˈfeɪvərz ðə boʊld|Ask her out! Fortune favors the bold.|Ona çıkma teklif et! Talih cesurlardan yanadır.
+good things come to those who wait|prov|sabreden derviş muradına ermiş|ɡʊd θɪŋz kʌm tə ðoʊz huː weɪt|Be patient. Good things come to those who wait.|Sabırlı ol. Sabreden derviş muradına ermiş.
+great minds think alike|prov|büyük beyinler aynı düşünür (şaka yollu)|ɡreɪt maɪndz θɪŋk əˈlaɪk|You ordered the same pizza? Great minds think alike!|Aynı pizzayı mı söyledin? Büyük beyinler aynı düşünür!
+haste makes waste|prov|acele işe şeytan karışır|heɪst meɪks weɪst|Slow down and check your work. Haste makes waste.|Yavaşla ve işini kontrol et. Acele işe şeytan karışır.
+if you can't beat them, join them|prov|yenemiyorsan onlara katıl|ɪf juː kænt biːt ðem dʒɔɪn ðem|Everyone uses this app now. If you can't beat them, join them.|Artık herkes bu uygulamayı kullanıyor. Yenemiyorsan katıl.
+knowledge is power|prov|bilgi güçtür|ˈnɑːlɪdʒ ɪz ˈpaʊər|Read as much as you can. Knowledge is power.|Okuyabildiğin kadar oku. Bilgi güçtür.
+let sleeping dogs lie|prov|uyuyan yılanın kuyruğuna basma|let sliːpɪŋ dɔːɡz laɪ|Don't bring up that old argument. Let sleeping dogs lie.|O eski tartışmayı açma. Uyuyan yılanın kuyruğuna basma.
+money doesn't grow on trees|prov|para ağaçta yetişmiyor|ˈmʌni ˈdʌzənt ɡroʊ ɑːn triːz|Turn off the lights. Money doesn't grow on trees!|Işıkları kapat. Para ağaçta yetişmiyor!
+necessity is the mother of invention|prov|ihtiyaç icadın anasıdır|nəˈsesəti ɪz ðə ˈmʌðər əv ɪnˈvenʃən|We had no table, so we used a box. Necessity is the mother of invention.|Masamız yoktu, kutu kullandık. İhtiyaç icadın anasıdır.
+no news is good news|prov|haber yoksa iyi haber demektir|noʊ nuːz ɪz ɡʊd nuːz|They haven't called yet, but no news is good news.|Henüz aramadılar ama haber olmaması iyiye işaret.
+old habits die hard|prov|can çıkmadan huy çıkmaz, eski alışkanlıklar zor bırakılır|oʊld ˈhæbɪts daɪ hɑːrd|I still wake up at six on Sundays. Old habits die hard.|Pazar günleri hâlâ altıda uyanıyorum. Eski alışkanlıklar zor bırakılır.
+practice what you preach|prov|söylediğini önce kendin uygula|ˈpræktɪs wʌt juː priːtʃ|You tell me to eat healthy, but you eat fast food. Practice what you preach!|Bana sağlıklı ye diyorsun ama fast food yiyorsun. Önce kendin uygula!
+Rome wasn't built in a day|prov|Roma bir günde kurulmadı, sabırla koruk helva olur|roʊm ˈwɑːzənt bɪlt ɪn ə deɪ|Learning English takes time. Rome wasn't built in a day.|İngilizce öğrenmek zaman alır. Sabırla koruk helva olur.
+slow and steady wins the race|prov|yavaş ama istikrarlı giden kazanır|sloʊ ənd ˈstedi wɪnz ðə reɪs|Study a little every day. Slow and steady wins the race.|Her gün biraz çalış. İstikrarlı olan kazanır.
+strike while the iron is hot|prov|demir tavında dövülür|straɪk waɪl ðə ˈaɪərn ɪz hɑːt|Prices are low now. Strike while the iron is hot.|Fiyatlar şu an düşük. Demir tavında dövülür.
+the grass is always greener on the other side|prov|komşunun tavuğu komşuya kaz görünür|ðə ɡræs ɪz ˈɔːlweɪz ɡriːnər ɑːn ðə ˈʌðər saɪd|You want his job? The grass is always greener on the other side.|Onun işini mi istiyorsun? Komşunun tavuğu komşuya kaz görünür.
+the pen is mightier than the sword|prov|kalem kılıçtan güçlüdür|ðə pen ɪz ˈmaɪtiər ðæn ðə sɔːrd|Write about it. The pen is mightier than the sword.|Bunun hakkında yaz. Kalem kılıçtan güçlüdür.
+there's no place like home|prov|ev gibisi yoktur|ðerz noʊ pleɪs laɪk hoʊm|The trip was great, but there's no place like home.|Gezi harikaydı ama ev gibisi yok.
+there's no such thing as a free lunch|prov|bedava peynir fare kapanında olur|ðerz noʊ sʌtʃ θɪŋ æz ə friː lʌntʃ|A free phone? There's no such thing as a free lunch.|Bedava telefon mu? Bedava peynir fare kapanında olur.
+time heals all wounds|prov|zaman her yarayı iyileştirir|taɪm hiːlz ɔːl wuːndz|It hurts now, but time heals all wounds.|Şimdi acıtıyor ama zaman her yarayı iyileştirir.
+too many cooks spoil the broth|prov|kaptan çok olursa gemi batar|tuː ˈmeni kʊks spɔɪl ðə brɔːθ|Let one person make the decision. Too many cooks spoil the broth.|Kararı bir kişi versin. Kaptan çok olursa gemi batar.
+two wrongs don't make a right|prov|kötülüğe kötülükle karşılık vermek haklı çıkarmaz|tuː rɔːŋz doʊnt meɪk ə raɪt|He lied to you, but two wrongs don't make a right.|Sana yalan söyledi ama kötülüğe kötülükle karşılık vermek seni haklı çıkarmaz.
+united we stand, divided we fall|prov|birlikten kuvvet doğar|juˈnaɪtɪd wiː stænd dɪˈvaɪdɪd wiː fɔːl|We must work together. United we stand, divided we fall.|Birlikte çalışmalıyız. Birlikten kuvvet doğar.
+what goes around comes around|prov|ne ekersen onu biçersin, eden bulur|wʌt ɡoʊz əˈraʊnd kʌmz əˈraʊnd|He cheated others, and now he was cheated. What goes around comes around.|Başkalarını kandırdı, şimdi kendisi kandırıldı. Eden bulur.
+you reap what you sow|prov|ne ekersen onu biçersin|juː riːp wʌt juː soʊ|You didn't study, now you failed. You reap what you sow.|Çalışmadın, şimdi kaldın. Ne ekersen onu biçersin.
+you can't teach an old dog new tricks|prov|ağaç yaşken eğilir, eski alışkanlıklar kolay değişmez|juː kænt tiːtʃ ən oʊld dɔːɡ nuː trɪks|My grandpa won't use a smartphone. You can't teach an old dog new tricks.|Dedem akıllı telefon kullanmıyor. Ağaç yaşken eğilir.
+a friend in need is a friend indeed|prov|dost kara günde belli olur|ə frend ɪn niːd ɪz ə frend ɪnˈdiːd|He helped me when I had nothing. A friend in need is a friend indeed.|Hiçbir şeyim yokken bana yardım etti. Dost kara günde belli olur.
+a leopard can't change its spots|prov|can çıkar huy çıkmaz|ə ˈlepərd kænt tʃeɪndʒ ɪts spɑːts|He promised to change, but a leopard can't change its spots.|Değişeceğine söz verdi ama can çıkar huy çıkmaz.
+all that glitters is not gold|prov|her parlayan altın değildir|ɔːl ðæt ˈɡlɪtərz ɪz nɑːt ɡoʊld|The job looks perfect, but all that glitters is not gold.|İş mükemmel görünüyor ama her parlayan altın değildir.
+an eye for an eye|prov|göze göz dişe diş|ən aɪ fər ən aɪ|He believes in an eye for an eye.|O, göze göz dişe diş anlayışına inanıyor.
+appearances can be deceptive|prov|görünüşe aldanmamak gerek|əˈpɪrənsɪz kæn biː dɪˈseptɪv|He seems quiet, but appearances can be deceptive.|Sessiz görünüyor ama görünüşe aldanmamak lazım.
+barking dogs seldom bite|prov|havlayan köpek ısırmaz|bɑːrkɪŋ dɔːɡz ˈseldəm baɪt|He shouts a lot, but barking dogs seldom bite.|Çok bağırır ama havlayan köpek ısırmaz.
+beauty is in the eye of the beholder|prov|güzellik bakanın gözündedir|ˈbjuːti ɪz ɪn ðə aɪ əv ðə bɪˈhoʊldər|You think it's ugly? Beauty is in the eye of the beholder.|Çirkin mi buldun? Güzellik bakanın gözündedir.
+don't look a gift horse in the mouth|prov|bahşiş atın dişine bakılmaz|doʊnt lʊk ə ɡɪft hɔːrs ɪn ðə maʊθ|It's a free phone. Don't look a gift horse in the mouth.|Bedava telefon. Bahşiş atın dişine bakılmaz.
+every little bit helps|prov|damlaya damlaya göl olur|ˈevri ˈlɪtəl bɪt helps|Save a little each month. Every little bit helps.|Her ay biraz biriktir. Damlaya damlaya göl olur.
+many hands make light work|prov|çok el yükü hafifletir, birlikten kuvvet doğar|ˈmeni hændz meɪk laɪt wɜːrk|Let's all clean together. Many hands make light work.|Hep birlikte temizleyelim. Çok el yükü hafifletir.
+silence is golden|prov|söz gümüşse sükût altındır|ˈsaɪləns ɪz ˈɡoʊldən|Sometimes it's better to say nothing. Silence is golden.|Bazen hiçbir şey söylememek daha iyidir. Söz gümüşse sükût altındır.
+still waters run deep|prov|durgun sular derin akar|stɪl ˈwɔːtərz rʌn diːp|She doesn't talk much, but still waters run deep.|Pek konuşmaz ama durgun sular derin akar.
+the apple doesn't fall far from the tree|prov|armut dibine düşer|ðə ˈæpəl ˈdʌzənt fɔːl fɑːr frʌm ðə triː|He's a great cook like his father. The apple doesn't fall far from the tree.|Babası gibi harika bir aşçı. Armut dibine düşer.
+the squeaky wheel gets the grease|prov|ağlamayan çocuğa meme vermezler|ðə ˈskwiːki wiːl ɡets ðə ɡriːs|Complain to the manager. The squeaky wheel gets the grease.|Müdüre şikâyet et. Ağlamayan çocuğa meme vermezler.
+there's a first time for everything|prov|her şeyin bir ilki vardır|ðerz ə fɜːrst taɪm fər ˈevriθɪŋ|I've never cooked before, but there's a first time for everything.|Daha önce hiç yemek yapmadım ama her şeyin bir ilki var.
+tomorrow is another day|prov|yarın yeni bir gün|təˈmɑːroʊ ɪz əˈnʌðər deɪ|Don't worry about it now. Tomorrow is another day.|Şimdi kafana takma. Yarın yeni bir gün.
+walls have ears|prov|yerin kulağı var|wɔːlz hæv ɪrz|Speak quietly. Walls have ears.|Sessiz konuş. Yerin kulağı var.
+when it rains, it pours|prov|aksilikler hep üst üste gelir|wen ɪt reɪnz ɪt pɔːrz|My car broke down and I lost my wallet. When it rains, it pours.|Arabam bozuldu, cüzdanımı da kaybettim. Aksilikler hep üst üste gelir.
+you can lead a horse to water, but you can't make it drink|prov|atı suya götürebilirsin ama içiremezsin|juː kæn liːd ə hɔːrs tə ˈwɔːtər bʌt juː kænt meɪk ɪt drɪŋk|I gave him the books, but you can lead a horse to water, but you can't make it drink.|Kitapları ona verdim ama atı suya götürebilirsin, içiremezsin.
+you only live once|prov|dünyaya bir kere geliyorsun|juː ˈoʊnli lɪv wʌns|Go travel! You only live once.|Git gez! Dünyaya bir kere geliyorsun.
+a bird in the hand is worth two in the bush|prov|bugünün tavuğu yarının kazından iyidir|ə bɜːrd ɪn ðə hænd ɪz wɜːrθ tuː ɪn ðə bʊʃ|Take the job you were offered. A bird in the hand is worth two in the bush.|Teklif edilen işi kabul et. Bugünün tavuğu yarının kazından iyidir.
+a chain is only as strong as its weakest link|prov|zincir en zayıf halkası kadar güçlüdür|ə tʃeɪn ɪz ˈoʊnli æz strɔːŋ æz ɪts wiːkɪst lɪŋk|We need everyone to train. A chain is only as strong as its weakest link.|Herkesin antrenman yapması lazım. Zincir en zayıf halkası kadar güçlüdür.
+a watched pot never boils|prov|beklenen şey bir türlü gelmez|ə wɑːtʃt pɑːt ˈnevər bɔɪlz|Stop checking your phone. A watched pot never boils.|Telefonuna bakmayı bırak. Beklenen şey bir türlü gelmez.
+better the devil you know|prov|bilinen şeytan bilinmeyen melekten iyidir|ˈbetər ðə ˈdevəl juː noʊ|I'll keep my old phone company. Better the devil you know.|Eski operatörümde kalacağım. Bilinen şeytan bilinmeyen melekten iyidir.
+don't throw the baby out with the bathwater|prov|pireye kızıp yorgan yakma|doʊnt θroʊ ðə ˈbeɪbi aʊt wɪð ðə ˈbæθwɔːtər|The plan has some problems, but don't throw the baby out with the bathwater.|Planda bazı sorunlar var ama pireye kızıp yorgan yakma.
+lightning never strikes twice|prov|aynı şey iki kez olmaz|ˈlaɪtnɪŋ ˈnevər straɪks twaɪs|Don't worry, lightning never strikes twice.|Merak etme, aynı şey iki kez olmaz.
+the customer is always right|prov|müşteri her zaman haklıdır|ðə ˈkʌstəmər ɪz ˈɔːlweɪz raɪt|Just give him a refund. The customer is always right.|Parasını iade et. Müşteri her zaman haklıdır.
+the end justifies the means|prov|amaca giden her yol mubahtır|ðə end ˈdʒʌstɪfaɪz ðə miːnz|He believes the end justifies the means.|O, amaca giden her yolun mubah olduğuna inanıyor.
+the more, the merrier|prov|ne kadar kalabalık o kadar iyi|ðə mɔːr ðə ˈmeriər|Can I bring a friend? Sure, the more, the merrier!|Bir arkadaşımı getirebilir miyim? Tabii, ne kadar kalabalık o kadar iyi!
+there's no smoke without fire|prov|ateş olmayan yerden duman çıkmaz|ðerz noʊ smoʊk wɪˈðaʊt ˈfaɪər|Everyone says he's lying. There's no smoke without fire.|Herkes yalan söylediğini söylüyor. Ateş olmayan yerden duman çıkmaz.
+one man's trash is another man's treasure|prov|birinin çöpü başkasının hazinesidir|wʌn mænz træʃ ɪz əˈnʌðər mænz ˈtreʒər|I sold my old games online. One man's trash is another man's treasure.|Eski oyunlarımı internetten sattım. Birinin çöpü başkasının hazinesi.
+you win some, you lose some|prov|bazen kazanırsın bazen kaybedersin|juː wɪn sʌm juː luːz sʌm|We lost today. Oh well, you win some, you lose some.|Bugün kaybettik. Eh, bazen kazanırsın bazen kaybedersin.
+it's never too late to learn|prov|öğrenmenin yaşı yoktur|ɪts ˈnevər tuː leɪt tə lɜːrn|She started university at sixty. It's never too late to learn.|Altmış yaşında üniversiteye başladı. Öğrenmenin yaşı yoktur.
+live and learn|prov|yaşayarak öğrenir insan|lɪv ənd lɜːrn|I won't trust him again. Live and learn.|Ona bir daha güvenmeyeceğim. İnsan yaşayarak öğreniyor.
+if at first you don't succeed, try again|prov|ilk seferde olmazsa tekrar dene|ɪf æt fɜːrst juː doʊnt səkˈsiːd traɪ əˈɡen|You failed the test? If at first you don't succeed, try again.|Sınavdan mı kaldın? İlk seferde olmazsa tekrar dene.
+patience is a virtue|prov|sabır bir erdemdir, sabrın sonu selamettir|ˈpeɪʃəns ɪz ə ˈvɜːrtʃuː|Wait for your turn. Patience is a virtue.|Sıranı bekle. Sabrın sonu selamettir.
+history repeats itself|prov|tarih tekerrürden ibarettir|ˈhɪstəri rɪˈpiːts ɪtˈself|The same mistakes again. History repeats itself.|Yine aynı hatalar. Tarih tekerrürden ibarettir.
+seeing is believing|prov|görmeden inanmam, görmek inanmaktır|siːɪŋ ɪz bɪˈliːvɪŋ|You say he can fly? Seeing is believing.|Uçabildiğini mi söylüyorsun? Görmeden inanmam.
+the sooner, the better|prov|ne kadar erken o kadar iyi|ðə suːnər ðə ˈbetər|When should I call you? The sooner, the better.|Seni ne zaman arayayım? Ne kadar erken o kadar iyi.
+look on the bright side|prov|işin iyi tarafından bak|lʊk ɑːn ðə braɪt saɪd|You lost the job, but look on the bright side: more free time!|İşi kaybettin ama işin iyi tarafından bak: daha çok boş zaman!

@@ -1,0 +1,476 @@
+# B2 — ek kelimeler (fiiller, zarflar, isimler)
+accidental|adj|kazara olan|ˌæksɪˈdentəl
+adore|v|bayılmak, tapmak|əˈdɔːr
+alert|adj,n|tetikte; uyarı|əˈlɜːrt
+amuse|v|eğlendirmek|əˈmjuːz
+apparel|n|giyim|əˈpærəl
+applaud|v|alkışlamak|əˈplɔːd
+appoint|v|atamak|əˈpɔɪnt
+arouse|v|uyandırmak (duygu)|əˈraʊz
+ascend|v|yükselmek|əˈsend
+assure|v|güvence vermek|əˈʃʊr
+astonish|v|hayrete düşürmek|əˈstɑːnɪʃ
+astonishing|adj|şaşırtıcı|əˈstɑːnɪʃɪŋ
+await|v|beklemek|əˈweɪt
+awful|adj|korkunç|ˈɔːfəl
+bake|v|fırında pişirmek|beɪk
+bang|n,v|patlama sesi; çarpmak|bæŋ
+bare|v|açmak, göstermek|ber
+bathe|v|banyo yapmak|beɪð
+beam|n|ışın; kiriş|biːm
+bend|v|bükmek, eğilmek|bend
+bet|v|iddiaya girmek|bet
+bid|n,v|teklif; teklif vermek|bɪd
+bleed|v|kanamak|bliːd
+boast|v|övünmek|boʊst
+bother|v|rahatsız etmek|ˈbɑːðər
+bounce|v|sekmek|baʊns
+brag|v|böbürlenmek|bræɡ
+breed|v|üremek|briːd
+brighten|v|aydınlatmak|ˈbraɪtən
+browse|v|göz atmak|braʊz
+bully|v,n|zorbalık etmek; zorba|ˈbʊli
+bump|v|çarpmak|bʌmp
+cancel|v|iptal etmek|ˈkænsəl
+cast|v,n|atmak; oyuncu kadrosu|kæst
+cater|v|yemek hizmeti vermek|ˈkeɪtər
+cease|v|durmak, sona ermek|siːs
+chant|v|tempo tutarak söylemek|tʃænt
+cherish|v|değer vermek|ˈtʃerɪʃ
+chop|v|doğramak|tʃɑːp
+cite|v|alıntılamak|saɪt
+clarify|v|netleştirmek|ˈklærəfaɪ
+cling|v|sıkıca tutunmak|klɪŋ
+coach|v|çalıştırmak (antrenör)|koʊtʃ
+collide|v|çarpışmak|kəˈlaɪd
+comfort|v|teselli etmek|ˈkʌmfərt
+commence|v|başlamak|kəˈmens
+compel|v|zorlamak|kəmˈpel
+compensate|v|telafi etmek|ˈkɑːmpenseɪt
+compile|v|derlemek|kəmˈpaɪl
+comply|v|uymak|kəmˈplaɪ
+comprehend|v|kavramak|ˌkɑːmprɪˈhend
+comprise|v|oluşmak|kəmˈpraɪz
+conceal|v|gizlemek|kənˈsiːl
+concede|v|kabul etmek|kənˈsiːd
+condemn|v|kınamak|kənˈdem
+confine|v|sınırlamak|kənˈfaɪn
+confront|v|yüzleşmek|kənˈfrʌnt
+congratulate|v|tebrik etmek|kənˈɡrætʃəleɪt
+conquer|v|fethetmek|ˈkɑːŋkər
+consent|n|rıza, onay|kənˈsent
+console|v|teselli etmek|kənˈsoʊl
+contemplate|v|derin düşünmek|ˈkɑːntəmpleɪt
+contend|v|mücadele etmek; iddia etmek|kənˈtend
+convey|v|iletmek|kənˈveɪ
+convict|v|mahkum etmek|kənˈvɪkt
+correspond|v|uyuşmak|ˌkɔːrəˈspɑːnd
+counsel|v|danışmanlık yapmak|ˈkaʊnsəl
+crawl|v|emeklemek, sürünmek|krɔːl
+crave|v|çok istemek|kreɪv
+creep|v|sürünmek|kriːp
+cultivate|v|yetiştirmek|ˈkʌltɪveɪt
+curse|v,n|lanetlemek; lanet|kɜːrs
+dash|v|fırlamak|dæʃ
+decay|v|çürümek|dɪˈkeɪ
+deceive|v|aldatmak|dɪˈsiːv
+declare|v|ilan etmek|dɪˈkler
+decorate|v|dekore etmek|ˈdekəreɪt
+deem|v|saymak, addetmek|diːm
+defy|v|meydan okumak|dɪˈfaɪ
+delegate|v,n|yetki vermek; delege|ˈdelɪɡeɪt
+demolish|v|yıkmak|dɪˈmɑːlɪʃ
+denote|v|belirtmek|dɪˈnoʊt
+depart|v|ayrılmak|dɪˈpɑːrt
+depict|v|tasvir etmek|dɪˈpɪkt
+deploy|v|konuşlandırmak|dɪˈplɔɪ
+descend|v|inmek|dɪˈsend
+designate|v|belirlemek|ˈdezɪɡneɪt
+despise|v|hor görmek|dɪˈspaɪz
+detach|v|ayırmak|dɪˈtætʃ
+deteriorate|v|kötüleşmek|dɪˈtɪriəreɪt
+devise|v|tasarlamak|dɪˈvaɪz
+diagnose|v|teşhis etmek|ˌdaɪəɡˈnoʊs
+dictate|v|dikte etmek|ˈdɪkteɪt
+digest|v|sindirmek|daɪˈdʒest
+dine|v|akşam yemeği yemek|daɪn
+disclose|v|açıklamak|dɪsˈkloʊz
+discourage|v|cesaretini kırmak|dɪsˈkɜːrɪdʒ
+disguise|v,n|kılık değiştirmek; kılık|dɪsˈɡaɪz
+dispose|v|elden çıkarmak|dɪˈspoʊz
+dissolve|v|çözünmek|dɪˈzɑːlv
+distract|v|dikkatini dağıtmak|dɪˈstrækt
+disturb|v|rahatsız etmek|dɪˈstɜːrb
+dodge|v|kaçmak, sıyrılmak|dɑːdʒ
+doubt|v|şüphe etmek|daʊt
+drift|v|sürüklenmek|drɪft
+drown|v|boğulmak|draʊn
+dwell|v|ikamet etmek|dwel
+echo|n,v|yankı; yankılanmak|ˈekoʊ
+elaborate|adj,v|ayrıntılı; detaylandırmak|ɪˈlæbərət
+elevate|v|yükseltmek|ˈelɪveɪt
+embark|v|başlamak; gemiye binmek|ɪmˈbɑːrk
+emit|v|yaymak|iˈmɪt
+enclose|v|kuşatmak; iliştirmek|ɪnˈkloʊz
+endorse|v|onaylamak, desteklemek|ɪnˈdɔːrs
+enlarge|v|büyütmek|ɪnˈlɑːrdʒ
+enrich|v|zenginleştirmek|ɪnˈrɪtʃ
+enroll|v|kaydolmak|ɪnˈroʊl
+entertain|v|eğlendirmek|ˌentərˈteɪn
+envy|n,v|kıskançlık; kıskanmak|ˈenvi
+erase|v|silmek|ɪˈreɪs
+erect|v|dikmek|ɪˈrekt
+erupt|v|patlamak (yanardağ)|ɪˈrʌpt
+evacuate|v|tahliye etmek|ɪˈvækjueɪt
+evaporate|v|buharlaşmak|ɪˈvæpəreɪt
+exaggerate|v|abartmak|ɪɡˈzædʒəreɪt
+excel|v|üstün olmak|ɪkˈsel
+exclaim|v|haykırmak|ɪkˈskleɪm
+execute|v|yürütmek; idam etmek|ˈeksɪkjuːt
+exert|v|uygulamak (güç)|ɪɡˈzɜːrt
+exhale|v|nefes vermek|eksˈheɪl
+expire|v|süresi dolmak|ɪkˈspaɪər
+fasten|v|bağlamak|ˈfæsən
+favor|v|tercih etmek|ˈfeɪvər
+feed|v|beslemek|fiːd
+flee|v|kaçmak|fliː
+flip|v|çevirmek|flɪp
+flourish|v|gelişmek|ˈflɜːrɪʃ
+flow|v,n|akmak; akış|floʊ
+fluctuate|v|dalgalanmak|ˈflʌktʃueɪt
+forge|v|sahtesini yapmak; dövmek|fɔːrdʒ
+foster|v|teşvik etmek; bakmak|ˈfɑːstər
+frighten|v|korkutmak|ˈfraɪtən
+gather|v|toplamak|ˈɡæðər
+gaze|v|bakakalmak|ɡeɪz
+generate|v|üretmek|ˈdʒenəreɪt
+glow|v|parlamak|ɡloʊ
+grieve|v|yas tutmak|ɡriːv
+grind|v|öğütmek|ɡraɪnd
+groan|v|inlemek|ɡroʊn
+growl|v|hırlamak|ɡraʊl
+guarantee|v|garanti etmek|ˌɡærənˈtiː
+hail|v|selamlamak, övmek|heɪl
+halve|v|yarıya indirmek|hæv
+harass|v|taciz etmek|həˈræs
+heighten|v|artırmak|ˈhaɪtən
+hike|v|doğa yürüyüşü yapmak|haɪk
+hinder|v|engellemek|ˈhɪndər
+hug|v,n|sarılmak; sarılma|hʌɡ
+hum|v|mırıldanmak|hʌm
+hunt|v|avlanmak|hʌnt
+hurl|v|fırlatmak|hɜːrl
+ignite|v|tutuşturmak|ɪɡˈnaɪt
+illuminate|v|aydınlatmak|ɪˈluːmɪneɪt
+imitate|v|taklit etmek|ˈɪmɪteɪt
+induce|v|neden olmak|ɪnˈduːs
+indulge|v|kendini kaptırmak|ɪnˈdʌldʒ
+infect|v|bulaştırmak|ɪnˈfekt
+infer|v|çıkarım yapmak|ɪnˈfɜːr
+inhabit|v|yaşamak, ikamet etmek|ɪnˈhæbɪt
+inhale|v|nefes almak|ɪnˈheɪl
+inject|v|enjekte etmek|ɪnˈdʒekt
+insert|v|eklemek, sokmak|ɪnˈsɜːrt
+instruct|v|talimat vermek|ɪnˈstrʌkt
+insult|v,n|hakaret etmek; hakaret|ɪnˈsʌlt
+intervene|v|müdahale etmek|ˌɪntərˈviːn
+intimidate|v|gözünü korkutmak|ɪnˈtɪmɪdeɪt
+irritate|v|sinirlendirmek|ˈɪrɪteɪt
+juggle|v|hokkabazlık yapmak|ˈdʒʌɡəl
+kneel|v|diz çökmek|niːl
+knit|v|örmek|nɪt
+lean|adj|yağsız, zayıf|liːn
+leak|v,n|sızmak; sızıntı|liːk
+lick|v|yalamak|lɪk
+loosen|v|gevşetmek|ˈluːsən
+lure|v|cezbetmek|lʊr
+mend|v|onarmak|mend
+mimic|v|taklit etmek|ˈmɪmɪk
+mislead|v|yanıltmak|ˌmɪsˈliːd
+moan|v|inlemek; söylenmek|moʊn
+mourn|v|yas tutmak|mɔːrn
+mumble|v|mırıldanmak|ˈmʌmbəl
+nod|v|başını sallamak|nɑːd
+nourish|v|beslemek|ˈnɜːrɪʃ
+nurture|v|beslemek, yetiştirmek|ˈnɜːrtʃər
+obsess|v|takıntı haline getirmek|əbˈses
+omit|v|atlamak, çıkarmak|oʊˈmɪt
+outweigh|v|ağır basmak|ˌaʊtˈweɪ
+overhear|v|kulak misafiri olmak|ˌoʊvərˈhɪr
+overtake|v|sollamak|ˌoʊvərˈteɪk
+owe|v|borçlu olmak|oʊ
+pant|v|nefes nefese kalmak|pænt
+paralyze|v|felç etmek|ˈpærəlaɪz
+pardon|v|affetmek|ˈpɑːrdən
+peel|v|soymak (kabuk)|piːl
+penetrate|v|nüfuz etmek|ˈpenɪtreɪt
+perish|v|yok olmak|ˈperɪʃ
+pierce|v|delmek|pɪrs
+pinch|v|çimdiklemek|pɪntʃ
+plead|v|yalvarmak; savunmak|pliːd
+plunge|v|dalmak, düşmek|plʌndʒ
+polish|v|cilalamak|ˈpɑːlɪʃ
+ponder|v|düşünüp taşınmak|ˈpɑːndər
+pose|v|poz vermek; oluşturmak|poʊz
+praise|v,n|övmek; övgü|preɪz
+preach|v|vaaz vermek|priːtʃ
+precede|v|önce gelmek|prɪˈsiːd
+prescribe|v|reçete yazmak|prɪˈskraɪb
+preside|v|başkanlık etmek|prɪˈzaɪd
+prevail|v|hakim olmak|prɪˈveɪl
+proclaim|v|ilan etmek|prəˈkleɪm
+prolong|v|uzatmak|prəˈlɔːŋ
+prosper|v|zenginleşmek|ˈprɑːspər
+provoke|v|kışkırtmak|prəˈvoʊk
+punch|v,n|yumruklamak; yumruk|pʌntʃ
+purchase|v,n|satın almak; alım|ˈpɜːrtʃəs
+quarrel|n,v|kavga; tartışmak|ˈkwɔːrəl
+radiate|v|yaymak|ˈreɪdieɪt
+rebuild|v|yeniden inşa etmek|ˌriːˈbɪld
+recite|v|ezberden okumak|rɪˈsaɪt
+reckon|v|sanmak, hesaplamak|ˈrekən
+reconcile|v|uzlaştırmak|ˈrekənsaɪl
+recycle|v|geri dönüştürmek|ˌriːˈsaɪkəl
+refer|v|atıfta bulunmak|rɪˈfɜːr
+refine|v|arıtmak, geliştirmek|rɪˈfaɪn
+refresh|v|tazelemek|rɪˈfreʃ
+rehearse|v|prova yapmak|rɪˈhɜːrs
+reign|v,n|hüküm sürmek; saltanat|reɪn
+rejoice|v|sevinmek|rɪˈdʒɔɪs
+remark|v|belirtmek|rɪˈmɑːrk
+repay|v|geri ödemek|rɪˈpeɪ
+reproduce|v|çoğaltmak; üremek|ˌriːprəˈduːs
+resent|v|içerlemek|rɪˈzent
+reside|v|ikamet etmek|rɪˈzaɪd
+restrain|v|zapt etmek|rɪˈstreɪn
+restrict|v|kısıtlamak|rɪˈstrɪkt
+resume|v|yeniden başlamak|rɪˈzuːm
+retrieve|v|geri almak|rɪˈtriːv
+revise|v|gözden geçirmek|rɪˈvaɪz
+revive|v|canlandırmak|rɪˈvaɪv
+rob|v|soymak (hırsız)|rɑːb
+rot|v|çürümek|rɑːt
+rub|v|ovmak|rʌb
+scatter|v|dağıtmak, saçmak|ˈskætər
+scold|v|azarlamak|skoʊld
+scrape|v|kazımak|skreɪp
+scratch|v,n|kaşımak; çizik|skrætʃ
+screw|v|vidalamak|skruː
+scrub|v|ovalamak|skrʌb
+seduce|v|baştan çıkarmak|sɪˈduːs
+sew|v|dikmek (dikiş)|soʊ
+shatter|v|paramparça olmak|ˈʃætər
+shiver|v|titremek|ˈʃɪvər
+shrug|v|omuz silkmek|ʃrʌɡ
+sigh|v,n|iç çekmek|saɪ
+sip|v|yudumlamak|sɪp
+skip|v|atlamak|skɪp
+slap|v|tokat atmak|slæp
+slaughter|v|katletmek|ˈslɔːtər
+slip|v|kaymak|slɪp
+smack|v|şaplak atmak|smæk
+snap|v|kopmak; çıtlatmak|snæp
+snatch|v|kapmak|snætʃ
+sniff|v|koklamak|snɪf
+soak|v|ıslatmak|soʊk
+sob|v|hıçkırarak ağlamak|sɑːb
+soothe|v|yatıştırmak|suːð
+sparkle|v|ışıldamak|ˈspɑːrkəl
+spit|v|tükürmek|spɪt
+spoil|v|bozmak; şımartmak|spɔɪl
+sprint|v|depar atmak|sprɪnt
+squash|v|ezmek|skwɑːʃ
+stab|v|bıçaklamak|stæb
+stain|n,v|leke; lekelemek|steɪn
+stamp|v|damgalamak|stæmp
+startle|v|ürkütmek|ˈstɑːrtəl
+steal|v|çalmak|stiːl
+sting|v,n|sokmak; iğne|stɪŋ
+stink|v|kötü kokmak|stɪŋk
+stitch|n,v|dikiş; dikmek|stɪtʃ
+stroll|v|gezinmek|stroʊl
+strive|v|çabalamak|straɪv
+sulk|v|surat asmak|sʌlk
+summarize|v|özetlemek|ˈsʌməraɪz
+supervise|v|denetlemek|ˈsuːpərvaɪz
+suppress|v|bastırmak|səˈpres
+surpass|v|geçmek, aşmak|sərˈpæs
+swap|v|takas etmek|swɑːp
+sway|v|sallanmak|sweɪ
+swell|v|şişmek|swel
+tame|adj,v|evcil; evcilleştirmek|teɪm
+tease|v|takılmak, alay etmek|tiːz
+tempt|v|ayartmak|tempt
+terminate|v|sonlandırmak|ˈtɜːrmɪneɪt
+thrust|v|itmek|θrʌst
+tickle|v|gıdıklamak|ˈtɪkəl
+tolerate|v|tahammül etmek|ˈtɑːləreɪt
+trample|v|çiğnemek|ˈtræmpəl
+tremble|v|titremek|ˈtrembəl
+trim|v|kırpmak|trɪm
+trip|v|tökezlemek|trɪp
+tumble|v|yuvarlanmak|ˈtʌmbəl
+undo|v|geri almak|ʌnˈduː
+unfold|v|açılmak, ortaya çıkmak|ʌnˈfoʊld
+unite|v|birleşmek|juˈnaɪt
+unpack|v|bavulu boşaltmak|ʌnˈpæk
+utter|v|söylemek, ağzından çıkarmak|ˈʌtər
+vow|v,n|yemin etmek; yemin|vaʊ
+wag|v|sallamak (kuyruk)|wæɡ
+weave|v|dokumak|wiːv
+weep|v|ağlamak|wiːp
+whistle|v,n|ıslık çalmak; düdük|ˈwɪsəl
+wink|v|göz kırpmak|wɪŋk
+wipe|v|silmek|waɪp
+wither|v|solmak|ˈwɪðər
+wrestle|v|güreşmek|ˈresəl
+yawn|v|esnemek|jɔːn
+yell|v|bağırmak|jel
+abruptly|adv|aniden|əˈbrʌptli
+accordingly|adv|buna göre|əˈkɔːrdɪŋli
+adequately|adv|yeterince|ˈædɪkwətli
+alike|adv,adj|benzer şekilde; aynı|əˈlaɪk
+altogether|adv|tamamen; toplamda|ˌɔːltəˈɡeðər
+anyhow|adv|her neyse|ˈenihaʊ
+aside|adv|bir kenara|əˈsaɪd
+awfully|adv|son derece|ˈɔːfli
+backwards|adv|geriye doğru|ˈbækwərdz
+beforehand|adv|önceden|bɪˈfɔːrhænd
+bitterly|adv|acı bir şekilde|ˈbɪtərli
+boldly|adv|cesurca|ˈboʊldli
+briefly|adv|kısaca|ˈbriːfli
+broadly|adv|genel olarak|ˈbrɔːdli
+calmly|adv|sakince|ˈkɑːmli
+casually|adv|gelişigüzel, rahatça|ˈkæʒuəli
+cheerfully|adv|neşeyle|ˈtʃɪrfəli
+closely|adv|yakından|ˈkloʊsli
+comparatively|adv|nispeten|kəmˈpærətɪvli
+consequently|adv|sonuç olarak|ˈkɑːnsəkwentli
+considerably|adv|önemli ölçüde|kənˈsɪdərəbli
+continually|adv|sürekli|kənˈtɪnjuəli
+conversely|adv|tersine|ˈkɑːnvɜːrsli
+correctly|adv|doğru şekilde|kəˈrektli
+currently|adv|şu anda|ˈkɜːrəntli
+daringly|adv|cüretkarca|ˈderɪŋli
+deeply|adv|derinden|ˈdiːpli
+definitely|adv|kesinlikle|ˈdefɪnətli
+deliberately|adv|kasten|dɪˈlɪbərətli
+desperately|adv|umutsuzca|ˈdespərətli
+differently|adv|farklı şekilde|ˈdɪfrəntli
+downward|adv|aşağı doğru|ˈdaʊnwərd
+eagerly|adv|hevesle|ˈiːɡərli
+effectively|adv|etkili bir şekilde|ɪˈfektɪvli
+elsewhere|adv|başka bir yerde|ˈelswer
+entirely|adv|tamamen|ɪnˈtaɪərli
+essentially|adv|esasen|ɪˈsenʃəli
+evenly|adv|eşit şekilde|ˈiːvənli
+everyday|adj|gündelik|ˈevrideɪ
+evidently|adv|anlaşılan|ˈevɪdəntli
+exceptionally|adv|olağanüstü derecede|ɪkˈsepʃənəli
+explicitly|adv|açıkça|ɪkˈsplɪsɪtli
+extensively|adv|kapsamlı olarak|ɪkˈstensɪvli
+faintly|adv|belli belirsiz|ˈfeɪntli
+firmly|adv|sıkıca|ˈfɜːrmli
+fondly|adv|sevgiyle|ˈfɑːndli
+formerly|adv|eskiden|ˈfɔːrmərli
+fortunately|adv|neyse ki|ˈfɔːrtʃənətli
+freely|adv|serbestçe|ˈfriːli
+gently|adv|nazikçe|ˈdʒentli
+genuinely|adv|gerçekten|ˈdʒenjuɪnli
+gladly|adv|seve seve|ˈɡlædli
+greatly|adv|büyük ölçüde|ˈɡreɪtli
+happily|adv|mutlulukla|ˈhæpɪli
+heavily|adv|yoğun şekilde|ˈhevɪli
+highly|adv|son derece|ˈhaɪli
+honestly|adv|dürüstçe|ˈɑːnɪstli
+hopefully|adv|umarım|ˈhoʊpfəli
+increasingly|adv|giderek artan şekilde|ɪnˈkriːsɪŋli
+indirectly|adv|dolaylı olarak|ˌɪndəˈrektli
+inevitably|adv|kaçınılmaz olarak|ɪnˈevɪtəbli
+initially|adv|başlangıçta|ɪˈnɪʃəli
+instantly|adv|anında|ˈɪnstəntli
+intentionally|adv|bilerek|ɪnˈtenʃənəli
+kindly|adv|nazikçe|ˈkaɪndli
+largely|adv|büyük ölçüde|ˈlɑːrdʒli
+lightly|adv|hafifçe|ˈlaɪtli
+loosely|adv|gevşekçe|ˈluːsli
+loudly|adv|yüksek sesle|ˈlaʊdli
+madly|adv|deli gibi|ˈmædli
+merrily|adv|neşeyle|ˈmerəli
+mildly|adv|hafifçe|ˈmaɪldli
+mutually|adv|karşılıklı olarak|ˈmjuːtʃuəli
+namely|adv|yani, şöyle ki|ˈneɪmli
+naturally|adv|doğal olarak|ˈnætʃərəli
+neatly|adv|düzgünce|ˈniːtli
+nervously|adv|gergin bir şekilde|ˈnɜːrvəsli
+newly|adv|yeni, yakın zamanda|ˈnuːli
+nonetheless|adv|yine de|ˌnʌnðəˈles
+normally|adv|normalde|ˈnɔːrməli
+notably|adv|özellikle|ˈnoʊtəbli
+noticeably|adv|fark edilir şekilde|ˈnoʊtɪsəbli
+occasionally|adv|zaman zaman|əˈkeɪʒənəli
+officially|adv|resmi olarak|əˈfɪʃəli
+originally|adv|başlangıçta|əˈrɪdʒənəli
+partly|adv|kısmen|ˈpɑːrtli
+patiently|adv|sabırla|ˈpeɪʃəntli
+perfectly|adv|mükemmel şekilde|ˈpɜːrfɪktli
+permanently|adv|kalıcı olarak|ˈpɜːrmənəntli
+personally|adv|şahsen|ˈpɜːrsənəli
+physically|adv|fiziksel olarak|ˈfɪzɪkli
+plainly|adv|açıkça|ˈpleɪnli
+politely|adv|kibarca|pəˈlaɪtli
+poorly|adv|kötü şekilde|ˈpʊrli
+precisely|adv|tam olarak|prɪˈsaɪsli
+presently|adv|şu anda; birazdan|ˈprezəntli
+previously|adv|daha önce|ˈpriːviəsli
+primarily|adv|öncelikle|praɪˈmerəli
+privately|adv|özel olarak|ˈpraɪvətli
+promptly|adv|derhal|ˈprɑːmptli
+properly|adv|düzgünce|ˈprɑːpərli
+proudly|adv|gururla|ˈpraʊdli
+purely|adv|tamamen, sırf|ˈpjʊrli
+quietly|adv|sessizce|ˈkwaɪətli
+readily|adv|kolayca|ˈredɪli
+reasonably|adv|makul şekilde|ˈriːzənəbli
+regularly|adv|düzenli olarak|ˈreɡjələrli
+reluctantly|adv|isteksizce|rɪˈlʌktəntli
+repeatedly|adv|defalarca|rɪˈpiːtɪdli
+reportedly|adv|bildirildiğine göre|rɪˈpɔːrtɪdli
+roughly|adv|kabaca|ˈrʌfli
+rudely|adv|kabaca|ˈruːdli
+sadly|adv|ne yazık ki|ˈsædli
+safely|adv|güvenle|ˈseɪfli
+secretly|adv|gizlice|ˈsiːkrətli
+sharply|adv|keskin şekilde|ˈʃɑːrpli
+sincerely|adv|içtenlikle|sɪnˈsɪrli
+smoothly|adv|sorunsuzca|ˈsmuːðli
+softly|adv|yumuşakça|ˈsɔːftli
+solely|adv|yalnızca|ˈsoʊlli
+specifically|adv|özellikle|spəˈsɪfɪkli
+steadily|adv|istikrarlı şekilde|ˈstedəli
+strictly|adv|kesinlikle, sıkı şekilde|ˈstrɪktli
+strongly|adv|kuvvetle|ˈstrɔːŋli
+subsequently|adv|ardından|ˈsʌbsɪkwəntli
+successfully|adv|başarıyla|səkˈsesfəli
+sufficiently|adv|yeterince|səˈfɪʃəntli
+supposedly|adv|güya|səˈpoʊzɪdli
+surprisingly|adv|şaşırtıcı şekilde|sərˈpraɪzɪŋli
+swiftly|adv|süratle|ˈswɪftli
+temporarily|adv|geçici olarak|ˌtempəˈrerəli
+tenderly|adv|şefkatle|ˈtendərli
+thankfully|adv|neyse ki|ˈθæŋkfəli
+tightly|adv|sıkıca|ˈtaɪtli
+twice|adv|iki kez|twaɪs
+typically|adv|tipik olarak|ˈtɪpɪkli
+upwards|adv|yukarı doğru|ˈʌpwərdz
+urgently|adv|acilen|ˈɜːrdʒəntli
+utterly|adv|tamamıyla|ˈʌtərli
+vaguely|adv|belli belirsiz|ˈveɪɡli
+warmly|adv|sıcak bir şekilde|ˈwɔːrmli
+weekly|adv|haftalık|ˈwiːkli
+wholly|adv|tamamen|ˈhoʊlli
+wildly|adv|çılgınca|ˈwaɪldli
+willingly|adv|isteyerek|ˈwɪlɪŋli
+wisely|adv|akıllıca|ˈwaɪzli
+wrongly|adv|yanlış şekilde|ˈrɔːŋli
+yearly|adj|yıllık|ˈjɪrli

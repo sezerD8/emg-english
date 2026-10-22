@@ -1,0 +1,270 @@
+# sıklık sırası ~4500-5000 (B2) — oyun, teknoloji, iş, seyahat
+achievement|n|başarım, başarı|əˈtʃiːvmənt
+ammo|n|cephane|ˈæmoʊ
+ammunition|n|mühimmat|ˌæmjuˈnɪʃən
+armor|n|zırh|ˈɑːrmər
+avatar|n|avatar|ˈævətɑːr
+boost|n|güçlendirme|buːst
+checkpoint|n|kontrol noktası|ˈtʃekpɔɪnt
+cooldown|n|bekleme süresi|ˈkuːldaʊn
+crafting|n|üretim (oyun)|ˈkræftɪŋ
+defeat|n|yenilgi|dɪˈfiːt
+difficulty|n|zorluk|ˈdɪfɪkəlti
+dungeon|n|zindan|ˈdʌndʒən
+guild|n|lonca|ɡɪld
+headshot|n|kafadan vuruş|ˈhedʃɑːt
+healer|n|şifacı|ˈhiːlər
+inventory|n|envanter|ˈɪnvəntɔːri
+lag|n|gecikme (bağlantı)|læɡ
+leaderboard|n|lider tablosu|ˈliːdərbɔːrd
+loadout|n|teçhizat seti|ˈloʊdaʊt
+loot|n,v|ganimet; yağmalamak|luːt
+multiplayer|adj|çok oyunculu|ˌmʌltiˈpleɪər
+opponent|n|rakip|əˈpoʊnənt
+potion|n|iksir|ˈpoʊʃən
+quest|n|görev (oyun)|kwest
+reload|v|şarjör değiştirmek; yeniden yüklemek|ˌriːˈloʊd
+respawn|v|yeniden doğmak (oyun)|ˌriːˈspɔːn
+revive|v|canlandırmak|rɪˈvaɪv
+server|n|sunucu|ˈsɜːrvər
+shield|n|kalkan|ʃiːld
+spawn|v|ortaya çıkmak (oyun)|spɔːn
+spell|n|büyü|spel
+stealth|n|gizlilik|stelθ
+summon|v|çağırmak|ˈsʌmən
+teammate|n|takım arkadaşı|ˈtiːmmeɪt
+tutorial|n|eğitim bölümü|tuːˈtɔːriəl
+unlock|v|kilidini açmak|ʌnˈlɑːk
+ambush|n|pusu|ˈæmbʊʃ
+aim|v|nişan almak|eɪm
+sniper|n|keskin nişancı|ˈsnaɪpər
+grenade|n|el bombası|ɡrəˈneɪd
+rifle|n|tüfek|ˈraɪfəl
+pistol|n|tabanca|ˈpɪstəl
+bow|n|yay (ok)|boʊ
+skill tree|n|yetenek ağacı|ˈskɪl triː
+experience points|n|tecrübe puanı|ɪkˈspɪriəns pɔɪnts
+level up|v|seviye atlamak|ˈlevəl ʌp
+hit points|n|can puanı|ˈhɪt pɔɪnts
+damage|n|hasar|ˈdæmɪdʒ
+critical hit|n|kritik vuruş|ˈkrɪtɪkəl hɪt
+gamer|n|oyuncu|ˈɡeɪmər
+console|n|konsol|ˈkɑːnsoʊl
+controller|n|kumanda (oyun)|kənˈtroʊlər
+joystick|n|oyun kolu|ˈdʒɔɪstɪk
+graphics|n|grafikler|ˈɡræfɪks
+resolution|n|çözünürlük|ˌrezəˈluːʃən
+settings|n|ayarlar|ˈsetɪŋz
+save|v|kaydetmek|seɪv
+load|v|yüklemek|loʊd
+pause|v,n|duraklatmak; duraklama|pɔːz
+resume|v|devam etmek|rɪˈzuːm
+quit|v|çıkmak, bırakmak|kwɪt
+retry|v|yeniden denemek|ˌriːˈtraɪ
+victory|n|zafer|ˈvɪktəri
+draw|n|beraberlik|drɔː
+tie|n|beraberlik|taɪ
+round|n|tur, raund|raʊnd
+stage|n|aşama|steɪdʒ
+chapter|n|bölüm|ˈtʃæptər
+boss fight|n|boss savaşı|ˈbɔːs faɪt
+character|n|karakter|ˈkærəktər
+villain|n|kötü karakter|ˈvɪlən
+hero|n|kahraman|ˈhɪroʊ
+sidekick|n|yardımcı karakter|ˈsaɪdkɪk
+storyline|n|hikaye akışı|ˈstɔːrilaɪn
+cutscene|n|ara sahne|ˈkʌtsiːn
+open world|n|açık dünya|ˌoʊpən ˈwɜːrld
+sandbox|n|serbest oyun alanı|ˈsændbɑːks
+strategy game|n|strateji oyunu|ˈstrætədʒi ɡeɪm
+shooter|n|nişancı oyunu|ˈʃuːtər
+puzzle|n|bulmaca|ˈpʌzəl
+cheat code|n|hile kodu|ˈtʃiːt koʊd
+glitch|n|aksaklık, hata|ɡlɪtʃ
+bug|n|hata (yazılım)|bʌɡ
+patch|n|yama|pætʃ
+update|n|güncelleme|ˈʌpdeɪt
+download|n|indirme|ˈdaʊnloʊd
+upload|v|yüklemek (internete)|ˈʌploʊd
+install|v|kurmak|ɪnˈstɔːl
+uninstall|v|kaldırmak (program)|ˌʌnɪnˈstɔːl
+login|n|giriş (hesap)|ˈlɔːɡɪn
+log in|v|giriş yapmak|lɔːɡ ɪn
+log out|v|çıkış yapmak|lɔːɡ aʊt
+sign up|v|kaydolmak|saɪn ʌp
+username|n|kullanıcı adı|ˈjuːzərneɪm
+profile|n|profil|ˈproʊfaɪl
+account|n|hesap|əˈkaʊnt
+subscription|n|abonelik|səbˈskrɪpʃən
+subscribe|v|abone olmak|səbˈskraɪb
+follower|n|takipçi|ˈfɑːloʊər
+like|n|beğeni|laɪk
+share|n|paylaşım|ʃer
+comment|v|yorum yapmak|ˈkɑːment
+post|v|paylaşmak|poʊst
+stream|n|canlı yayın|striːm
+streamer|n|yayıncı|ˈstriːmər
+viewer|n|izleyici|ˈvjuːər
+channel|n|kanal|ˈtʃænəl
+content creator|n|içerik üreticisi|ˈkɑːntent kriˈeɪtər
+influencer|n|fenomen|ˈɪnfluənsər
+notification|n|bildirim|ˌnoʊtɪfɪˈkeɪʃən
+browser|n|tarayıcı|ˈbraʊzər
+search engine|n|arama motoru|ˈsɜːrtʃ endʒɪn
+link|n|bağlantı|lɪŋk
+folder|n|klasör|ˈfoʊldər
+storage|n|depolama|ˈstɔːrɪdʒ
+memory|n|bellek|ˈmeməri
+processor|n|işlemci|ˈprɑːsesər
+hardware|n|donanım|ˈhɑːrdwer
+monitor|n|monitör|ˈmɑːnɪtər
+headphones|n|kulaklık|ˈhedfoʊnz
+microphone|n|mikrofon|ˈmaɪkrəfoʊn
+speaker|n|hoparlör|ˈspiːkər
+charger|n|şarj aleti|ˈtʃɑːrdʒər
+battery life|n|pil ömrü|ˈbætəri laɪf
+wireless|adj|kablosuz|ˈwaɪərləs
+connection|n|bağlantı|kəˈnekʃən
+network|n|ağ|ˈnetwɜːrk
+signal|n|sinyal|ˈsɪɡnəl
+bandwidth|n|bant genişliği|ˈbændwɪdθ
+encryption|n|şifreleme|ɪnˈkrɪpʃən
+hacker|n|bilgisayar korsanı|ˈhækər
+virus|n|virüs|ˈvaɪrəs
+malware|n|kötü amaçlı yazılım|ˈmælwer
+firewall|n|güvenlik duvarı|ˈfaɪərwɔːl
+backup|n|yedek|ˈbækʌp
+cloud|n|bulut|klaʊd
+algorithm|n|algoritma|ˈælɡərɪðəm
+artificial intelligence|n|yapay zeka|ˌɑːrtɪfɪʃəl ɪnˈtelɪdʒəns
+robotics|n|robotik|roʊˈbɑːtɪks
+programming|n|programlama|ˈproʊɡræmɪŋ
+developer|n|geliştirici|dɪˈveləpər
+code|v|kod yazmak|koʊd
+database|n|veritabanı|ˈdeɪtəbeɪs
+interface|n|arayüz|ˈɪntərfeɪs
+feature|n|özellik|ˈfiːtʃər
+version|n|sürüm|ˈvɜːrʒən
+shortcut|n|kısayol|ˈʃɔːrtkʌt
+cursor|n|imleç|ˈkɜːrsər
+click|v|tıklamak|klɪk
+scroll|v|kaydırmak|skroʊl
+type|v|yazmak (klavyede)|taɪp
+paste|v|yapıştırmak|peɪst
+crash|v|çökmek|kræʃ
+freeze|v|donmak (ekran)|friːz
+restart|v|yeniden başlatmak|ˌriːˈstɑːrt
+shut down|v|kapatmak|ʃʌt daʊn
+turn on|v|açmak|tɜːrn ɑːn
+turn off|v|kapatmak|tɜːrn ɔːf
+colleague|n|meslektaş|ˈkɑːliːɡ
+interview|n|iş görüşmesi|ˈɪntərvjuː
+resume|n|özgeçmiş (CV)|ˈrezəmeɪ
+applicant|n|aday|ˈæplɪkənt
+salary|n|maaş|ˈsæləri
+promotion|n|terfi|prəˈmoʊʃən
+raise|n|zam|reɪz
+overtime|n|fazla mesai|ˈoʊvərtaɪm
+shift|n|vardiya|ʃɪft
+meeting|n|toplantı|ˈmiːtɪŋ
+presentation|n|sunum|ˌpriːzenˈteɪʃən
+deadline|n|son tarih|ˈdedlaɪn
+schedule|n|takvim|ˈskedʒuːl
+task|n|görev|tæsk
+goal|n|hedef|ɡoʊl
+report|n|rapor|rɪˈpɔːrt
+invoice|n|fatura|ˈɪnvɔɪs
+contract|n|sözleşme|ˈkɑːntrækt
+negotiate|v|pazarlık etmek|nɪˈɡoʊʃieɪt
+client|n|müşteri|ˈklaɪənt
+supplier|n|tedarikçi|səˈplaɪər
+startup|n|girişim şirketi|ˈstɑːrtʌp
+entrepreneur|n|girişimci|ˌɑːntrəprəˈnɜːr
+headquarters|n|merkez ofis|ˈhedkwɔːrtərz
+branch|n|şube|bræntʃ
+department|n|departman|dɪˈpɑːrtmənt
+intern|n|stajyer|ˈɪntɜːrn
+internship|n|staj|ˈɪntɜːrnʃɪp
+freelance|adj|serbest çalışan|ˈfriːlæns
+remote work|n|uzaktan çalışma|rɪˌmoʊt ˈwɜːrk
+commute|v,n|işe gidip gelmek|kəˈmjuːt
+retire|v|emekli olmak|rɪˈtaɪər
+quit|v|istifa etmek|kwɪt
+fire|v|kovmak (işten)|ˈfaɪər
+hire|v|işe almak|ˈhaɪər
+skill|n|beceri|skɪl
+experience|n|tecrübe|ɪkˈspɪriəns
+reference|n|referans|ˈrefərəns
+feedback|n|geri bildirim|ˈfiːdbæk
+productivity|n|verimlilik|ˌproʊdʌkˈtɪvəti
+efficient|adj|verimli|ɪˈfɪʃənt
+profit|n|kâr|ˈprɑːfɪt
+loss|n|zarar|lɔːs
+revenue|n|gelir|ˈrevənuː
+expense|n|gider|ɪkˈspens
+budget|n|bütçe|ˈbʌdʒɪt
+investment|n|yatırım|ɪnˈvestmənt
+share|n|hisse|ʃer
+stock market|n|borsa|ˈstɑːk mɑːrkɪt
+interest rate|n|faiz oranı|ˈɪntrəst reɪt
+loan|n|kredi|loʊn
+mortgage|n|konut kredisi|ˈmɔːrɡɪdʒ
+savings|n|birikim|ˈseɪvɪŋz
+receipt|n|fiş|rɪˈsiːt
+refund|n|para iadesi|ˈriːfʌnd
+discount|n|indirim|ˈdɪskaʊnt
+bargain|n|kelepir|ˈbɑːrɡən
+checkout|n|kasa|ˈtʃekaʊt
+cashier|n|kasiyer|kæˈʃɪr
+delivery|n|teslimat|dɪˈlɪvəri
+shipping|n|kargo, nakliye|ˈʃɪpɪŋ
+package|n|paket|ˈpækɪdʒ
+order|n|sipariş|ˈɔːrdər
+warranty|n|garanti|ˈwɔːrənti
+return|n|iade|rɪˈtɜːrn
+boarding pass|n|biniş kartı|ˈbɔːrdɪŋ pæs
+check-in|n|giriş işlemi|ˈtʃek ɪn
+departure|n|kalkış|dɪˈpɑːrtʃər
+arrival|n|varış|əˈraɪvəl
+delay|n|rötar|dɪˈleɪ
+gate|n|kapı (havalimanı)|ɡeɪt
+terminal|n|terminal|ˈtɜːrmɪnəl
+customs|n|gümrük|ˈkʌstəmz
+visa|n|vize|ˈviːzə
+currency|n|döviz|ˈkɜːrənsi
+exchange rate|n|döviz kuru|ɪksˈtʃeɪndʒ reɪt
+souvenir|n|hediyelik eşya|ˌsuːvəˈnɪr
+sightseeing|n|gezip görme|ˈsaɪtsiːɪŋ
+landmark|n|simge yapı|ˈlændmɑːrk
+guidebook|n|rehber kitap|ˈɡaɪdbʊk
+hostel|n|hostel|ˈhɑːstəl
+reception|n|resepsiyon|rɪˈsepʃən
+room service|n|oda servisi|ˈruːm sɜːrvɪs
+single room|n|tek kişilik oda|ˈsɪŋɡəl ruːm
+double room|n|çift kişilik oda|ˈdʌbəl ruːm
+round trip|n|gidiş-dönüş|ˌraʊnd ˈtrɪp
+one-way|adj|tek yön|ˌwʌnˈweɪ
+platform|n|peron|ˈplætfɔːrm
+timetable|n|tarife|ˈtaɪmteɪbəl
+fare|n|bilet ücreti|fer
+passenger|n|yolcu|ˈpæsɪndʒər
+crossroads|n|kavşak|ˈkrɔːsroʊdz
+roundabout|n|göbek (trafik)|ˈraʊndəbaʊt
+traffic light|n|trafik ışığı|ˈtræfɪk laɪt
+pedestrian|n|yaya|pəˈdestriən
+speed limit|n|hız sınırı|ˈspiːd lɪmɪt
+fine|n|para cezası|faɪn
+parking lot|n|otopark|ˈpɑːrkɪŋ lɑːt
+gas station|n|benzin istasyonu|ˈɡæs steɪʃən
+flat tire|n|patlak lastik|ˌflæt ˈtaɪər
+seat belt|n|emniyet kemeri|ˈsiːt belt
+steering wheel|n|direksiyon|ˈstɪrɪŋ wiːl
+mechanic|n|tamirci|məˈkænɪk
+journey|n|yolculuk|ˈdʒɜːrni
+itinerary|n|seyahat planı|aɪˈtɪnəreri
+abroad|adv|yurt dışı|əˈbrɔːd
+jet lag|n|saat farkı yorgunluğu|ˈdʒet læɡ
+backpacker|n|sırt çantalı gezgin|ˈbækpækər
+campsite|n|kamp alanı|ˈkæmpsaɪt
+tent|n|çadır|tent
+sleeping bag|n|uyku tulumu|ˈsliːpɪŋ bæɡ

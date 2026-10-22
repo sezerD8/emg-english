@@ -1,0 +1,450 @@
+# sıklık sırası ~2500-3000 (B1)
+abandon|v|terk etmek|əˈbændən
+ability|n|yetenek|əˈbɪləti
+abroad|adv|yurt dışında|əˈbrɔːd
+absence|n|yokluk, devamsızlık|ˈæbsəns
+absent|adj|yok, devamsız|ˈæbsənt
+absolute|adj|mutlak|ˈæbsəluːt
+absorb|v|emmek|əbˈzɔːrb
+abuse|n,v|istismar; kötüye kullanmak|əˈbjuːs
+academic|adj|akademik|ˌækəˈdemɪk
+academy|n|akademi|əˈkædəmi
+access|n,v|erişim; erişmek|ˈækses
+accommodation|n|konaklama|əˌkɑːməˈdeɪʃən
+accompany|v|eşlik etmek|əˈkʌmpəni
+accomplish|v|başarmak|əˈkɑːmplɪʃ
+accurate|adj|doğru, kesin|ˈækjərət
+accuse|v|suçlamak|əˈkjuːz
+acid|n|asit|ˈæsɪd
+acknowledge|v|kabul etmek|əkˈnɑːlɪdʒ
+acquire|v|edinmek|əˈkwaɪər
+adapt|v|uyum sağlamak|əˈdæpt
+addition|n|ekleme, ilave|əˈdɪʃən
+additional|adj|ek, ilave|əˈdɪʃənəl
+adequate|adj|yeterli|ˈædɪkwət
+adjust|v|ayarlamak|əˈdʒʌst
+administration|n|yönetim|ədˌmɪnɪˈstreɪʃən
+admire|v|hayran olmak|ədˈmaɪər
+adopt|v|evlat edinmek; benimsemek|əˈdɑːpt
+advance|n,v|ilerleme; ilerlemek|ədˈvæns
+advanced|adj|ileri, gelişmiş|ədˈvænst
+affair|n|mesele; ilişki|əˈfer
+affect|v|etkilemek|əˈfekt
+agenda|n|gündem|əˈdʒendə
+aggressive|adj|saldırgan|əˈɡresɪv
+agriculture|n|tarım|ˈæɡrɪkʌltʃər
+aid|n|yardım|eɪd
+aircraft|n|uçak|ˈerkræft
+airline|n|havayolu|ˈerlaɪn
+alarm clock|n|çalar saat|əˈlɑːrm klɑːk
+alongside|prep|yanı sıra|əˌlɔːŋˈsaɪd
+alter|v|değiştirmek|ˈɔːltər
+amazed|adj|şaşkın|əˈmeɪzd
+ambition|n|hırs, tutku|æmˈbɪʃən
+ambulance|n|ambulans|ˈæmbjələns
+amusing|adj|eğlenceli|əˈmjuːzɪŋ
+analyze|v|analiz etmek|ˈænəlaɪz
+ancestor|n|ata|ˈænsestər
+anniversary|n|yıl dönümü|ˌænɪˈvɜːrsəri
+announcement|n|duyuru|əˈnaʊnsmənt
+anxiety|n|kaygı|æŋˈzaɪəti
+apology|n|özür|əˈpɑːlədʒi
+apparent|adj|belli, görünen|əˈpærənt
+appeal|n,v|çekicilik; başvurmak|əˈpiːl
+application|n|başvuru; uygulama|ˌæplɪˈkeɪʃən
+appoint|v|atamak|əˈpɔɪnt
+appropriate|adj|uygun|əˈproʊpriət
+approval|n|onay|əˈpruːvəl
+approve|v|onaylamak|əˈpruːv
+approximately|adv|yaklaşık olarak|əˈprɑːksɪmətli
+arise|v|ortaya çıkmak|əˈraɪz
+armed|adj|silahlı|ɑːrmd
+arrangement|n|düzenleme|əˈreɪndʒmənt
+aspect|n|yön, açı|ˈæspekt
+assess|v|değerlendirmek|əˈses
+assessment|n|değerlendirme|əˈsesmənt
+asset|n|varlık|ˈæset
+assignment|n|ödev, görev|əˈsaɪnmənt
+associate|v|ilişkilendirmek|əˈsoʊʃieɪt
+association|n|dernek; çağrışım|əˌsoʊsiˈeɪʃən
+assume|v|varsaymak|əˈsuːm
+assumption|n|varsayım|əˈsʌmpʃən
+assure|v|temin etmek|əˈʃʊr
+athlete|n|atlet, sporcu|ˈæθliːt
+attach|v|eklemek, iliştirmek|əˈtætʃ
+attractive|adj|çekici|əˈtræktɪv
+authority|n|otorite, yetki|əˈθɔːrəti
+automatic|adj|otomatik|ˌɔːtəˈmætɪk
+automatically|adv|otomatik olarak|ˌɔːtəˈmætɪkli
+awareness|n|farkındalık|əˈwernəs
+awkward|adj|garip, beceriksiz|ˈɔːkwərd
+bacteria|n|bakteri|bækˈtɪriə
+badge|n|rozet|bædʒ
+bake|v|pişirmek|beɪk
+balloon|n|balon|bəˈluːn
+bare|adj|çıplak|ber
+barely|adv|ancak, zar zor|ˈberli
+bargain|n|kelepir|ˈbɑːrɡən
+barrier|n|engel|ˈbæriər
+basement|n|bodrum|ˈbeɪsmənt
+basically|adv|temelde|ˈbeɪsɪkli
+bathe|v|yıkanmak|beɪð
+beast|n|canavar, hayvan|biːst
+behave|v|davranmak|bɪˈheɪv
+being|n|varlık|ˈbiːɪŋ
+beneath|prep|altında|bɪˈniːθ
+besides|adv|ayrıca|bɪˈsaɪdz
+bias|n|önyargı|ˈbaɪəs
+bind|v|bağlamak|baɪnd
+biography|n|biyografi|baɪˈɑːɡrəfi
+blade|n|bıçak ağzı|bleɪd
+bless|v|kutsamak|bles
+blind|adj|kör|blaɪnd
+blink|v|göz kırpmak|blɪŋk
+blood pressure|n|tansiyon|ˈblʌd preʃər
+bloom|v|çiçek açmak|bluːm
+board|v|binmek (uçak, gemi)|bɔːrd
+boast|v|övünmek|boʊst
+bond|n|bağ|bɑːnd
+boom|n|patlama, yükseliş|buːm
+boost|v|artırmak|buːst
+bore|v|sıkmak|bɔːr
+boundary|n|sınır|ˈbaʊndri
+bow|v|eğilmek|baʊ
+brake|n|fren|breɪk
+breed|v,n|yetiştirmek; cins|briːd
+breeze|n|esinti|briːz
+bride|n|gelin|braɪd
+briefly|adv|kısaca|ˈbriːfli
+broadcast|v,n|yayınlamak; yayın|ˈbrɔːdkæst
+brochure|n|broşür|broʊˈʃʊr
+broken|adj|bozuk|ˈbroʊkən
+bucket|n|kova|ˈbʌkɪt
+bullet|n|mermi|ˈbʊlɪt
+bunch|n|demet, grup|bʌntʃ
+burden|n|yük|ˈbɜːrdən
+burst|v|patlamak|bɜːrst
+cabinet|n|dolap; kabine|ˈkæbɪnət
+cable|n|kablo|ˈkeɪbəl
+calculate|v|hesaplamak|ˈkælkjəleɪt
+camel|n|deve|ˈkæməl
+canal|n|kanal (su)|kəˈnæl
+capable|adj|yetenekli|ˈkeɪpəbəl
+capacity|n|kapasite|kəˈpæsəti
+capture|v|yakalamak|ˈkæptʃər
+carbon|n|karbon|ˈkɑːrbən
+cargo|n|kargo|ˈkɑːrɡoʊ
+cartoon|n|karikatür|kɑːrˈtuːn
+category|n|kategori|ˈkætəɡɔːri
+cattle|n|sığır|ˈkætəl
+caution|n|dikkat, ihtiyat|ˈkɔːʃən
+cave|n|mağara|keɪv
+ceremony|n|tören|ˈserəmoʊni
+certificate|n|sertifika|sərˈtɪfɪkət
+chairman|n|başkan|ˈtʃermən
+championship|n|şampiyona|ˈtʃæmpiənʃɪp
+chaos|n|kaos|ˈkeɪɑːs
+charity|n|hayır kurumu|ˈtʃærəti
+charm|n|çekicilik, cazibe|tʃɑːrm
+chart|n|çizelge, grafik|tʃɑːrt
+chase|v|kovalamak|tʃeɪs
+cheek|n|yanak|tʃiːk
+cheer|v|tezahürat yapmak|tʃɪr
+cheerful|adj|neşeli|ˈtʃɪrfəl
+chew|v|çiğnemek|tʃuː
+childhood|n|çocukluk|ˈtʃaɪldhʊd
+chin|n|çene|tʃɪn
+circumstance|n|koşul, durum|ˈsɜːrkəmstæns
+civil|adj|sivil|ˈsɪvəl
+civilization|n|medeniyet|ˌsɪvələˈzeɪʃən
+clarify|v|açıklığa kavuşturmak|ˈklærəfaɪ
+classify|v|sınıflandırmak|ˈklæsɪfaɪ
+clue|n|ipucu|kluː
+cluster|n|küme|ˈklʌstər
+coal|n|kömür|koʊl
+code|n|kod|koʊd
+coincidence|n|tesadüf|koʊˈɪnsɪdəns
+collapse|v|çökmek|kəˈlæps
+colony|n|koloni|ˈkɑːləni
+column|n|sütun|ˈkɑːləm
+combat|n|çatışma, mücadele|ˈkɑːmbæt
+combination|n|kombinasyon|ˌkɑːmbɪˈneɪʃən
+combine|v|birleştirmek|kəmˈbaɪn
+comfort|v|teselli etmek|ˈkʌmfərt
+commercial|adj,n|ticari; reklam|kəˈmɜːrʃəl
+commission|n|komisyon|kəˈmɪʃən
+commit|v|işlemek (suç); bağlanmak|kəˈmɪt
+commitment|n|bağlılık|kəˈmɪtmənt
+committee|n|komite|kəˈmɪti
+communicate|v|iletişim kurmak|kəˈmjuːnɪkeɪt
+communication|n|iletişim|kəˌmjuːnɪˈkeɪʃən
+comparison|n|karşılaştırma|kəmˈpærɪsən
+compete|v|yarışmak|kəmˈpiːt
+competitive|adj|rekabetçi|kəmˈpetətɪv
+competitor|n|rakip|kəmˈpetɪtər
+complicated|adj|karmaşık|ˈkɑːmplɪkeɪtɪd
+component|n|bileşen|kəmˈpoʊnənt
+compose|v|bestelemek; oluşturmak|kəmˈpoʊz
+composer|n|besteci|kəmˈpoʊzər
+concentrate|v|konsantre olmak|ˈkɑːnsəntreɪt
+concentration|n|konsantrasyon|ˌkɑːnsənˈtreɪʃən
+concept|n|kavram|ˈkɑːnsept
+conclude|v|sonuçlandırmak|kənˈkluːd
+conclusion|n|sonuç|kənˈkluːʒən
+concrete|adj,n|somut; beton|ˈkɑːnkriːt
+conduct|v|yürütmek|kənˈdʌkt
+confess|v|itiraf etmek|kənˈfes
+confidence|n|güven|ˈkɑːnfɪdəns
+conflict|n|çatışma|ˈkɑːnflɪkt
+confusion|n|karışıklık|kənˈfjuːʒən
+congress|n|kongre|ˈkɑːŋɡrəs
+conscious|adj|bilinçli|ˈkɑːnʃəs
+consequence|n|sonuç|ˈkɑːnsəkwens
+conservative|adj|muhafazakar|kənˈsɜːrvətɪv
+considerable|adj|hatırı sayılır|kənˈsɪdərəbəl
+consist|v|oluşmak|kənˈsɪst
+consistent|adj|tutarlı|kənˈsɪstənt
+constant|adj|sabit, sürekli|ˈkɑːnstənt
+constantly|adv|sürekli|ˈkɑːnstəntli
+construct|v|inşa etmek|kənˈstrʌkt
+construction|n|inşaat|kənˈstrʌkʃən
+consult|v|danışmak|kənˈsʌlt
+consume|v|tüketmek|kənˈsuːm
+consumer|n|tüketici|kənˈsuːmər
+contemporary|adj|çağdaş|kənˈtempəreri
+context|n|bağlam|ˈkɑːntekst
+contract|n|sözleşme|ˈkɑːntrækt
+contrast|n|zıtlık|ˈkɑːntræst
+contribute|v|katkıda bulunmak|kənˈtrɪbjuːt
+contribution|n|katkı|ˌkɑːntrɪˈbjuːʃən
+convenient|adj|elverişli|kənˈviːniənt
+convention|n|kongre; gelenek|kənˈvenʃən
+convert|v|dönüştürmek|kənˈvɜːrt
+convince|v|ikna etmek|kənˈvɪns
+cooperation|n|işbirliği|koʊˌɑːpəˈreɪʃən
+cope|v|başa çıkmak|koʊp
+core|n|çekirdek, öz|kɔːr
+corporate|adj|kurumsal|ˈkɔːrpərət
+correspond|v|yazışmak; karşılık gelmek|ˌkɔːrəˈspɑːnd
+council|n|konsey|ˈkaʊnsəl
+counter|n|tezgah|ˈkaʊntər
+crack|n,v|çatlak; çatlamak|kræk
+craft|n|zanaat|kræft
+creation|n|yaratılış, eser|kriˈeɪʃən
+creative|adj|yaratıcı|kriˈeɪtɪv
+creature|n|yaratık|ˈkriːtʃər
+credit|n|kredi; itibar|ˈkredɪt
+critic|n|eleştirmen|ˈkrɪtɪk
+critical|adj|eleştirel; kritik|ˈkrɪtɪkəl
+criticism|n|eleştiri|ˈkrɪtɪsɪzəm
+criticize|v|eleştirmek|ˈkrɪtɪsaɪz
+crop|n|ürün, mahsul|krɑːp
+crucial|adj|çok önemli|ˈkruːʃəl
+crush|v|ezmek|krʌʃ
+cultural|adj|kültürel|ˈkʌltʃərəl
+currency|n|para birimi|ˈkɜːrənsi
+curve|n|eğri, viraj|kɜːrv
+custom|n|gelenek, âdet|ˈkʌstəm
+cycle|n|döngü|ˈsaɪkəl
+damp|adj|nemli|dæmp
+deadly|adj|ölümcül|ˈdedli
+dealer|n|satıcı, bayi|ˈdiːlər
+debt|n|borç|det
+decline|v,n|düşmek; azalma|dɪˈklaɪn
+dedicate|v|adamak|ˈdedɪkeɪt
+defeat|v,n|yenmek; yenilgi|dɪˈfiːt
+defense|n|savunma|dɪˈfens
+deficit|n|açık (bütçe)|ˈdefɪsɪt
+define|v|tanımlamak|dɪˈfaɪn
+deliberately|adv|kasıtlı olarak|dɪˈlɪbərətli
+delight|n|zevk, sevinç|dɪˈlaɪt
+democracy|n|demokrasi|dɪˈmɑːkrəsi
+demonstrate|v|göstermek, kanıtlamak|ˈdemənstreɪt
+dense|adj|yoğun|dens
+deposit|v|yatırmak (para)|dɪˈpɑːzɪt
+depression|n|depresyon|dɪˈpreʃən
+depth|n|derinlik|depθ
+deputy|n|vekil, yardımcı|ˈdepjəti
+derive|v|türetmek|dɪˈraɪv
+deserve|v|hak etmek|dɪˈzɜːrv
+desperate|adj|çaresiz|ˈdespərət
+despite|prep|-e rağmen|dɪˈspaɪt
+destruction|n|yıkım|dɪˈstrʌkʃən
+detect|v|tespit etmek|dɪˈtekt
+determination|n|kararlılık|dɪˌtɜːrmɪˈneɪʃən
+determined|adj|kararlı|dɪˈtɜːrmɪnd
+devote|v|adamak|dɪˈvoʊt
+dialogue|n|diyalog|ˈdaɪəlɔːɡ
+differ|v|farklı olmak|ˈdɪfər
+dig|v|kazmak|dɪɡ
+dimension|n|boyut|daɪˈmenʃən
+diplomat|n|diplomat|ˈdɪpləmæt
+dirty|adj|kirli|ˈdɜːrti
+disability|n|engellilik|ˌdɪsəˈbɪləti
+discipline|n|disiplin|ˈdɪsəplɪn
+discovery|n|keşif|dɪˈskʌvəri
+dismiss|v|reddetmek; kovmak|dɪsˈmɪs
+disorder|n|bozukluk|dɪsˈɔːrdər
+dispute|n|anlaşmazlık|dɪˈspjuːt
+distinct|adj|belirgin, farklı|dɪˈstɪŋkt
+distinguish|v|ayırt etmek|dɪˈstɪŋɡwɪʃ
+distribute|v|dağıtmak|dɪˈstrɪbjuːt
+distribution|n|dağıtım|ˌdɪstrɪˈbjuːʃən
+district|n|ilçe, bölge|ˈdɪstrɪkt
+diverse|adj|çeşitli|daɪˈvɜːrs
+domestic|adj|yerli; ev ile ilgili|dəˈmestɪk
+dominant|adj|baskın|ˈdɑːmɪnənt
+dominate|v|hakim olmak|ˈdɑːmɪneɪt
+donate|v|bağışlamak|ˈdoʊneɪt
+draft|n|taslak|dræft
+drag|v|sürüklemek|dræɡ
+dramatic|adj|dramatik|drəˈmætɪk
+dramatically|adv|çarpıcı şekilde|drəˈmætɪkli
+drought|n|kuraklık|draʊt
+dull|adj|sıkıcı; donuk|dʌl
+dump|v|boşaltmak, atmak|dʌmp
+durable|adj|dayanıklı|ˈdʊrəbəl
+dynamic|adj|dinamik|daɪˈnæmɪk
+eager|adj|istekli|ˈiːɡər
+earnings|n|kazanç|ˈɜːrnɪŋz
+ease|n,v|kolaylık; hafifletmek|iːz
+ecology|n|ekoloji|iˈkɑːlədʒi
+economic|adj|ekonomik|ˌekəˈnɑːmɪk
+edition|n|baskı (yayın)|ɪˈdɪʃən
+effective|adj|etkili|ɪˈfektɪv
+efficiency|n|verimlilik|ɪˈfɪʃənsi
+elegant|adj|zarif|ˈelɪɡənt
+eliminate|v|elemek, ortadan kaldırmak|ɪˈlɪmɪneɪt
+elsewhere|adv|başka yerde|ˈelswer
+embrace|v|kucaklamak|ɪmˈbreɪs
+emerge|v|ortaya çıkmak|ɪˈmɜːrdʒ
+emphasis|n|vurgu|ˈemfəsɪs
+emphasize|v|vurgulamak|ˈemfəsaɪz
+empire|n|imparatorluk|ˈempaɪər
+enable|v|olanak sağlamak|ɪˈneɪbəl
+encounter|v,n|karşılaşmak; karşılaşma|ɪnˈkaʊntər
+endless|adj|sonsuz|ˈendləs
+endure|v|dayanmak|ɪnˈdʊr
+enforce|v|uygulamak (yasa)|ɪnˈfɔːrs
+engage|v|meşgul etmek; katılmak|ɪnˈɡeɪdʒ
+enhance|v|geliştirmek|ɪnˈhæns
+enormous|adj|muazzam|ɪˈnɔːrməs
+ensure|v|sağlamak, garantilemek|ɪnˈʃʊr
+enterprise|n|girişim|ˈentərpraɪz
+entertain|v|eğlendirmek|ˌentərˈteɪn
+enthusiasm|n|coşku|ɪnˈθuːziæzəm
+enthusiastic|adj|hevesli|ɪnˌθuːziˈæstɪk
+entitle|v|hak vermek|ɪnˈtaɪtəl
+episode|n|bölüm (dizi)|ˈepɪsoʊd
+equality|n|eşitlik|iˈkwɑːləti
+equally|adv|eşit olarak|ˈiːkwəli
+equivalent|adj|eşdeğer|ɪˈkwɪvələnt
+era|n|çağ, dönem|ˈɪrə
+essential|adj|gerekli, temel|ɪˈsenʃəl
+establish|v|kurmak|ɪˈstæblɪʃ
+estate|n|mülk, emlak|ɪˈsteɪt
+estimate|v,n|tahmin etmek; tahmin|ˈestɪmeɪt
+ethical|adj|etik|ˈeθɪkəl
+evaluate|v|değerlendirmek|ɪˈvæljueɪt
+evident|adj|açık, belli|ˈevɪdənt
+evil|adj,n|kötü; kötülük|ˈiːvəl
+evolution|n|evrim|ˌevəˈluːʃən
+evolve|v|evrimleşmek|ɪˈvɑːlv
+exaggerate|v|abartmak|ɪɡˈzædʒəreɪt
+examination|n|muayene; sınav|ɪɡˌzæmɪˈneɪʃən
+exceed|v|aşmak|ɪkˈsiːd
+exception|n|istisna|ɪkˈsepʃən
+excess|n|fazlalık|ɪkˈses
+exclude|v|hariç tutmak|ɪkˈskluːd
+executive|n|yönetici|ɪɡˈzekjətɪv
+exhausted|adj|bitkin|ɪɡˈzɔːstɪd
+exhibit|v|sergilemek|ɪɡˈzɪbɪt
+existence|n|varoluş|ɪɡˈzɪstəns
+expansion|n|genişleme|ɪkˈspænʃən
+expectation|n|beklenti|ˌekspekˈteɪʃən
+expedition|n|keşif gezisi|ˌekspəˈdɪʃən
+expense|n|masraf|ɪkˈspens
+explanation|n|açıklama|ˌekspləˈneɪʃən
+explicit|adj|açık, net|ɪkˈsplɪsɪt
+explode|v|patlamak|ɪkˈsploʊd
+exploit|v|sömürmek|ɪkˈsplɔɪt
+expose|v|maruz bırakmak; ifşa etmek|ɪkˈspoʊz
+exposure|n|maruz kalma|ɪkˈspoʊʒər
+expression|n|ifade|ɪkˈspreʃən
+extend|v|uzatmak|ɪkˈstend
+extension|n|uzantı; uzatma|ɪkˈstenʃən
+extensive|adj|kapsamlı|ɪkˈstensɪv
+extent|n|derece, ölçü|ɪkˈstent
+external|adj|dış|ɪkˈstɜːrnəl
+extraordinary|adj|olağanüstü|ɪkˈstrɔːrdəneri
+fabric|n|kumaş|ˈfæbrɪk
+facility|n|tesis|fəˈsɪləti
+factor|n|etken, faktör|ˈfæktər
+faculty|n|fakülte|ˈfækəlti
+fade|v|solmak|feɪd
+fairness|n|adalet|ˈfernəs
+faithful|adj|sadık|ˈfeɪθfəl
+fame|n|şöhret|feɪm
+fancy|v|hoşlanmak|ˈfænsi
+fate|n|kader|feɪt
+fatigue|n|yorgunluk|fəˈtiːɡ
+favor|n|iyilik|ˈfeɪvər
+favorite|adj|favori, en sevilen|ˈfeɪvərɪt
+federal|adj|federal|ˈfedərəl
+feedback|n|geri bildirim|ˈfiːdbæk
+fellow|n|arkadaş, dost|ˈfeloʊ
+fiber|n|lif|ˈfaɪbər
+fierce|adj|şiddetli, vahşi|fɪrs
+finding|n|bulgu|ˈfaɪndɪŋ
+firm|n,adj|firma; sağlam|fɜːrm
+fixed|adj|sabit|fɪkst
+flash|n|flaş, parıltı|flæʃ
+flexible|adj|esnek|ˈfleksəbəl
+fluent|adj|akıcı|ˈfluːənt
+fold|v|katlamak|foʊld
+following|adj|aşağıdaki, sonraki|ˈfɑːloʊɪŋ
+forbid|v|yasaklamak|fərˈbɪd
+forecast|v|tahmin etmek|ˈfɔːrkæst
+formation|n|oluşum|fɔːrˈmeɪʃən
+former|adj|eski, önceki|ˈfɔːrmər
+formula|n|formül|ˈfɔːrmjələ
+fortunate|adj|şanslı|ˈfɔːrtʃənət
+forum|n|forum|ˈfɔːrəm
+found|v|kurmak (kurum)|faʊnd
+foundation|n|temel; vakıf|faʊnˈdeɪʃən
+fraction|n|kesir; parça|ˈfrækʃən
+fragile|adj|kırılgan|ˈfrædʒəl
+framework|n|çerçeve|ˈfreɪmwɜːrk
+frankly|adv|açıkçası|ˈfræŋkli
+fraud|n|dolandırıcılık|frɔːd
+frequency|n|sıklık|ˈfriːkwənsi
+frequent|adj|sık|ˈfriːkwənt
+frustrated|adj|hüsrana uğramış|ˈfrʌstreɪtɪd
+fulfill|v|yerine getirmek|fʊlˈfɪl
+fundamental|adj|temel|ˌfʌndəˈmentəl
+funeral|n|cenaze|ˈfjuːnərəl
+furthermore|adv|ayrıca|ˈfɜːrðərmɔːr
+gallery|n|galeri|ˈɡæləri
+gender|n|cinsiyet|ˈdʒendər
+gene|n|gen|dʒiːn
+genuine|adj|gerçek, samimi|ˈdʒenjuɪn
+gesture|n|jest, hareket|ˈdʒestʃər
+glance|v,n|göz atmak; bakış|ɡlæns
+glimpse|n|bir anlık bakış|ɡlɪmps
+glory|n|zafer, şan|ˈɡlɔːri
+goods|n|mallar|ɡʊdz
+govern|v|yönetmek|ˈɡʌvərn
+grab|v|kapmak|ɡræb
+grace|n|zarafet|ɡreɪs
+graduate|v,n|mezun olmak; mezun|ˈɡrædʒueɪt
+grain|n|tahıl|ɡreɪn
+grant|v,n|vermek; hibe|ɡrænt
+graphic|adj|grafik|ˈɡræfɪk
+grasp|v|kavramak|ɡræsp
+grave|n|mezar|ɡreɪv
+gravity|n|yerçekimi|ˈɡrævəti
+grip|n,v|tutuş; sıkıca tutmak|ɡrɪp
+gross|adj|brüt; iğrenç|ɡroʊs
+guidance|n|rehberlik|ˈɡaɪdəns
+guideline|n|yönerge|ˈɡaɪdlaɪn
+guilt|n|suçluluk|ɡɪlt

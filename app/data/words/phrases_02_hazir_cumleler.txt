@@ -1,0 +1,169 @@
+# Hazır cümleler: günlük konuşmada olduğu gibi kullanılan ifadeler (B1)
+# english|tür|türkçe|ipa|örnek|örnek (türkçe)
+#! level=B1
+I'm on my way|expr|yoldayım, geliyorum|aɪm ɑːn maɪ weɪ|Don't worry, I'm on my way.|Merak etme, yoldayım.
+I'll be right back|expr|hemen dönerim|aɪl biː raɪt bæk|Wait here, I'll be right back.|Burada bekle, hemen dönerim.
+long time no see|expr|görüşmeyeli çok oldu|lɔːŋ taɪm noʊ siː|Hey, long time no see! How are you?|Selam, görüşmeyeli çok oldu! Nasılsın?
+what are you up to|expr|ne yapıyorsun?, neler yapıyorsun?|wʌt ɑːr juː ʌp tə|What are you up to this weekend?|Bu hafta sonu ne yapıyorsun?
+how's it going|expr|nasıl gidiyor?|haʊz ɪt ˈɡoʊɪŋ|Hi Tom, how's it going?|Selam Tom, nasıl gidiyor?
+what's going on|expr|neler oluyor?|wʌts ˈɡoʊɪŋ ɑːn|What's going on here?|Burada neler oluyor?
+I'm just looking|expr|sadece bakıyorum (mağazada)|aɪm dʒʌst lʊkɪŋ|No thanks, I'm just looking.|Sağ olun, sadece bakıyorum.
+can I have the bill|expr|hesabı alabilir miyim?|kæn aɪ hæv ðə bɪl|Excuse me, can I have the bill, please?|Afedersiniz, hesabı alabilir miyim lütfen?
+keep the change|expr|üstü kalsın|kiːp ðə tʃeɪndʒ|Here's twenty. Keep the change.|Buyurun yirmi. Üstü kalsın.
+help yourself|expr|buyur, kendin al|help jʊrˈself|There's food in the kitchen. Help yourself.|Mutfakta yemek var. Buyur, kendin al.
+make yourself at home|expr|kendi evin gibi rahat ol|meɪk jʊrˈself æt hoʊm|Come in and make yourself at home.|Gel, kendi evin gibi rahat ol.
+no worries|expr|dert etme, sorun değil|noʊ ˈwɜːriz|No worries, it happens.|Dert etme, olur öyle.
+don't mention it|expr|lafı bile olmaz, rica ederim|doʊnt ˈmenʃən ɪt|Thanks for your help! Don't mention it.|Yardımın için sağ ol! Lafı bile olmaz.
+my pleasure|expr|ne demek, benim için zevkti|maɪ ˈpleʒər|Thank you for dinner. My pleasure.|Yemek için teşekkürler. Ne demek, zevkti.
+it's on me|expr|benden, ben ısmarlıyorum|ɪts ɑːn miː|Put your wallet away, it's on me.|Cüzdanını kaldır, benden.
+bless you|expr|çok yaşa (hapşırınca)|bles juː|Achoo! Bless you!|Hapşu! Çok yaşa!
+I'm sorry to hear that|expr|buna üzüldüm|aɪm ˈsɑːri tə hɪr ðæt|I lost my job. I'm sorry to hear that.|İşimi kaybettim. Buna üzüldüm.
+what a pity|expr|ne yazık|wʌt ə ˈpɪti|You can't come? What a pity.|Gelemiyor musun? Ne yazık.
+fair enough|expr|makul, haklısın, peki|fer ɪˈnʌf|I'm tired, let's go tomorrow. Fair enough.|Yorgunum, yarın gidelim. Peki, makul.
+good for you|expr|aferin sana, iyi yapmışsın|ɡʊd fər juː|I finally quit smoking. Good for you!|Sonunda sigarayı bıraktım. Aferin sana!
+I'm in|expr|ben varım|aɪm ɪn|Pizza tonight? I'm in.|Bu akşam pizza mı? Ben varım.
+count me in|expr|beni de say, ben de varım|kaʊnt miː ɪn|If you're playing football, count me in.|Futbol oynuyorsanız beni de sayın.
+count me out|expr|beni sayma, ben yokum|kaʊnt miː aʊt|A five-hour hike? Count me out.|Beş saatlik yürüyüş mü? Ben yokum.
+I'm not in the mood|expr|havamda değilim|aɪm nɑːt ɪn ðə muːd|I'm not in the mood for jokes.|Şaka kaldıracak havamda değilim.
+I don't feel like it|expr|canım istemiyor|aɪ doʊnt fiːl laɪk ɪt|Let's go out. Sorry, I don't feel like it.|Hadi dışarı çıkalım. Kusura bakma, canım istemiyor.
+I'm starving|expr|açlıktan ölüyorum|aɪm stɑːrvɪŋ|Let's eat, I'm starving.|Yemek yiyelim, açlıktan ölüyorum.
+I'm exhausted|expr|bittim, çok yorgunum|aɪm ɪɡˈzɔːstɪd|After the match I was exhausted.|Maçtan sonra bitmiştim.
+I can't make it|expr|gelemeyeceğim, yetişemeyeceğim|aɪ kænt meɪk ɪt|Sorry, I can't make it tonight.|Kusura bakma, bu akşam gelemeyeceğim.
+I made it|expr|başardım; yetiştim|aɪ meɪd ɪt|I made it! I passed the exam!|Başardım! Sınavı geçtim!
+you made my day|expr|günümü güzelleştirdin|juː meɪd maɪ deɪ|Thanks for the flowers, you made my day.|Çiçekler için teşekkürler, günümü güzelleştirdin.
+that makes sense|expr|mantıklı, anlaşılır|ðæt meɪks sens|Oh, now that makes sense.|Ha, şimdi mantıklı geldi.
+it's not my fault|expr|benim suçum değil|ɪts nɑːt maɪ fɔːlt|Don't blame me, it's not my fault.|Beni suçlama, benim suçum değil.
+take your time|expr|acele etme, rahat ol|teɪk jʊr taɪm|There's no rush, take your time.|Acelesi yok, rahatına bak.
+hang in there|expr|dayan, pes etme|hæŋ ɪn ðer|I know it's hard, but hang in there.|Zor olduğunu biliyorum ama dayan.
+hold on a second|expr|bir saniye bekle|hoʊld ɑːn ə ˈsekənd|Hold on a second, I'll get a pen.|Bir saniye bekle, kalem alayım.
+go for it|expr|yap gitsin, dene|ɡoʊ fər ɪt|If you want that job, go for it.|O işi istiyorsan dene gitsin.
+give it a try|expr|bir dene|ɡɪv ɪt ə traɪ|You might like it. Give it a try.|Belki seversin. Bir dene.
+you never know|expr|belli olmaz, kim bilir|juː ˈnevər noʊ|Buy a ticket. You never know.|Bir bilet al. Belli olmaz.
+it could be worse|expr|daha kötüsü de olabilirdi|ɪt kʊd biː wɜːrs|I broke my finger, but it could be worse.|Parmağımı kırdım ama daha kötüsü de olabilirdi.
+it's not the end of the world|expr|dünyanın sonu değil|ɪts nɑːt ðə end əv ðə wɜːrld|You failed one exam. It's not the end of the world.|Bir sınavdan kaldın. Dünyanın sonu değil.
+let me know|expr|haber ver|let miː noʊ|Let me know when you arrive.|Varınca haber ver.
+keep me posted|expr|beni haberdar et|kiːp miː poʊstɪd|Keep me posted about the job interview.|İş görüşmesiyle ilgili beni haberdar et.
+let me think about it|expr|bir düşüneyim|let miː θɪŋk əˈbaʊt ɪt|It's a good offer. Let me think about it.|İyi bir teklif. Bir düşüneyim.
+I see|expr|anlıyorum, anladım|aɪ siː|Oh, I see. That's why you were late.|Anladım. Geç kalmanın sebebi buymuş.
+got it|expr|anladım, tamamdır|ɡɑːt ɪt|Turn left at the bank. Got it.|Bankadan sola dön. Tamamdır.
+I didn't catch that|expr|anlayamadım, duyamadım|aɪ ˈdɪdənt kætʃ ðæt|Sorry, I didn't catch that. Can you repeat?|Kusura bakma, anlayamadım. Tekrarlar mısın?
+could you say that again|expr|tekrar söyler misiniz?|kʊd juː seɪ ðæt əˈɡen|Could you say that again, please?|Tekrar söyler misiniz lütfen?
+what do you mean|expr|ne demek istiyorsun?|wʌt duː juː miːn|What do you mean, it's gone?|Ne demek kayboldu?
+how do you say this in English|expr|bunu İngilizcede nasıl söylersin?|haʊ duː juː seɪ ðɪs ɪn ˈɪŋɡlɪʃ|How do you say this in English?|Bunu İngilizcede nasıl söylersin?
+I have no idea|expr|hiçbir fikrim yok|aɪ hæv noʊ aɪˈdiːə|Where's Tom? I have no idea.|Tom nerede? Hiçbir fikrim yok.
+beats me|expr|bilmem, hiç fikrim yok|biːts miː|Why is the shop closed? Beats me.|Dükkân neden kapalı? Bilmem.
+who knows|expr|kim bilir|huː noʊz|Who knows what will happen tomorrow?|Yarın ne olacağını kim bilir?
+forget it|expr|boş ver, unut gitsin|fərˈɡet ɪt|Forget it, it's not important.|Boş ver, önemli değil.
+suit yourself|expr|sen bilirsin, nasıl istersen|suːt jʊrˈself|You don't want to come? Suit yourself.|Gelmek istemiyor musun? Sen bilirsin.
+it's up to you|expr|sana kalmış, sen bilirsin|ɪts ʌp tə juː|Pizza or pasta? It's up to you.|Pizza mı makarna mı? Sana kalmış.
+I don't mind|expr|fark etmez, bence sakıncası yok|aɪ doʊnt maɪnd|Tea or coffee? I don't mind.|Çay mı kahve mi? Fark etmez.
+either is fine|expr|ikisi de olur|ˈiːðər ɪz faɪn|Monday or Tuesday? Either is fine.|Pazartesi mi salı mı? İkisi de olur.
+same here|expr|bende de aynısı, ben de|seɪm hɪr|I'm so tired. Same here.|Çok yorgunum. Ben de.
+me neither|expr|ben de (olumsuz)|miː ˈniːðər|I don't like horror films. Me neither.|Korku filmlerini sevmem. Ben de sevmem.
+so do I|expr|ben de|soʊ duː aɪ|I love summer. So do I.|Yazı çok severim. Ben de.
+neither do I|expr|ben de (olumsuz)|ˈniːðər duː aɪ|I don't eat meat. Neither do I.|Et yemem. Ben de yemem.
+you're kidding|expr|şaka yapıyorsun!|jʊr kɪdɪŋ|You won the lottery? You're kidding!|Piyangoyu mu kazandın? Şaka yapıyorsun!
+no kidding|expr|ciddi misin?; ne demezsin|noʊ kɪdɪŋ|He's moving to Japan. No kidding!|Japonya'ya taşınıyor. Ciddi misin!
+are you serious|expr|ciddi misin?|ɑːr juː ˈsɪriəs|Are you serious? That's amazing!|Ciddi misin? Bu harika!
+for real|expr|gerçekten mi?, cidden|fər ˈriːəl|Is that for real?|Bu gerçek mi?
+you bet|expr|ne demezsin, kesinlikle|juː bet|Are you coming tonight? You bet!|Bu akşam geliyor musun? Ne demezsin!
+sounds good|expr|olur, iyi fikir|saʊndz ɡʊd|Let's meet at seven. Sounds good.|Yedide buluşalım. Olur.
+sounds like a plan|expr|anlaştık, güzel plan|saʊndz laɪk ə plæn|Dinner then a movie? Sounds like a plan.|Önce yemek sonra film mi? Anlaştık.
+it's a deal|expr|anlaştık|ɪts ə diːl|You cook, I'll wash up. It's a deal.|Sen pişir, ben yıkarım. Anlaştık.
+that's it|expr|işte bu; bu kadar|ðæts ɪt|That's it! You got it right.|İşte bu! Doğru yaptın.
+that's enough|expr|yeter, bu kadar yeter|ðæts ɪˈnʌf|That's enough for today.|Bugünlük bu kadar yeter.
+that's not the point|expr|mesele o değil|ðæts nɑːt ðə pɔɪnt|It's cheap, but that's not the point.|Ucuz, ama mesele o değil.
+here we go again|expr|yine başlıyoruz, al işte yine|hɪr wiː ɡoʊ əˈɡen|Here we go again, another meeting.|Al işte yine, bir toplantı daha.
+there you go|expr|al bakalım; işte oldu|ðer juː ɡoʊ|There you go, your coffee.|Al bakalım, kahven.
+thanks anyway|expr|yine de sağ ol|θæŋks ˈeniweɪ|I couldn't find it. Thanks anyway.|Bulamadım. Yine de sağ ol.
+I owe you one|expr|sana bir borçluyum|aɪ oʊ juː wʌn|Thanks for covering for me. I owe you one.|Beni idare ettiğin için sağ ol. Sana bir borçluyum.
+after you|expr|önce siz buyurun|ˈæftər juː|Please, after you.|Lütfen, önce siz buyurun.
+watch out|expr|dikkat et!|wɑːtʃ aʊt|Watch out! There's a car!|Dikkat et! Araba var!
+take care|expr|kendine iyi bak|teɪk ker|See you next week. Take care!|Haftaya görüşürüz. Kendine iyi bak!
+have a good one|expr|iyi günler (vedalaşırken)|hæv ə ɡʊd wʌn|Thanks, have a good one!|Teşekkürler, iyi günler!
+catch you later|expr|sonra görüşürüz|kætʃ juː ˈleɪtər|I've got to run. Catch you later!|Kaçmam lazım. Sonra görüşürüz!
+talk to you soon|expr|yakında konuşuruz|tɔːk tə juː suːn|Bye for now. Talk to you soon.|Şimdilik hoşça kal. Yakında konuşuruz.
+nice to meet you|expr|tanıştığıma memnun oldum|naɪs tə miːt juː|Hi, I'm Anna. Nice to meet you.|Selam, ben Anna. Tanıştığıma memnun oldum.
+it's been a while|expr|epey oldu, uzun zaman oldu|ɪts bɪn ə waɪl|It's been a while since we last met.|Son görüşmemizin üzerinden epey zaman geçti.
+not much|expr|pek bir şey yok, öyle işte|nɑːt mʌtʃ|What's new? Not much.|Ne var ne yok? Pek bir şey yok.
+could be better|expr|daha iyi olabilirdi, idare eder|kʊd biː ˈbetər|How are you? Could be better.|Nasılsın? İdare eder.
+so-so|expr|şöyle böyle|soʊsoʊ|How was the film? So-so.|Film nasıldı? Şöyle böyle.
+how was your day|expr|günün nasıl geçti?|haʊ wʌz jʊr deɪ|Hi honey, how was your day?|Selam canım, günün nasıl geçti?
+what do you do|expr|ne iş yapıyorsun?|wʌt duː juː duː|So, what do you do? I'm a nurse.|Peki ne iş yapıyorsun? Hemşireyim.
+I'm running late|expr|geç kalıyorum|aɪm rʌnɪŋ leɪt|I'm running late. Start without me.|Geç kalıyorum. Bensiz başlayın.
+I overslept|expr|uyuyakaldım|aɪ ˌoʊvərˈslept|Sorry I'm late, I overslept.|Geç kaldığım için kusura bakma, uyuyakalmışım.
+I've got to go|expr|gitmem lazım|aɪv ɡɑːt tə ɡoʊ|It's late, I've got to go.|Geç oldu, gitmem lazım.
+I'm off|expr|ben çıkıyorum, ben kaçtım|aɪm ɔːf|Right, I'm off. See you tomorrow.|Pekâlâ, ben kaçtım. Yarın görüşürüz.
+I'm broke|expr|beş parasızım|aɪm broʊk|I can't come, I'm broke this month.|Gelemem, bu ay beş parasızım.
+let's split the bill|expr|hesabı bölüşelim|lets splɪt ðə bɪl|Let's split the bill this time.|Bu sefer hesabı bölüşelim.
+is this seat taken|expr|burası dolu mu?|ɪz ðɪs siːt ˈteɪkən|Excuse me, is this seat taken?|Afedersiniz, burası dolu mu?
+can I pay by card|expr|kartla ödeyebilir miyim?|kæn aɪ peɪ baɪ kɑːrd|Can I pay by card here?|Burada kartla ödeyebilir miyim?
+could you do me a favor|expr|bana bir iyilik yapar mısın?|kʊd juː duː miː ə ˈfeɪvər|Could you do me a favor and water my plants?|Bana bir iyilik yapıp çiçeklerimi sular mısın?
+I'll take care of it|expr|ben hallederim|aɪl teɪk ker əv ɪt|Don't worry about the tickets. I'll take care of it.|Biletleri dert etme. Ben hallederim.
+leave it to me|expr|bana bırak|liːv ɪt tə miː|Leave it to me, I know what to do.|Bana bırak, ne yapacağımı biliyorum.
+leave me alone|expr|beni rahat bırak|liːv miː əˈloʊn|Please, just leave me alone.|Lütfen, beni rahat bırak.
+mind your own business|expr|sen kendi işine bak|maɪnd jʊr oʊn ˈbɪznəs|Mind your own business!|Sen kendi işine bak!
+it's none of your business|expr|seni ilgilendirmez|ɪts nʌn əv jʊr ˈbɪznəs|Where was I? It's none of your business.|Neredeydim mi? Seni ilgilendirmez.
+get out of here|expr|hadi oradan! (inanmama); çık git|ɡet aʊt əv hɪr|You won a car? Get out of here!|Araba mı kazandın? Hadi oradan!
+knock it off|expr|kes şunu|nɑːk ɪt ɔːf|Knock it off, I'm trying to sleep.|Kes şunu, uyumaya çalışıyorum.
+give me a break|expr|yeter artık, rahat bırak; hadi canım|ɡɪv miː ə breɪk|Oh, give me a break! That's not true.|Hadi canım! Bu doğru değil.
+come on|expr|hadi!; yapma ya!|kʌm ɑːn|Come on, we're going to be late!|Hadi, geç kalacağız!
+big deal|expr|ne olmuş yani, büyük iş!|bɪɡ diːl|You got a new phone. Big deal.|Yeni telefon almışsın. Ne olmuş yani.
+no big deal|expr|önemli değil, büyütecek bir şey yok|noʊ bɪɡ diːl|I forgot your book. No big deal.|Kitabını unuttum. Önemli değil.
+so what|expr|ne olmuş yani?|soʊ wʌt|I'm late. So what?|Geç kaldım. Ne olmuş yani?
+my bad|expr|benim hatam, pardon|maɪ bæd|Oh, that's your seat? My bad.|Aa, senin yerin mi? Pardon, benim hatam.
+I messed up|expr|batırdım, ortalığı karıştırdım|aɪ mest ʌp|I messed up the presentation.|Sunumu batırdım.
+I didn't mean it|expr|öyle demek istemedim|aɪ ˈdɪdənt miːn ɪt|I'm sorry, I didn't mean it.|Özür dilerim, öyle demek istemedim.
+I didn't mean to|expr|istemeden oldu, kasıtlı değildi|aɪ ˈdɪdənt miːn tə|Sorry, I didn't mean to wake you.|Kusura bakma, seni uyandırmak istemedim.
+no offense|expr|alınma ama|noʊ əˈfens|No offense, but your cooking is terrible.|Alınma ama yemeklerin berbat.
+none taken|expr|alınmadım|nʌn ˈteɪkən|No offense. None taken.|Alınma ama... Alınmadım.
+it's not what it looks like|expr|göründüğü gibi değil|ɪts nɑːt wʌt ɪt lʊks laɪk|Wait, it's not what it looks like!|Dur, göründüğü gibi değil!
+long story short|expr|uzun lafın kısası|lɔːŋ ˈstɔːri ʃɔːrt|Long story short, we missed the plane.|Uzun lafın kısası, uçağı kaçırdık.
+believe it or not|expr|ister inan ister inanma|bɪˈliːv ɪt ɔːr nɑːt|Believe it or not, I've never seen snow.|İster inan ister inanma, hiç kar görmedim.
+speaking of which|expr|laf açılmışken|spiːkɪŋ əv wɪtʃ|Speaking of which, have you paid the rent?|Laf açılmışken, kirayı ödedin mi?
+just kidding|expr|şaka şaka, şaka yaptım|dʒʌst kɪdɪŋ|You're fired! Just kidding.|Kovuldun! Şaka şaka.
+I'm all ears|expr|can kulağıyla dinliyorum|aɪm ɔːl ɪrz|Tell me everything. I'm all ears.|Her şeyi anlat. Can kulağıyla dinliyorum.
+be my guest|expr|buyur, çekinme|biː maɪ ɡest|Can I use your phone? Be my guest.|Telefonunu kullanabilir miyim? Buyur.
+what a coincidence|expr|ne tesadüf|wʌt ə koʊˈɪnsɪdəns|You're here too? What a coincidence!|Sen de mi buradasın? Ne tesadüf!
+what a relief|expr|oh be, ne rahatlama|wʌt ə rɪˈliːf|The test was negative. What a relief!|Test negatif çıktı. Oh be, rahatladım!
+what a mess|expr|ne dağınıklık!, ne rezalet!|wʌt ə mes|Look at your room. What a mess!|Odana bak. Ne dağınıklık!
+it's a small world|expr|dünya küçük|ɪts ə smɔːl wɜːrld|You know my brother? It's a small world!|Kardeşimi tanıyor musun? Dünya küçük!
+time flies|expr|zaman su gibi akıyor|taɪm flaɪz|It's already midnight? Time flies.|Gece yarısı mı oldu? Zaman su gibi akıyor.
+it's about time|expr|nihayet, artık zamanı gelmişti|ɪts əˈbaʊt taɪm|You finally called! It's about time.|Sonunda aradın! Artık zamanı gelmişti.
+better luck next time|expr|bir dahakine artık, bir dahaki sefere|ˈbetər lʌk nekst taɪm|You lost? Better luck next time.|Kaybettin mi? Bir dahakine artık.
+keep it up|expr|böyle devam et|kiːp ɪt ʌp|Great work! Keep it up.|Harika iş! Böyle devam et.
+I knew it|expr|biliyordum!|aɪ nuː ɪt|I knew it! You were lying!|Biliyordum! Yalan söylüyordun!
+fingers crossed|expr|şans dile, inşallah olur|ˈfɪŋɡərz krɔːst|I have an interview tomorrow. Fingers crossed!|Yarın mülakatım var. Şans dile!
+knock on wood|expr|nazar değmesin, tahtaya vur|nɑːk ɑːn wʊd|I've never had an accident, knock on wood.|Hiç kaza yapmadım, nazar değmesin.
+don't worry about it|expr|kafana takma|doʊnt ˈwɜːri əˈbaʊt ɪt|I'm sorry I'm late. Don't worry about it.|Geç kaldığım için üzgünüm. Kafana takma.
+easy does it|expr|yavaş ol, dikkatli|ˈiːzi duːz ɪt|Easy does it, the box is heavy.|Yavaş ol, kutu ağır.
+take it or leave it|expr|ister al ister alma, son teklif|teɪk ɪt ɔːr liːv ɪt|Fifty dollars. Take it or leave it.|Elli dolar. İster al ister alma.
+can I take a rain check|expr|başka bir zamana bırakabilir miyiz?|kæn aɪ teɪk ə reɪn tʃek|I'm busy tonight. Can I take a rain check?|Bu akşam meşgulüm. Başka bir zamana bırakabilir miyiz?
+it slipped my mind|expr|aklımdan çıktı|ɪt slɪpt maɪ maɪnd|Sorry, your birthday completely slipped my mind.|Kusura bakma, doğum günün tamamen aklımdan çıktı.
+tell me about it|expr|bana mı anlatıyorsun! (aynen)|tel miː əˈbaʊt ɪt|This traffic is terrible. Tell me about it!|Bu trafik berbat. Bana mı anlatıyorsun!
+you can say that again|expr|çok doğru, aynen öyle|juː kæn seɪ ðæt əˈɡen|It's hot today. You can say that again!|Bugün hava sıcak. Aynen öyle!
+I couldn't agree more|expr|sonuna kadar katılıyorum|aɪ ˈkʊdənt əˈɡriː mɔːr|We need a holiday. I couldn't agree more.|Bir tatile ihtiyacımız var. Sonuna kadar katılıyorum.
+I see your point|expr|ne demek istediğini anlıyorum|aɪ siː jʊr pɔɪnt|I see your point, but I don't agree.|Ne demek istediğini anlıyorum ama katılmıyorum.
+that's a good point|expr|haklısın, iyi bir noktaya değindin|ðæts ə ɡʊd pɔɪnt|That's a good point. I hadn't thought of that.|İyi bir noktaya değindin. Bunu düşünmemiştim.
+what's the point|expr|ne anlamı var?|wʌts ðə pɔɪnt|What's the point of studying if you don't sleep?|Uyumazsan ders çalışmanın ne anlamı var?
+nobody's perfect|expr|kimse mükemmel değil|ˈnoʊbədiz ˈpɜːrfɪkt|I made a mistake. Well, nobody's perfect.|Hata yaptım. Eh, kimse mükemmel değil.
+it's not a big deal|expr|büyütecek bir şey değil|ɪts nɑːt ə bɪɡ diːl|Relax, it's not a big deal.|Rahatla, büyütecek bir şey değil.
+it depends|expr|duruma göre değişir|ɪt dɪˈpendz|Are you coming? It depends.|Geliyor musun? Duruma göre.
+I'm not sure about that|expr|ondan pek emin değilim|aɪm nɑːt ʃʊr əˈbaʊt ðæt|I'm not sure about that idea.|O fikirden pek emin değilim.
+it's worth a try|expr|denemeye değer|ɪts wɜːrθ ə traɪ|It might not work, but it's worth a try.|İşe yaramayabilir ama denemeye değer.
+here you go|expr|buyurun, al bakalım|hɪr juː ɡoʊ|Here you go, your change.|Buyurun, paranızın üstü.
+what's done is done|expr|olan oldu|wʌts dʌn ɪz dʌn|Don't cry. What's done is done.|Ağlama. Olan oldu.
+I'm used to it|expr|alıştım|aɪm juːzd tə ɪt|The noise doesn't bother me. I'm used to it.|Gürültü beni rahatsız etmiyor. Alıştım.
+I can't believe it|expr|inanamıyorum|aɪ kænt bɪˈliːv ɪt|We won! I can't believe it!|Kazandık! İnanamıyorum!
+I'm proud of you|expr|seninle gurur duyuyorum|aɪm praʊd əv juː|You did great. I'm proud of you.|Harika iş çıkardın. Seninle gurur duyuyorum.
+whatever happens|expr|ne olursa olsun|wʌtˈevər ˈhæpənz|Whatever happens, I'm on your side.|Ne olursa olsun senin tarafındayım.
+are you okay|expr|iyi misin?|ɑːr juː oʊˈkeɪ|You look pale. Are you okay?|Solgun görünüyorsun. İyi misin?
+what happened|expr|ne oldu?|wʌt ˈhæpənd|What happened to your hand?|Eline ne oldu?
+never again|expr|bir daha asla|ˈnevər əˈɡen|I'm never doing that again.|Bunu bir daha asla yapmayacağım.
+same as usual|expr|her zamanki gibi|seɪm æz ˈjuːʒuəl|What would you like? Same as usual.|Ne alırsınız? Her zamankinden.
+I'm not sure yet|expr|henüz emin değilim|aɪm nɑːt ʃʊr jet|Are you going to the party? I'm not sure yet.|Partiye gidiyor musun? Henüz emin değilim.
+let me guess|expr|dur tahmin edeyim|let miː ɡes|Let me guess, you forgot your keys again.|Dur tahmin edeyim, anahtarlarını yine unuttun.
+you look great|expr|harika görünüyorsun|juː lʊk ɡreɪt|Wow, you look great today!|Vay, bugün harika görünüyorsun!
+it's my turn|expr|sıra bende|ɪts maɪ tɜːrn|Give me the controller, it's my turn.|Kolu ver, sıra bende.
+nice try|expr|güzel deneme (ama olmadı)|naɪs traɪ|Nice try, but you're wrong.|Güzel deneme ama yanılıyorsun.
+it's on the house|expr|ikramımız, müesseseden|ɪts ɑːn ðə haʊs|The dessert is on the house.|Tatlı bizden, ikram.

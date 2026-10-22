@@ -1,0 +1,567 @@
+# english|tür|türkçe|ipa  — sıklık sırası 1-500 (A1)
+the|det|-i, -ı (belirli tanımlık)|ðə
+be|v|olmak|biː
+to|prep|-e, -a; için|tuː
+of|prep|-in, -ın; -den|ʌv
+and|conj|ve|ænd
+a|det|bir|ə
+in|prep|içinde, -de|ɪn
+that|det,pron,conj|şu, o; ki|ðæt
+have|v|sahip olmak; -miş olmak|hæv
+I|pron|ben|aɪ
+it|pron|o (cansız)|ɪt
+for|prep|için|fɔːr
+not|adv|değil|nɑːt
+on|prep|üstünde, -de|ɑːn
+with|prep|ile, birlikte|wɪð
+he|pron|o (erkek)|hiː
+as|conj,prep|olarak; -dığı gibi|æz
+you|pron|sen, siz|juː
+do|v|yapmak|duː
+at|prep|-de, -da|æt
+this|det,pron|bu|ðɪs
+but|conj|ama, fakat|bʌt
+his|det|onun (erkek)|hɪz
+by|prep|tarafından; yanında|baɪ
+from|prep|-den, -dan|frʌm
+they|pron|onlar|ðeɪ
+we|pron|biz|wiː
+say|v|söylemek, demek|seɪ
+her|det,pron|onun; onu (kadın)|hɜːr
+she|pron|o (kadın)|ʃiː
+or|conj|veya|ɔːr
+an|det|bir (sesli harften önce)|æn
+will|modal|-ecek, -acak|wɪl
+my|det|benim|maɪ
+one|num|bir|wʌn
+all|det|hepsi, bütün|ɔːl
+would|modal|-erdi; -er miydin|wʊd
+there|adv|orada; vardır|ðer
+their|det|onların|ðer
+what|pron|ne|wʌt
+so|adv,conj|öyle, çok; bu yüzden|soʊ
+up|adv|yukarı|ʌp
+out|adv|dışarı|aʊt
+if|conj|eğer|ɪf
+about|prep|hakkında; yaklaşık|əˈbaʊt
+who|pron|kim|huː
+get|v|almak, elde etmek; olmak|ɡet
+which|pron|hangi, hangisi|wɪtʃ
+go|v|gitmek|ɡoʊ
+me|pron|beni, bana|miː
+when|adv,conj|ne zaman; -dığında|wen
+make|v|yapmak, yaratmak|meɪk
+can|modal|-ebilmek|kæn
+like|v,prep|sevmek, hoşlanmak; gibi|laɪk
+time|n|zaman; kez|taɪm
+no|det,adv|hayır; hiç|noʊ
+just|adv|sadece; az önce|dʒʌst
+him|pron|onu, ona (erkek)|hɪm
+know|v|bilmek, tanımak|noʊ
+take|v|almak, götürmek|teɪk
+people|n|insanlar|ˈpiːpəl
+into|prep|içine|ˈɪntuː
+year|n|yıl|jɪr
+your|det|senin, sizin|jʊr
+good|adj|iyi|ɡʊd
+some|det|biraz, bazı|sʌm
+could|modal|-ebilirdi|kʊd
+them|pron|onları, onlara|ðem
+see|v|görmek|siː
+other|adj|diğer, başka|ˈʌðər
+than|conj|-den daha|ðæn
+then|adv|sonra; o zaman|ðen
+now|adv|şimdi|naʊ
+look|v|bakmak|lʊk
+only|adv|sadece|ˈoʊnli
+come|v|gelmek|kʌm
+its|det|onun (cansız)|ɪts
+over|prep|üzerinde; bitti|ˈoʊvər
+think|v|düşünmek|θɪŋk
+also|adv|ayrıca, de/da|ˈɔːlsoʊ
+back|adv,n|geri; sırt|bæk
+after|prep|sonra|ˈæftər
+use|v|kullanmak|juːz
+two|num|iki|tuː
+how|adv|nasıl|haʊ
+our|det|bizim|ˈaʊər
+work|v,n|çalışmak; iş|wɜːrk
+first|adj|ilk, birinci|fɜːrst
+well|adv|iyi; peki|wel
+way|n|yol; yöntem|weɪ
+even|adv|hatta, bile|ˈiːvən
+new|adj|yeni|nuː
+want|v|istemek|wɑːnt
+because|conj|çünkü|bɪˈkɔːz
+any|det|herhangi, hiç|ˈeni
+these|det|bunlar|ðiːz
+give|v|vermek|ɡɪv
+day|n|gün|deɪ
+most|adv|en çok|moʊst
+us|pron|bizi, bize|ʌs
+is|v|-dir (be fiili)|ɪz
+was|v|idi (be geçmiş)|wʌz
+are|v|-dir, -siniz (be)|ɑːr
+were|v|idiler (be geçmiş)|wɜːr
+been|v|olmuş (be V3)|bɪn
+has|v|sahip (he/she/it)|hæz
+had|v|sahipti; -mişti|hæd
+did|v|yaptı|dɪd
+said|v|söyledi|sed
+man|n|adam|mæn
+thing|n|şey|θɪŋ
+tell|v|anlatmak, söylemek|tel
+very|adv|çok|ˈveri
+find|v|bulmak|faɪnd
+here|adv|burada|hɪr
+many|det|birçok, çok|ˈmeni
+much|det|çok (sayılamayan)|mʌtʃ
+where|adv|nerede|wer
+need|v|ihtiyacı olmak|niːd
+feel|v|hissetmek|fiːl
+too|adv|de/da; fazla|tuː
+more|adv|daha, daha fazla|mɔːr
+life|n|hayat|laɪf
+child|n|çocuk|tʃaɪld
+should|modal|-meli, -malı|ʃʊd
+down|adv|aşağı|daʊn
+still|adv|hâlâ|stɪl
+try|v|denemek|traɪ
+leave|v|ayrılmak; bırakmak|liːv
+call|v|aramak; çağırmak|kɔːl
+world|n|dünya|wɜːrld
+school|n|okul|skuːl
+ask|v|sormak; istemek|æsk
+never|adv|asla, hiç|ˈnevər
+become|v|olmak, haline gelmek|bɪˈkʌm
+last|adj|son; geçen|læst
+woman|n|kadın|ˈwʊmən
+long|adj|uzun|lɔːŋ
+great|adj|harika; büyük|ɡreɪt
+little|adj|küçük; az|ˈlɪtəl
+own|adj,v|kendi; sahip olmak|oʊn
+old|adj|yaşlı, eski|oʊld
+right|adj,n|doğru; sağ; hak|raɪt
+big|adj|büyük|bɪɡ
+high|adj|yüksek|haɪ
+different|adj|farklı|ˈdɪfrənt
+small|adj|küçük|smɔːl
+large|adj|büyük, geniş|lɑːrdʒ
+next|adj|sonraki|nekst
+early|adj,adv|erken|ˈɜːrli
+young|adj|genç|jʌŋ
+important|adj|önemli|ɪmˈpɔːrtənt
+few|det|birkaç, az|fjuː
+public|adj|halka açık, kamu|ˈpʌblɪk
+bad|adj|kötü|bæd
+same|adj|aynı|seɪm
+able|adj|yapabilen, muktedir|ˈeɪbəl
+house|n|ev|haʊs
+home|n|ev, yuva|hoʊm
+family|n|aile|ˈfæməli
+friend|n|arkadaş|frend
+hand|n|el|hænd
+part|n|parça, kısım|pɑːrt
+place|n|yer|pleɪs
+case|n|durum; dava; kutu|keɪs
+week|n|hafta|wiːk
+company|n|şirket; arkadaşlık|ˈkʌmpəni
+system|n|sistem|ˈsɪstəm
+program|n|program|ˈproʊɡræm
+question|n|soru|ˈkwestʃən
+number|n|sayı, numara|ˈnʌmbər
+night|n|gece|naɪt
+point|n|nokta; puan|pɔɪnt
+problem|n|sorun|ˈprɑːbləm
+fact|n|gerçek|fækt
+money|n|para|ˈmʌni
+water|n|su|ˈwɔːtər
+month|n|ay (takvim)|mʌnθ
+lot|n|çok, birçok|lɑːt
+book|n|kitap|bʊk
+eye|n|göz|aɪ
+job|n|iş|dʒɑːb
+word|n|kelime|wɜːrd
+business|n|iş, ticaret|ˈbɪznəs
+side|n|taraf, yan|saɪd
+kind|n,adj|tür; nazik|kaɪnd
+head|n|baş, kafa|hed
+far|adv|uzak|fɑːr
+black|adj|siyah|blæk
+both|det|her ikisi|boʊθ
+while|conj|-iken|waɪl
+under|prep|altında|ˈʌndər
+again|adv|tekrar|əˈɡen
+why|adv|neden|waɪ
+something|pron|bir şey|ˈsʌmθɪŋ
+always|adv|her zaman|ˈɔːlweɪz
+around|prep|etrafında|əˈraʊnd
+off|adv|kapalı; uzağa|ɔːf
+show|v|göstermek|ʃoʊ
+put|v|koymak|pʊt
+mean|v|anlamına gelmek; kastetmek|miːn
+keep|v|tutmak, saklamak|kiːp
+let|v|izin vermek|let
+begin|v|başlamak|bɪˈɡɪn
+seem|v|gibi görünmek|siːm
+help|v|yardım etmek|help
+talk|v|konuşmak|tɔːk
+turn|v|dönmek; çevirmek|tɜːrn
+start|v|başlamak|stɑːrt
+hear|v|duymak|hɪr
+play|v|oynamak; çalmak|pleɪ
+run|v|koşmak; çalıştırmak|rʌn
+move|v|hareket etmek; taşınmak|muːv
+live|v|yaşamak|lɪv
+believe|v|inanmak|bɪˈliːv
+bring|v|getirmek|brɪŋ
+happen|v|olmak, meydana gelmek|ˈhæpən
+write|v|yazmak|raɪt
+sit|v|oturmak|sɪt
+stand|v|ayakta durmak|stænd
+lose|v|kaybetmek|luːz
+pay|v|ödemek|peɪ
+meet|v|tanışmak; buluşmak|miːt
+include|v|içermek|ɪnˈkluːd
+continue|v|devam etmek|kənˈtɪnjuː
+set|v|ayarlamak; koymak|set
+learn|v|öğrenmek|lɜːrn
+change|v,n|değiştirmek; değişim|tʃeɪndʒ
+lead|v|liderlik etmek, yol açmak|liːd
+understand|v|anlamak|ˌʌndərˈstænd
+watch|v|izlemek|wɑːtʃ
+follow|v|takip etmek|ˈfɑːloʊ
+stop|v|durmak, durdurmak|stɑːp
+create|v|yaratmak, oluşturmak|kriˈeɪt
+speak|v|konuşmak|spiːk
+read|v|okumak|riːd
+spend|v|harcamak; geçirmek|spend
+grow|v|büyümek|ɡroʊ
+open|v,adj|açmak; açık|ˈoʊpən
+walk|v|yürümek|wɔːk
+win|v|kazanmak|wɪn
+offer|v|teklif etmek|ˈɔːfər
+remember|v|hatırlamak|rɪˈmembər
+love|v,n|sevmek; aşk|lʌv
+consider|v|düşünmek, göz önüne almak|kənˈsɪdər
+appear|v|görünmek, ortaya çıkmak|əˈpɪr
+buy|v|satın almak|baɪ
+wait|v|beklemek|weɪt
+serve|v|hizmet etmek|sɜːrv
+die|v|ölmek|daɪ
+send|v|göndermek|send
+expect|v|beklemek, ummak|ɪkˈspekt
+build|v|inşa etmek|bɪld
+stay|v|kalmak|steɪ
+fall|v|düşmek|fɔːl
+cut|v|kesmek|kʌt
+reach|v|ulaşmak|riːtʃ
+kill|v|öldürmek|kɪl
+remain|v|kalmak|rɪˈmeɪn
+eat|v|yemek|iːt
+drink|v|içmek|drɪŋk
+sleep|v|uyumak|sliːp
+car|n|araba|kɑːr
+city|n|şehir|ˈsɪti
+country|n|ülke|ˈkʌntri
+room|n|oda|ruːm
+door|n|kapı|dɔːr
+food|n|yemek, gıda|fuːd
+game|n|oyun|ɡeɪm
+story|n|hikaye|ˈstɔːri
+idea|n|fikir|aɪˈdiːə
+face|n|yüz|feɪs
+body|n|vücut|ˈbɑːdi
+music|n|müzik|ˈmjuːzɪk
+name|n|isim, ad|neɪm
+mother|n|anne|ˈmʌðər
+father|n|baba|ˈfɑːðər
+girl|n|kız|ɡɜːrl
+boy|n|erkek çocuk|bɔɪ
+student|n|öğrenci|ˈstuːdənt
+teacher|n|öğretmen|ˈtiːtʃər
+war|n|savaş|wɔːr
+history|n|tarih|ˈhɪstəri
+party|n|parti|ˈpɑːrti
+result|n|sonuç|rɪˈzʌlt
+morning|n|sabah|ˈmɔːrnɪŋ
+reason|n|sebep|ˈriːzən
+research|n|araştırma|ˈriːsɜːrtʃ
+moment|n|an|ˈmoʊmənt
+air|n|hava|er
+area|n|alan, bölge|ˈeriə
+power|n|güç|ˈpaʊər
+line|n|çizgi; sıra|laɪn
+end|n,v|son; bitirmek|end
+member|n|üye|ˈmembər
+law|n|kanun, hukuk|lɔː
+minute|n|dakika|ˈmɪnɪt
+level|n|seviye|ˈlevəl
+office|n|ofis|ˈɔːfɪs
+door|n|kapı|dɔːr
+health|n|sağlık|helθ
+person|n|kişi|ˈpɜːrsən
+art|n|sanat|ɑːrt
+team|n|takım|tiːm
+age|n|yaş; çağ|eɪdʒ
+form|n|form, biçim|fɔːrm
+car|n|araba|kɑːr
+love|n|aşk, sevgi|lʌv
+paper|n|kağıt|ˈpeɪpər
+food|n|yiyecek|fuːd
+heart|n|kalp|hɑːrt
+voice|n|ses|vɔɪs
+mind|n|akıl, zihin|maɪnd
+road|n|yol|roʊd
+phone|n|telefon|foʊn
+picture|n|resim, fotoğraf|ˈpɪktʃər
+table|n|masa; tablo|ˈteɪbəl
+color|n|renk|ˈkʌlər
+dog|n|köpek|dɔːɡ
+cat|n|kedi|kæt
+tree|n|ağaç|triː
+sun|n|güneş|sʌn
+sea|n|deniz|siː
+fire|n|ateş, yangın|ˈfaɪər
+light|n,adj|ışık; hafif|laɪt
+street|n|sokak|striːt
+town|n|kasaba|taʊn
+hour|n|saat (süre)|ˈaʊər
+today|adv|bugün|təˈdeɪ
+tomorrow|adv|yarın|təˈmɑːroʊ
+yesterday|adv|dün|ˈjestərdeɪ
+yes|adv|evet|jes
+please|adv|lütfen|pliːz
+thanks|int|teşekkürler|θæŋks
+hello|int|merhaba|həˈloʊ
+sorry|adj|üzgün; özür dilerim|ˈsɑːri
+okay|adj|tamam|oʊˈkeɪ
+three|num|üç|θriː
+four|num|dört|fɔːr
+five|num|beş|faɪv
+six|num|altı|sɪks
+seven|num|yedi|ˈsevən
+eight|num|sekiz|eɪt
+nine|num|dokuz|naɪn
+ten|num|on|ten
+hundred|num|yüz (sayı)|ˈhʌndrəd
+thousand|num|bin|ˈθaʊzənd
+million|num|milyon|ˈmɪljən
+second|adj,n|ikinci; saniye|ˈsekənd
+every|det|her|ˈevri
+each|det|her bir|iːtʃ
+another|det|başka bir|əˈnʌðər
+such|det|böyle, öyle|sʌtʃ
+own|det|kendi|oʊn
+nothing|pron|hiçbir şey|ˈnʌθɪŋ
+everything|pron|her şey|ˈevriθɪŋ
+someone|pron|birisi|ˈsʌmwʌn
+everyone|pron|herkes|ˈevriwʌn
+anything|pron|herhangi bir şey|ˈeniθɪŋ
+myself|pron|kendim|maɪˈself
+yourself|pron|kendin|jʊrˈself
+himself|pron|kendisi (erkek)|hɪmˈself
+herself|pron|kendisi (kadın)|hɜːrˈself
+itself|pron|kendisi (cansız)|ɪtˈself
+themselves|pron|kendileri|ðəmˈselvz
+those|det|şunlar, onlar|ðoʊz
+between|prep|arasında|bɪˈtwiːn
+through|prep|içinden, boyunca|θruː
+during|prep|sırasında|ˈdʊrɪŋ
+before|prep|önce|bɪˈfɔːr
+without|prep|-sız, -siz|wɪˈðaʊt
+against|prep|karşı|əˈɡenst
+among|prep|arasında (çok)|əˈmʌŋ
+within|prep|içinde|wɪˈðɪn
+along|prep|boyunca|əˈlɔːŋ
+behind|prep|arkasında|bɪˈhaɪnd
+across|prep|karşısında, öbür tarafa|əˈkrɔːs
+until|conj|-e kadar|ənˈtɪl
+since|prep,conj|-den beri|sɪns
+though|conj|gerçi, -e rağmen|ðoʊ
+although|conj|-e rağmen|ɔːlˈðoʊ
+however|adv|ancak, yine de|haʊˈevər
+really|adv|gerçekten|ˈriːəli
+almost|adv|neredeyse|ˈɔːlmoʊst
+already|adv|zaten, çoktan|ɔːlˈredi
+often|adv|sık sık|ˈɔːfən
+together|adv|birlikte|təˈɡeðər
+usually|adv|genellikle|ˈjuːʒuəli
+sometimes|adv|bazen|ˈsʌmtaɪmz
+probably|adv|muhtemelen|ˈprɑːbəbli
+maybe|adv|belki|ˈmeɪbi
+perhaps|adv|belki|pərˈhæps
+quite|adv|oldukça|kwaɪt
+enough|adv,det|yeterli|ɪˈnʌf
+yet|adv|henüz; yine de|jet
+ago|adv|önce (zaman)|əˈɡoʊ
+soon|adv|yakında|suːn
+later|adv|daha sonra|ˈleɪtər
+once|adv|bir kez; bir zamanlar|wʌns
+else|adv|başka|els
+either|det,adv|ikisinden biri; de (olumsuz)|ˈiːðər
+ever|adv|hiç, şimdiye kadar|ˈevər
+away|adv|uzakta, uzağa|əˈweɪ
+less|adv|daha az|les
+best|adj|en iyi|best
+better|adj|daha iyi|ˈbetər
+sure|adj|emin|ʃʊr
+real|adj|gerçek|ˈriːəl
+true|adj|doğru, gerçek|truː
+whole|adj|bütün|hoʊl
+free|adj|özgür; ücretsiz|friː
+full|adj|dolu|fʊl
+easy|adj|kolay|ˈiːzi
+hard|adj|zor; sert|hɑːrd
+clear|adj|açık, net|klɪr
+possible|adj|mümkün|ˈpɑːsəbəl
+special|adj|özel|ˈspeʃəl
+whole|adj|tüm|hoʊl
+happy|adj|mutlu|ˈhæpi
+nice|adj|güzel, hoş|naɪs
+beautiful|adj|güzel|ˈbjuːtɪfəl
+hot|adj|sıcak|hɑːt
+cold|adj|soğuk|koʊld
+short|adj|kısa|ʃɔːrt
+low|adj|alçak, düşük|loʊ
+white|adj|beyaz|waɪt
+red|adj|kırmızı|red
+blue|adj|mavi|bluː
+green|adj|yeşil|ɡriːn
+late|adj|geç|leɪt
+ready|adj|hazır|ˈredi
+human|adj,n|insan|ˈhjuːmən
+local|adj|yerel|ˈloʊkəl
+social|adj|sosyal|ˈsoʊʃəl
+national|adj|ulusal|ˈnæʃənəl
+political|adj|siyasi|pəˈlɪtɪkəl
+main|adj|ana, temel|meɪn
+major|adj|büyük, önemli|ˈmeɪdʒər
+certain|adj|kesin; belirli|ˈsɜːrtən
+strong|adj|güçlü|strɔːŋ
+simple|adj|basit|ˈsɪmpəl
+dark|adj|karanlık; koyu|dɑːrk
+past|n,adj|geçmiş|pæst
+close|v,adj|kapatmak; yakın|kloʊz
+sell|v|satmak|sel
+add|v|eklemek|æd
+pass|v|geçmek|pæs
+plan|n,v|plan; planlamak|plæn
+hold|v|tutmak|hoʊld
+carry|v|taşımak|ˈkæri
+drive|v|araba sürmek|draɪv
+break|v|kırmak|breɪk
+fly|v|uçmak|flaɪ
+sing|v|şarkı söylemek|sɪŋ
+dance|v|dans etmek|dæns
+swim|v|yüzmek|swɪm
+cook|v|yemek pişirmek|kʊk
+wash|v|yıkamak|wɑːʃ
+clean|v,adj|temizlemek; temiz|kliːn
+answer|n,v|cevap; cevaplamak|ˈænsər
+visit|v|ziyaret etmek|ˈvɪzɪt
+travel|v|seyahat etmek|ˈtrævəl
+study|v|ders çalışmak|ˈstʌdi
+teach|v|öğretmek|tiːtʃ
+choose|v|seçmek|tʃuːz
+decide|v|karar vermek|dɪˈsaɪd
+agree|v|katılmak, aynı fikirde olmak|əˈɡriː
+enjoy|v|keyif almak|ɪnˈdʒɔɪ
+hope|v,n|ummak; umut|hoʊp
+forget|v|unutmak|fərˈɡet
+worry|v|endişelenmek|ˈwɜːri
+laugh|v|gülmek|læf
+cry|v|ağlamak|kraɪ
+smile|v,n|gülümsemek; gülümseme|smaɪl
+wear|v|giymek|wer
+miss|v|özlemek; kaçırmak|mɪs
+return|v|geri dönmek|rɪˈtɜːrn
+explain|v|açıklamak|ɪkˈspleɪn
+allow|v|izin vermek|əˈlaʊ
+receive|v|almak, teslim almak|rɪˈsiːv
+develop|v|geliştirmek|dɪˈveləp
+produce|v|üretmek|prəˈduːs
+provide|v|sağlamak|prəˈvaɪd
+require|v|gerektirmek|rɪˈkwaɪər
+report|n,v|rapor; bildirmek|rɪˈpɔːrt
+describe|v|tanımlamak, anlatmak|dɪˈskraɪb
+improve|v|geliştirmek|ɪmˈpruːv
+prepare|v|hazırlamak|prɪˈper
+check|v|kontrol etmek|tʃek
+fill|v|doldurmak|fɪl
+finish|v|bitirmek|ˈfɪnɪʃ
+join|v|katılmak|dʒɔɪn
+kid|n|çocuk|kɪd
+baby|n|bebek|ˈbeɪbi
+brother|n|erkek kardeş|ˈbrʌðər
+sister|n|kız kardeş|ˈsɪstər
+son|n|oğul|sʌn
+daughter|n|kız evlat|ˈdɔːtər
+husband|n|koca|ˈhʌzbənd
+wife|n|eş (kadın)|waɪf
+parent|n|ebeveyn|ˈperənt
+doctor|n|doktor|ˈdɑːktər
+police|n|polis|pəˈliːs
+president|n|başkan|ˈprezɪdənt
+government|n|hükümet|ˈɡʌvərnmənt
+service|n|hizmet|ˈsɜːrvɪs
+market|n|pazar, piyasa|ˈmɑːrkɪt
+community|n|topluluk|kəˈmjuːnəti
+state|n|devlet; durum|steɪt
+group|n|grup|ɡruːp
+issue|n|konu, sorun|ˈɪʃuː
+information|n|bilgi|ˌɪnfərˈmeɪʃən
+education|n|eğitim|ˌedʒuˈkeɪʃən
+interest|n|ilgi; faiz|ˈɪntrəst
+experience|n|deneyim|ɪkˈspɪriəns
+example|n|örnek|ɪɡˈzæmpəl
+course|n|kurs; elbette (of course)|kɔːrs
+class|n|sınıf; ders|klæs
+test|n|test, sınav|test
+exam|n|sınav|ɪɡˈzæm
+lesson|n|ders|ˈlesən
+language|n|dil|ˈlæŋɡwɪdʒ
+English|n,adj|İngilizce|ˈɪŋɡlɪʃ
+movie|n|film|ˈmuːvi
+film|n|film|fɪlm
+song|n|şarkı|sɔːŋ
+news|n|haber|nuːz
+weather|n|hava durumu|ˈweðər
+rain|n,v|yağmur; yağmak|reɪn
+snow|n|kar|snoʊ
+wind|n|rüzgar|wɪnd
+summer|n|yaz|ˈsʌmər
+winter|n|kış|ˈwɪntər
+spring|n|ilkbahar|sprɪŋ
+autumn|n|sonbahar|ˈɔːtəm
+weekend|n|hafta sonu|ˈwiːkend
+holiday|n|tatil|ˈhɑːlədeɪ
+birthday|n|doğum günü|ˈbɜːrθdeɪ
+breakfast|n|kahvaltı|ˈbrekfəst
+lunch|n|öğle yemeği|lʌntʃ
+dinner|n|akşam yemeği|ˈdɪnər
+bread|n|ekmek|bred
+milk|n|süt|mɪlk
+coffee|n|kahve|ˈkɔːfi
+tea|n|çay|tiː
+egg|n|yumurta|eɡ
+meat|n|et|miːt
+fish|n|balık|fɪʃ
+fruit|n|meyve|fruːt
+apple|n|elma|ˈæpəl
+shop|n|dükkan|ʃɑːp
+store|n|mağaza|stɔːr
+bank|n|banka|bæŋk
+hospital|n|hastane|ˈhɑːspɪtəl
+hotel|n|otel|hoʊˈtel
+restaurant|n|restoran|ˈrestərɑːnt
+train|n|tren|treɪn
+bus|n|otobüs|bʌs
+plane|n|uçak|pleɪn
+ticket|n|bilet|ˈtɪkɪt
+computer|n|bilgisayar|kəmˈpjuːtər
+internet|n|internet|ˈɪntərnet
+email|n|e-posta|ˈiːmeɪl
+message|n|mesaj|ˈmesɪdʒ
+letter|n|mektup; harf|ˈletər
+page|n|sayfa|peɪdʒ

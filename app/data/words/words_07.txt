@@ -1,0 +1,452 @@
+# sıklık sırası ~3000-3500 (B1)
+habitat|n|yaşam alanı|ˈhæbɪtæt
+halt|v|durdurmak|hɔːlt
+handful|n|avuç dolusu|ˈhændfʊl
+harmful|adj|zararlı|ˈhɑːrmfəl
+harsh|adj|sert, acımasız|hɑːrʃ
+harvest|n|hasat|ˈhɑːrvɪst
+hazard|n|tehlike|ˈhæzərd
+headquarters|n|genel merkez|ˈhedkwɔːrtərz
+heal|v|iyileşmek|hiːl
+heritage|n|miras|ˈherɪtɪdʒ
+hesitate|v|tereddüt etmek|ˈhezɪteɪt
+hidden|adj|saklı|ˈhɪdən
+hint|n|ipucu|hɪnt
+hire|v|işe almak|ˈhaɪər
+historian|n|tarihçi|hɪˈstɔːriən
+hollow|adj|içi boş|ˈhɑːloʊ
+holy|adj|kutsal|ˈhoʊli
+horizon|n|ufuk|həˈraɪzən
+hostile|adj|düşmanca|ˈhɑːstəl
+humble|adj|alçakgönüllü|ˈhʌmbəl
+hunger|n|açlık|ˈhʌŋɡər
+hypothesis|n|hipotez|haɪˈpɑːθəsɪs
+ideology|n|ideoloji|ˌaɪdiˈɑːlədʒi
+ignorance|n|cehalet|ˈɪɡnərəns
+illusion|n|yanılsama|ɪˈluːʒən
+illustrate|v|örneklemek|ˈɪləstreɪt
+immense|adj|muazzam|ɪˈmens
+immigrant|n|göçmen|ˈɪmɪɡrənt
+immigration|n|göç|ˌɪmɪˈɡreɪʃən
+immune|adj|bağışık|ɪˈmjuːn
+implement|v|uygulamak|ˈɪmplɪment
+implication|n|ima, sonuç|ˌɪmplɪˈkeɪʃən
+imply|v|ima etmek|ɪmˈplaɪ
+impose|v|dayatmak|ɪmˈpoʊz
+impression|n|izlenim|ɪmˈpreʃən
+incentive|n|teşvik|ɪnˈsentɪv
+incline|v|eğilim göstermek|ɪnˈklaɪn
+incorporate|v|dahil etmek|ɪnˈkɔːrpəreɪt
+incredible|adj|inanılmaz|ɪnˈkredəbəl
+indicate|v|göstermek, işaret etmek|ˈɪndɪkeɪt
+indication|n|belirti|ˌɪndɪˈkeɪʃən
+individual|n,adj|birey; bireysel|ˌɪndɪˈvɪdʒuəl
+inevitable|adj|kaçınılmaz|ɪnˈevɪtəbəl
+infant|n|bebek|ˈɪnfənt
+infinite|adj|sonsuz|ˈɪnfɪnət
+inflation|n|enflasyon|ɪnˈfleɪʃən
+inherit|v|miras almak|ɪnˈherɪt
+initial|adj|ilk, başlangıç|ɪˈnɪʃəl
+initiative|n|girişim|ɪˈnɪʃətɪv
+inner|adj|iç|ˈɪnər
+innocent|adj|masum|ˈɪnəsənt
+innovation|n|yenilik|ˌɪnəˈveɪʃən
+input|n|girdi|ˈɪnpʊt
+inquiry|n|soruşturma, sorgu|ɪnˈkwaɪəri
+insight|n|içgörü|ˈɪnsaɪt
+insist|v|ısrar etmek|ɪnˈsɪst
+inspect|v|denetlemek|ɪnˈspekt
+inspector|n|müfettiş|ɪnˈspektər
+inspiration|n|ilham|ˌɪnspəˈreɪʃən
+inspire|v|ilham vermek|ɪnˈspaɪər
+instance|n|örnek, durum|ˈɪnstəns
+instant|adj|anlık|ˈɪnstənt
+institute|n|enstitü|ˈɪnstɪtuːt
+institution|n|kurum|ˌɪnstɪˈtuːʃən
+integrate|v|bütünleştirmek|ˈɪntɪɡreɪt
+integrity|n|dürüstlük, bütünlük|ɪnˈteɡrəti
+intellectual|adj|entelektüel|ˌɪntəˈlektʃuəl
+intelligence|n|zeka; istihbarat|ɪnˈtelɪdʒəns
+intense|adj|yoğun|ɪnˈtens
+intention|n|niyet|ɪnˈtenʃən
+interact|v|etkileşmek|ˌɪntərˈækt
+interaction|n|etkileşim|ˌɪntərˈækʃən
+internal|adj|iç, dahili|ɪnˈtɜːrnəl
+interpret|v|yorumlamak|ɪnˈtɜːrprɪt
+interrupt|v|sözünü kesmek|ˌɪntəˈrʌpt
+interval|n|aralık|ˈɪntərvəl
+intervention|n|müdahale|ˌɪntərˈvenʃən
+invade|v|istila etmek|ɪnˈveɪd
+invasion|n|istila|ɪnˈveɪʒən
+investigation|n|soruşturma|ɪnˌvestɪˈɡeɪʃən
+investment|n|yatırım|ɪnˈvestmənt
+investor|n|yatırımcı|ɪnˈvestər
+invisible|adj|görünmez|ɪnˈvɪzəbəl
+involve|v|içermek; dahil etmek|ɪnˈvɑːlv
+involved|adj|ilgili, dahil|ɪnˈvɑːlvd
+isolate|v|izole etmek|ˈaɪsəleɪt
+journal|n|dergi; günlük|ˈdʒɜːrnəl
+joy|n|neşe, sevinç|dʒɔɪ
+judgment|n|yargı, karar|ˈdʒʌdʒmənt
+jury|n|jüri|ˈdʒʊri
+justify|v|haklı çıkarmak|ˈdʒʌstɪfaɪ
+keen|adj|hevesli|kiːn
+kingdom|n|krallık|ˈkɪŋdəm
+label|v|etiketlemek|ˈleɪbəl
+labor|n|emek, iş gücü|ˈleɪbər
+landing|n|iniş|ˈlændɪŋ
+lane|n|şerit|leɪn
+launch|v,n|başlatmak; fırlatma|lɔːntʃ
+lawn|n|çimenlik|lɔːn
+layer|n|katman|ˈleɪər
+leadership|n|liderlik|ˈliːdərʃɪp
+league|n|lig|liːɡ
+lean|v|eğilmek, yaslanmak|liːn
+leap|v|sıçramak|liːp
+lecture|n|ders (üniversite)|ˈlektʃər
+legacy|n|miras|ˈleɡəsi
+legend|n|efsane|ˈledʒənd
+legislation|n|mevzuat|ˌledʒɪsˈleɪʃən
+leisure|n|boş zaman|ˈliːʒər
+lend|v|ödünç vermek|lend
+liberal|adj|liberal|ˈlɪbərəl
+license|n|lisans, ehliyet|ˈlaɪsəns
+lifetime|n|ömür|ˈlaɪftaɪm
+likewise|adv|aynı şekilde|ˈlaɪkwaɪz
+limb|n|uzuv|lɪm
+limitation|n|sınırlama|ˌlɪmɪˈteɪʃən
+linger|v|oyalanmak|ˈlɪŋɡər
+literally|adv|kelimenin tam anlamıyla|ˈlɪtərəli
+literary|adj|edebi|ˈlɪtəreri
+lobby|n|lobi|ˈlɑːbi
+locate|v|yerini bulmak|ˈloʊkeɪt
+location|n|konum|loʊˈkeɪʃən
+logic|n|mantık|ˈlɑːdʒɪk
+logical|adj|mantıklı|ˈlɑːdʒɪkəl
+loose|adj|gevşek|luːs
+lord|n|lord, efendi|lɔːrd
+loyal|adj|sadık|ˈlɔɪəl
+loyalty|n|sadakat|ˈlɔɪəlti
+magnificent|adj|muhteşem|mæɡˈnɪfɪsənt
+mainland|n|anakara|ˈmeɪnlænd
+maintenance|n|bakım|ˈmeɪntənəns
+makeup|n|makyaj|ˈmeɪkʌp
+mandatory|adj|zorunlu|ˈmændətɔːri
+manipulate|v|manipüle etmek|məˈnɪpjəleɪt
+manufacture|v|üretmek|ˌmænjəˈfæktʃər
+manufacturer|n|üretici|ˌmænjəˈfæktʃərər
+margin|n|kenar boşluğu; marj|ˈmɑːrdʒɪn
+marine|adj|denizle ilgili|məˈriːn
+massive|adj|devasa|ˈmæsɪv
+mathematics|n|matematik|ˌmæθəˈmætɪks
+mature|adj|olgun|məˈtʃʊr
+maximum|n,adj|maksimum|ˈmæksɪməm
+meaningful|adj|anlamlı|ˈmiːnɪŋfəl
+mechanism|n|mekanizma|ˈmekənɪzəm
+medium|adj|orta|ˈmiːdiəm
+mental|adj|zihinsel|ˈmentəl
+merchant|n|tüccar|ˈmɜːrtʃənt
+mercy|n|merhamet|ˈmɜːrsi
+mere|adj|sadece, salt|mɪr
+merely|adv|sadece|ˈmɪrli
+merge|v|birleşmek|mɜːrdʒ
+merit|n|değer, liyakat|ˈmerɪt
+mess|n|karmaşa|mes
+migration|n|göç|maɪˈɡreɪʃən
+mild|adj|hafif|maɪld
+mill|n|değirmen|mɪl
+minimum|n,adj|minimum|ˈmɪnɪməm
+minister|n|bakan|ˈmɪnɪstər
+ministry|n|bakanlık|ˈmɪnɪstri
+minority|n|azınlık|maɪˈnɔːrəti
+miracle|n|mucize|ˈmɪrəkəl
+misery|n|sefalet|ˈmɪzəri
+misleading|adj|yanıltıcı|ˌmɪsˈliːdɪŋ
+missile|n|füze|ˈmɪsəl
+moderate|adj|ılımlı, orta|ˈmɑːdərət
+modest|adj|alçakgönüllü|ˈmɑːdɪst
+modify|v|değiştirmek|ˈmɑːdɪfaɪ
+monitor|v,n|izlemek; monitör|ˈmɑːnɪtər
+moral|adj|ahlaki|ˈmɔːrəl
+mortgage|n|ipotek|ˈmɔːrɡɪdʒ
+motion|n|hareket|ˈmoʊʃən
+motivate|v|motive etmek|ˈmoʊtɪveɪt
+motivation|n|motivasyon|ˌmoʊtɪˈveɪʃən
+motive|n|neden, güdü|ˈmoʊtɪv
+mount|v|tırmanmak; monte etmek|maʊnt
+multiple|adj|çoklu|ˈmʌltɪpəl
+municipal|adj|belediye ile ilgili|mjuˈnɪsɪpəl
+mutual|adj|karşılıklı|ˈmjuːtʃuəl
+myth|n|mit, efsane|mɪθ
+naked|adj|çıplak|ˈneɪkɪd
+narrative|n|anlatı|ˈnærətɪv
+nationwide|adj|ülke çapında|ˌneɪʃənˈwaɪd
+native|adj|yerli, ana (dil)|ˈneɪtɪv
+naval|adj|deniz kuvvetleri ile ilgili|ˈneɪvəl
+navigate|v|yön bulmak|ˈnævɪɡeɪt
+negotiate|v|müzakere etmek|nɪˈɡoʊʃieɪt
+negotiation|n|müzakere|nɪˌɡoʊʃiˈeɪʃən
+neglect|v|ihmal etmek|nɪˈɡlekt
+nerve|n|sinir|nɜːrv
+neutral|adj|tarafsız|ˈnuːtrəl
+nevertheless|adv|yine de|ˌnevərðəˈles
+noble|adj|asil|ˈnoʊbəl
+nominate|v|aday göstermek|ˈnɑːmɪneɪt
+norm|n|norm|nɔːrm
+notable|adj|kayda değer|ˈnoʊtəbəl
+notion|n|kavram, fikir|ˈnoʊʃən
+nuclear|adj|nükleer|ˈnuːkliər
+numerous|adj|çok sayıda|ˈnuːmərəs
+nutrition|n|beslenme|nuˈtrɪʃən
+objective|n,adj|hedef; nesnel|əbˈdʒektɪv
+obligation|n|yükümlülük|ˌɑːblɪˈɡeɪʃən
+observation|n|gözlem|ˌɑːbzərˈveɪʃən
+observe|v|gözlemlemek|əbˈzɜːrv
+obstacle|n|engel|ˈɑːbstəkəl
+obtain|v|elde etmek|əbˈteɪn
+obvious|adj|açık, belli|ˈɑːbviəs
+occasional|adj|ara sıra olan|əˈkeɪʒənəl
+occasionally|adv|ara sıra|əˈkeɪʒənəli
+occupy|v|işgal etmek; meşgul etmek|ˈɑːkjəpaɪ
+odd|adj|tuhaf; tek (sayı)|ɑːd
+offend|v|gücendirmek|əˈfend
+offensive|adj|saldırgan, kırıcı|əˈfensɪv
+ongoing|adj|devam eden|ˈɑːnɡoʊɪŋ
+openly|adv|açıkça|ˈoʊpənli
+operate|v|çalıştırmak; ameliyat etmek|ˈɑːpəreɪt
+operator|n|operatör|ˈɑːpəreɪtər
+oppose|v|karşı çıkmak|əˈpoʊz
+opposition|n|muhalefet|ˌɑːpəˈzɪʃən
+optimistic|adj|iyimser|ˌɑːptɪˈmɪstɪk
+orbit|n|yörünge|ˈɔːrbɪt
+organic|adj|organik|ɔːrˈɡænɪk
+orientation|n|yönelim; oryantasyon|ˌɔːriənˈteɪʃən
+origin|n|köken|ˈɔːrɪdʒɪn
+outcome|n|sonuç|ˈaʊtkʌm
+outline|n|taslak, ana hat|ˈaʊtlaɪn
+output|n|çıktı|ˈaʊtpʊt
+outstanding|adj|olağanüstü|aʊtˈstændɪŋ
+overall|adj|genel|ˌoʊvərˈɔːl
+overcome|v|üstesinden gelmek|ˌoʊvərˈkʌm
+overlook|v|gözden kaçırmak|ˌoʊvərˈlʊk
+overnight|adv|bir gecede|ˌoʊvərˈnaɪt
+overseas|adj|denizaşırı|ˌoʊvərˈsiːz
+overwhelm|v|bunaltmak|ˌoʊvərˈwelm
+ownership|n|sahiplik|ˈoʊnərʃɪp
+oxygen|n|oksijen|ˈɑːksɪdʒən
+pace|n|tempo, hız|peɪs
+panel|n|panel|ˈpænəl
+parallel|adj|paralel|ˈpærəlel
+parameter|n|parametre|pəˈræmɪtər
+participant|n|katılımcı|pɑːrˈtɪsɪpənt
+participate|v|katılmak|pɑːrˈtɪsɪpeɪt
+particle|n|parçacık|ˈpɑːrtɪkəl
+particular|adj|belirli, özel|pərˈtɪkjələr
+particularly|adv|özellikle|pərˈtɪkjələrli
+passage|n|geçit; pasaj|ˈpæsɪdʒ
+passion|n|tutku|ˈpæʃən
+passive|adj|pasif|ˈpæsɪv
+patience|n|sabır|ˈpeɪʃəns
+patrol|n|devriye|pəˈtroʊl
+peak|n|zirve|piːk
+peculiar|adj|tuhaf|pɪˈkjuːljər
+penalty|n|ceza; penaltı|ˈpenəlti
+pension|n|emekli maaşı|ˈpenʃən
+perceive|v|algılamak|pərˈsiːv
+percentage|n|yüzde|pərˈsentɪdʒ
+perception|n|algı|pərˈsepʃən
+permanent|adj|kalıcı|ˈpɜːrmənənt
+permit|v,n|izin vermek; izin belgesi|pərˈmɪt
+persist|v|ısrar etmek, sürmek|pərˈsɪst
+personality|n|kişilik|ˌpɜːrsəˈnæləti
+personnel|n|personel|ˌpɜːrsəˈnel
+perspective|n|bakış açısı|pərˈspektɪv
+persuade|v|ikna etmek|pərˈsweɪd
+phase|n|aşama|feɪz
+phenomenon|n|olgu, fenomen|fəˈnɑːmɪnɑːn
+philosophy|n|felsefe|fəˈlɑːsəfi
+pile|n|yığın|paɪl
+pioneer|n|öncü|ˌpaɪəˈnɪr
+pitch|n|saha; perde (ses)|pɪtʃ
+plea|n|yakarış, savunma|pliː
+pleasant|adj|hoş|ˈplezənt
+pledge|n,v|taahhüt; söz vermek|pledʒ
+plot|n|olay örgüsü; arsa|plɑːt
+pole|n|direk; kutup|poʊl
+poll|n|anket|poʊl
+portion|n|porsiyon, pay|ˈpɔːrʃən
+portray|v|tasvir etmek|pɔːrˈtreɪ
+possess|v|sahip olmak|pəˈzes
+possession|n|mülk, sahiplik|pəˈzeʃən
+possibility|n|olasılık|ˌpɑːsəˈbɪləti
+postpone|v|ertelemek|poʊstˈpoʊn
+potential|adj,n|potansiyel|pəˈtenʃəl
+poverty|n|yoksulluk|ˈpɑːvərti
+practical|adj|pratik|ˈpræktɪkəl
+precious|adj|değerli|ˈpreʃəs
+precise|adj|kesin|prɪˈsaɪs
+predict|v|tahmin etmek|prɪˈdɪkt
+prediction|n|tahmin|prɪˈdɪkʃən
+preference|n|tercih|ˈprefərəns
+prejudice|n|önyargı|ˈpredʒədɪs
+premium|n,adj|prim; birinci sınıf|ˈpriːmiəm
+presence|n|varlık, huzur|ˈprezəns
+preserve|v|korumak|prɪˈzɜːrv
+presidential|adj|başkanlık ile ilgili|ˌprezɪˈdenʃəl
+presumably|adv|muhtemelen|prɪˈzuːməbli
+prevail|v|galip gelmek|prɪˈveɪl
+prevention|n|önleme|prɪˈvenʃən
+primary|adj|birincil|ˈpraɪmeri
+prime|adj|asıl, baş|praɪm
+primitive|adj|ilkel|ˈprɪmətɪv
+principal|adj,n|ana; okul müdürü|ˈprɪnsəpəl
+principle|n|ilke|ˈprɪnsəpəl
+prior|adj|önceki|ˈpraɪər
+priority|n|öncelik|praɪˈɔːrəti
+privacy|n|gizlilik|ˈpraɪvəsi
+privilege|n|ayrıcalık|ˈprɪvəlɪdʒ
+probability|n|olasılık|ˌprɑːbəˈbɪləti
+procedure|n|prosedür|prəˈsiːdʒər
+proceed|v|devam etmek|proʊˈsiːd
+profession|n|meslek|prəˈfeʃən
+profile|n|profil|ˈproʊfaɪl
+profound|adj|derin|prəˈfaʊnd
+prohibit|v|yasaklamak|proʊˈhɪbɪt
+prominent|adj|önde gelen|ˈprɑːmɪnənt
+promote|v|terfi ettirmek; tanıtmak|prəˈmoʊt
+promotion|n|terfi; promosyon|prəˈmoʊʃən
+prompt|adj,v|hızlı; teşvik etmek|prɑːmpt
+proof|n|kanıt|pruːf
+proportion|n|oran|prəˈpɔːrʃən
+proposal|n|teklif, öneri|prəˈpoʊzəl
+propose|v|önermek; evlenme teklif etmek|prəˈpoʊz
+prosecutor|n|savcı|ˈprɑːsɪkjuːtər
+prospect|n|olasılık, beklenti|ˈprɑːspekt
+prosperity|n|refah|prɑːˈsperəti
+protection|n|koruma|prəˈtekʃən
+protein|n|protein|ˈproʊtiːn
+provision|n|hüküm; tedarik|prəˈvɪʒən
+psychological|adj|psikolojik|ˌsaɪkəˈlɑːdʒɪkəl
+psychology|n|psikoloji|saɪˈkɑːlədʒi
+publication|n|yayın|ˌpʌblɪˈkeɪʃən
+publicity|n|tanıtım|pʌbˈlɪsəti
+publish|v|yayımlamak|ˈpʌblɪʃ
+publisher|n|yayıncı|ˈpʌblɪʃər
+pursue|v|peşinden koşmak|pərˈsuː
+pursuit|n|arayış|pərˈsuːt
+qualification|n|nitelik|ˌkwɑːlɪfɪˈkeɪʃən
+qualify|v|hak kazanmak|ˈkwɑːlɪfaɪ
+quantity|n|miktar|ˈkwɑːntəti
+quest|n|arayış, görev|kwest
+quote|v,n|alıntı yapmak; alıntı|kwoʊt
+racial|adj|ırksal|ˈreɪʃəl
+radical|adj|radikal|ˈrædɪkəl
+rage|n|öfke|reɪdʒ
+raid|n|baskın|reɪd
+rally|n|miting|ˈræli
+random|adj|rastgele|ˈrændəm
+rank|n,v|rütbe; sıralamak|ræŋk
+rapid|adj|hızlı|ˈræpɪd
+rapidly|adv|hızla|ˈræpɪdli
+rare|adj|nadir|rer
+ratio|n|oran|ˈreɪʃioʊ
+rational|adj|akılcı|ˈræʃənəl
+readily|adv|kolayca, seve seve|ˈredɪli
+realistic|adj|gerçekçi|ˌriːəˈlɪstɪk
+rebel|n|asi|ˈrebəl
+recall|v|hatırlamak|rɪˈkɔːl
+receipt|n|fiş, makbuz|rɪˈsiːt
+recession|n|durgunluk|rɪˈseʃən
+recipient|n|alıcı|rɪˈsɪpiənt
+recognition|n|tanınma|ˌrekəɡˈnɪʃən
+recovery|n|iyileşme|rɪˈkʌvəri
+recruit|v|işe almak|rɪˈkruːt
+reference|n|referans|ˈrefərəns
+reflect|v|yansıtmak|rɪˈflekt
+reflection|n|yansıma|rɪˈflekʃən
+reform|n|reform|rɪˈfɔːrm
+refugee|n|mülteci|ˌrefjuˈdʒiː
+regard|v,n|saymak; saygı|rɪˈɡɑːrd
+regardless|adv|-e bakmaksızın|rɪˈɡɑːrdləs
+regime|n|rejim|reɪˈʒiːm
+register|v|kayıt olmak|ˈredʒɪstər
+regret|v,n|pişman olmak; pişmanlık|rɪˈɡret
+regulate|v|düzenlemek|ˈreɡjəleɪt
+regulation|n|yönetmelik|ˌreɡjəˈleɪʃən
+reinforce|v|güçlendirmek|ˌriːɪnˈfɔːrs
+reject|v|reddetmek|rɪˈdʒekt
+relate|v|ilişkilendirmek|rɪˈleɪt
+relation|n|ilişki|rɪˈleɪʃən
+relatively|adv|nispeten|ˈrelətɪvli
+relevant|adj|ilgili|ˈreləvənt
+relief|n|rahatlama; yardım|rɪˈliːf
+relieve|v|hafifletmek|rɪˈliːv
+religious|adj|dini|rɪˈlɪdʒəs
+reluctant|adj|isteksiz|rɪˈlʌktənt
+remark|n|söz, yorum|rɪˈmɑːrk
+remarkable|adj|dikkate değer|rɪˈmɑːrkəbəl
+remedy|n|çare|ˈremədi
+render|v|kılmak; sunmak|ˈrendər
+renew|v|yenilemek|rɪˈnuː
+repair|n|tamir|rɪˈper
+reputation|n|itibar|ˌrepjuˈteɪʃən
+rescue|n|kurtarma|ˈreskjuː
+resemble|v|benzemek|rɪˈzembəl
+resident|n|sakin|ˈrezɪdənt
+resign|v|istifa etmek|rɪˈzaɪn
+resist|v|direnmek|rɪˈzɪst
+resistance|n|direnç|rɪˈzɪstəns
+resolution|n|çözüm; karar|ˌrezəˈluːʃən
+resolve|v|çözmek|rɪˈzɑːlv
+respectively|adv|sırasıyla|rɪˈspektɪvli
+response|n|yanıt|rɪˈspɑːns
+responsibility|n|sorumluluk|rɪˌspɑːnsəˈbɪləti
+restore|v|eski haline getirmek|rɪˈstɔːr
+restriction|n|kısıtlama|rɪˈstrɪkʃən
+retail|n|perakende|ˈriːteɪl
+retain|v|elinde tutmak|rɪˈteɪn
+retirement|n|emeklilik|rɪˈtaɪərmənt
+retreat|v|geri çekilmek|rɪˈtriːt
+revenue|n|gelir|ˈrevənuː
+reverse|v,adj|tersine çevirmek; ters|rɪˈvɜːrs
+revolution|n|devrim|ˌrevəˈluːʃən
+rhythm|n|ritim|ˈrɪðəm
+rid|v|kurtulmak (get rid of)|rɪd
+rival|n|rakip|ˈraɪvəl
+roughly|adv|kabaca|ˈrʌfli
+routine|n|rutin|ruːˈtiːn
+rural|adj|kırsal|ˈrʊrəl
+sacred|adj|kutsal|ˈseɪkrɪd
+sacrifice|n,v|fedakarlık; feda etmek|ˈsækrɪfaɪs
+satellite|n|uydu|ˈsætəlaɪt
+satisfaction|n|memnuniyet|ˌsætɪsˈfækʃən
+scandal|n|skandal|ˈskændəl
+scenario|n|senaryo|səˈnærioʊ
+scheme|n|plan, düzen|skiːm
+scholar|n|akademisyen, bilgin|ˈskɑːlər
+scholarship|n|burs|ˈskɑːlərʃɪp
+scope|n|kapsam|skoʊp
+script|n|senaryo, betik|skrɪpt
+seal|v,n|mühürlemek; fok|siːl
+secure|adj,v|güvenli; sağlamak|səˈkjʊr
+segment|n|bölüm|ˈseɡmənt
+seize|v|ele geçirmek|siːz
+seldom|adv|nadiren|ˈseldəm
+selection|n|seçim, seçki|səˈlekʃən
+sensation|n|his; sansasyon|senˈseɪʃən
+sequence|n|sıra, dizi|ˈsiːkwəns
+settlement|n|yerleşim; uzlaşma|ˈsetəlmənt
+severely|adv|ciddi şekilde|səˈvɪrli
+shade|n|gölge|ʃeɪd
+shadow|n|gölge|ˈʃædoʊ
+shallow|adj|sığ|ˈʃæloʊ
+shame|n|utanç; yazık|ʃeɪm
+shelter|n|sığınak|ˈʃeltər
+shift|n,v|vardiya; kaydırmak|ʃɪft
+shortage|n|kıtlık|ˈʃɔːrtɪdʒ
+shortly|adv|kısa süre içinde|ˈʃɔːrtli
+shrink|v|küçülmek|ʃrɪŋk
+sibling|n|kardeş|ˈsɪblɪŋ
+significance|n|önem|sɪɡˈnɪfɪkəns
+significant|adj|önemli|sɪɡˈnɪfɪkənt
+significantly|adv|önemli ölçüde|sɪɡˈnɪfɪkəntli

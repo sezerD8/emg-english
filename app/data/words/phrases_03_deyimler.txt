@@ -1,0 +1,225 @@
+# Deyimler: kelime kelime çevrilince anlamı çıkmayan ifadeler (B2)
+# english|tür|türkçe|ipa|örnek|örnek (türkçe)
+#! level=B2
+break the ice|idiom|buzları eritmek, ilk gerginliği atmak|breɪk ðə aɪs|He told a joke to break the ice.|Buzları eritmek için bir şaka yaptı.
+a piece of cake|idiom|çocuk oyuncağı, çok kolay|ə piːs əv keɪk|The exam was a piece of cake.|Sınav çocuk oyuncağıydı.
+hit the books|idiom|sıkı ders çalışmaya oturmak|hɪt ðə bʊks|I have an exam tomorrow, I need to hit the books.|Yarın sınavım var, sıkı çalışmam lazım.
+hit the sack|idiom|yatmak, yatağa girmek|hɪt ðə sæk|I'm tired. I'm going to hit the sack.|Yorgunum. Yatmaya gidiyorum.
+cost an arm and a leg|idiom|dudak uçuklatacak kadar pahalı olmak|kɔːst ən ɑːrm ənd ə leɡ|That car cost an arm and a leg.|O araba dudak uçuklatan bir paraya mal oldu.
+under the weather|idiom|keyifsiz, biraz hasta|ˈʌndər ðə ˈweðər|I'm feeling a bit under the weather today.|Bugün biraz keyifsizim.
+once in a blue moon|idiom|kırk yılda bir|wʌns ɪn ə bluː muːn|I only see him once in a blue moon.|Onu kırk yılda bir görüyorum.
+spill the beans|idiom|ağzından kaçırmak, sırrı açmak|spɪl ðə biːnz|Come on, spill the beans! What happened?|Hadi, anlat artık! Ne oldu?
+let the cat out of the bag|idiom|baklayı ağzından çıkarmak|let ðə kæt aʊt əv ðə bæɡ|Who let the cat out of the bag about the party?|Parti hakkında baklayı kim ağzından çıkardı?
+bite the bullet|idiom|dişini sıkmak, zor şeye katlanmak|baɪt ðə ˈbʊlɪt|I hate the dentist, but I'll have to bite the bullet.|Dişçiden nefret ederim ama dişimi sıkmam gerekecek.
+call it a day|idiom|bugünlük bu kadar demek, işi bırakmak|kɔːl ɪt ə deɪ|We've worked enough. Let's call it a day.|Yeterince çalıştık. Bugünlük bu kadar diyelim.
+cut corners|idiom|işi baştan savma yapmak (kestirme yoldan)|kʌt ˈkɔːrnərz|Don't cut corners when it comes to safety.|Güvenlik söz konusu olunca işi baştan savma yapma.
+get out of hand|idiom|kontrolden çıkmak|ɡet aʊt əv hænd|The party got out of hand.|Parti kontrolden çıktı.
+it's not rocket science|idiom|o kadar da zor değil|ɪts nɑːt ˈrɑːkɪt ˈsaɪəns|Just follow the steps. It's not rocket science.|Adımları izle yeter. O kadar da zor değil.
+kill two birds with one stone|idiom|bir taşla iki kuş vurmak|kɪl tuː bɜːrdz wɪð wʌn stoʊn|I visited my friend and did some shopping, killing two birds with one stone.|Arkadaşımı ziyaret edip alışveriş de yaptım, bir taşla iki kuş vurdum.
+miss the boat|idiom|fırsatı kaçırmak|mɪs ðə boʊt|The tickets are gone. We missed the boat.|Biletler bitti. Fırsatı kaçırdık.
+on the same page|idiom|aynı fikirde, aynı noktada|ɑːn ðə seɪm peɪdʒ|Let's make sure we're all on the same page.|Hepimizin aynı noktada olduğundan emin olalım.
+pull someone's leg|idiom|birine şaka yapmak, birini işletmek|pʊl ˈsʌmwʌnz leɡ|Relax, I'm just pulling your leg.|Rahatla, seni işletiyorum sadece.
+see eye to eye|idiom|aynı fikirde olmak, anlaşmak|siː aɪ tə aɪ|My dad and I don't see eye to eye on politics.|Babamla politikada anlaşamıyoruz.
+sit on the fence|idiom|kararsız kalmak, taraf tutmamak|sɪt ɑːn ðə fens|You can't sit on the fence forever. Choose!|Sonsuza dek kararsız kalamazsın. Seç!
+the last straw|idiom|bardağı taşıran son damla|ðə læst strɔː|Being late again was the last straw.|Yine geç kalması bardağı taşıran son damla oldu.
+under the table|idiom|el altından, kayıt dışı|ˈʌndər ðə ˈteɪbəl|He gets paid under the table.|Maaşını el altından alıyor.
+up in the air|idiom|belirsiz, havada|ʌp ɪn ðə er|Our holiday plans are still up in the air.|Tatil planlarımız hâlâ belirsiz.
+when pigs fly|idiom|balık kavağa çıkınca|wen pɪɡz flaɪ|He'll clean his room when pigs fly.|O odasını balık kavağa çıkınca toplar.
+break a leg|idiom|bol şans (sahneye çıkana)|breɪk ə leɡ|Big show tonight? Break a leg!|Bu akşam büyük gösteri mi? Bol şans!
+beat around the bush|idiom|lafı dolandırmak|biːt əˈraʊnd ðə bʊʃ|Stop beating around the bush and tell me.|Lafı dolandırmayı bırak da söyle.
+burn the midnight oil|idiom|gece geç saatlere kadar çalışmak|bɜːrn ðə ˈmɪdnaɪt ɔɪl|She burned the midnight oil to finish the project.|Projeyi bitirmek için gece geç saatlere kadar çalıştı.
+by the skin of your teeth|idiom|kıl payı|baɪ ðə skɪn əv jʊr tiːθ|I passed the exam by the skin of my teeth.|Sınavı kıl payı geçtim.
+get cold feet|idiom|son anda korkup vazgeçmek|ɡet koʊld fiːt|He got cold feet before the wedding.|Düğünden önce son anda korkup vazgeçti.
+give someone the cold shoulder|idiom|birine soğuk davranmak, yüz vermemek|ɡɪv ˈsʌmwʌn ðə koʊld ˈʃoʊldər|She gave me the cold shoulder at the party.|Partide bana soğuk davrandı.
+go the extra mile|idiom|fazlasını yapmak, ekstra çaba göstermek|ɡoʊ ðə ˈekstrə maɪl|Good teachers always go the extra mile.|İyi öğretmenler her zaman fazlasını yapar.
+have a lot on your plate|idiom|başı kalabalık olmak, işi başından aşkın olmak|hæv ə lɑːt ɑːn jʊr pleɪt|I can't help you now, I have a lot on my plate.|Şu an yardım edemem, işim başımdan aşkın.
+in hot water|idiom|başı dertte|ɪn hɑːt ˈwɔːtər|He's in hot water with his boss.|Patronuyla başı dertte.
+jump on the bandwagon|idiom|modaya uymak, kervana katılmak|dʒʌmp ɑːn ðə ˈbændwæɡən|Everyone jumped on the bandwagon and bought that phone.|Herkes kervana katılıp o telefonu aldı.
+let off steam|idiom|stres atmak, deşarj olmak|let ɔːf stiːm|I go running to let off steam.|Stres atmak için koşuya çıkarım.
+make ends meet|idiom|iki yakasını bir araya getirmek|meɪk endz miːt|It's hard to make ends meet with this salary.|Bu maaşla iki yakayı bir araya getirmek zor.
+on thin ice|idiom|tehlikeli durumda, ince buz üstünde|ɑːn θɪn aɪs|You're on thin ice. Don't be late again.|İnce buz üstündesin. Bir daha geç kalma.
+out of the blue|idiom|birdenbire, durup dururken|aʊt əv ðə bluː|He called me out of the blue after ten years.|On yıl sonra durup dururken beni aradı.
+play it by ear|idiom|duruma göre hareket etmek|pleɪ ɪt baɪ ɪr|I don't have a plan. Let's play it by ear.|Bir planım yok. Duruma göre hareket edelim.
+pull yourself together|idiom|kendini toparlamak|pʊl jʊrˈself təˈɡeðər|Stop crying and pull yourself together.|Ağlamayı bırak ve kendini topla.
+rule of thumb|idiom|pratik kural, genel kural|ruːl əv θʌm|As a rule of thumb, drink two liters of water a day.|Genel bir kural olarak günde iki litre su iç.
+the ball is in your court|idiom|top sende, karar senin|ðə bɔːl ɪz ɪn jʊr kɔːrt|I've made my offer. The ball is in your court.|Teklifimi yaptım. Top sende.
+the best of both worlds|idiom|iki tarafın da iyi yanı, hem o hem bu|ðə best əv boʊθ wɜːrldz|Working from home gives me the best of both worlds.|Evden çalışmak bana iki tarafın da iyi yanını veriyor.
+throw in the towel|idiom|pes etmek, havlu atmak|θroʊ ɪn ðə ˈtaʊəl|Don't throw in the towel yet!|Henüz pes etme!
+to make matters worse|idiom|işin kötüsü, üstüne bir de|tə meɪk ˈmætərz wɜːrs|It was raining, and to make matters worse, I lost my umbrella.|Yağmur yağıyordu, işin kötüsü şemsiyemi kaybettim.
+twist someone's arm|idiom|birini zorla ikna etmek|twɪst ˈsʌmwʌnz ɑːrm|Okay, you twisted my arm. I'll come.|Tamam, ikna ettin. Geleceğim.
+a blessing in disguise|idiom|kötü görünen ama hayırlı çıkan şey|ə ˈblesɪŋ ɪn dɪsˈɡaɪz|Losing that job was a blessing in disguise.|O işi kaybetmek hayırlı bir aksilik oldu.
+a dime a dozen|idiom|sokakta bulunur, çok sıradan|ə daɪm ə ˈdʌzən|Cheap phones like this are a dime a dozen.|Bunun gibi ucuz telefonlar sokakta bulunur.
+a drop in the ocean|idiom|devede kulak|ə drɑːp ɪn ðə ˈoʊʃən|Ten dollars is a drop in the ocean.|On dolar devede kulak.
+add fuel to the fire|idiom|yangına körükle gitmek|æd ˈfjuːəl tə ðə ˈfaɪər|Shouting at him will only add fuel to the fire.|Ona bağırmak sadece yangına körükle gitmek olur.
+against the clock|idiom|zamana karşı|əˈɡenst ðə klɑːk|We're working against the clock.|Zamana karşı çalışıyoruz.
+at the drop of a hat|idiom|hiç tereddüt etmeden, hemen|æt ðə drɑːp əv ə hæt|She'd travel anywhere at the drop of a hat.|Hiç tereddüt etmeden her yere seyahat eder.
+back to square one|idiom|başa dönmek, sıfıra dönmek|bæk tə skwer wʌn|The plan failed, so we're back to square one.|Plan başarısız oldu, başa döndük.
+back to the drawing board|idiom|yeniden plan yapmak, en baştan başlamak|bæk tə ðə ˈdrɔːɪŋ bɔːrd|They didn't like the design. Back to the drawing board.|Tasarımı beğenmediler. Yeniden çizim masasına.
+be in the same boat|idiom|aynı gemide olmak, aynı durumda olmak|biː ɪn ðə seɪm boʊt|Don't worry, we're all in the same boat.|Merak etme, hepimiz aynı gemideyiz.
+bend over backwards|idiom|(birine yardım için) çok uğraşmak, takla atmak|bend ˈoʊvər ˈbækwərdz|They bent over backwards to help us.|Bize yardım etmek için takla attılar.
+bite off more than you can chew|idiom|boyundan büyük işe kalkışmak|baɪt ɔːf mɔːr ðæn juː kæn tʃuː|I took three jobs and bit off more than I could chew.|Üç iş aldım, boyumdan büyük işe kalkıştım.
+break the bank|idiom|çok pahalıya patlamak, bütçeyi sarsmak|breɪk ðə bæŋk|A nice dinner doesn't have to break the bank.|Güzel bir akşam yemeği çok pahalıya patlamak zorunda değil.
+by heart|idiom|ezbere|baɪ hɑːrt|I know this song by heart.|Bu şarkıyı ezbere biliyorum.
+call the shots|idiom|kararları vermek, ipleri elinde tutmak|kɔːl ðə ʃɑːts|In this house, my mother calls the shots.|Bu evde kararları annem verir.
+catch someone red-handed|idiom|birini suçüstü yakalamak|kætʃ ˈsʌmwʌn redhændɪd|The thief was caught red-handed.|Hırsız suçüstü yakalandı.
+come rain or shine|idiom|ne olursa olsun, yağmur çamur demeden|kʌm reɪn ɔːr ʃaɪn|I go running every morning, come rain or shine.|Yağmur çamur demeden her sabah koşarım.
+cross that bridge when you come to it|idiom|o köprüye gelince geçeriz, sırası gelince düşünürüz|krɔːs ðæt brɪdʒ wen juː kʌm tə ɪt|What if we fail? We'll cross that bridge when we come to it.|Ya başarısız olursak? Sırası gelince düşünürüz.
+cut to the chase|idiom|sadede gelmek|kʌt tə ðə tʃeɪs|Let's cut to the chase. How much is it?|Sadede gelelim. Kaç para?
+down to earth|idiom|ayakları yere basan, mütevazı|daʊn tə ɜːrθ|Despite being famous, she's very down to earth.|Ünlü olmasına rağmen çok mütevazı.
+easier said than done|idiom|söylemesi kolay (yapması zor)|ˈiːziər sed ðæn dʌn|Just stop worrying? That's easier said than done.|Endişelenmeyi bırak mı? Söylemesi kolay.
+face the music|idiom|sonuçlarına katlanmak|feɪs ðə ˈmjuːzɪk|You broke it, now you have to face the music.|Sen kırdın, şimdi sonuçlarına katlanmalısın.
+few and far between|idiom|seyrek, nadir|fjuː ənd fɑːr bɪˈtwiːn|Good jobs are few and far between here.|Burada iyi işler nadir bulunur.
+fit as a fiddle|idiom|turp gibi, sapasağlam|fɪt æz ə ˈfɪdəl|My grandfather is ninety and fit as a fiddle.|Dedem doksan yaşında ve turp gibi.
+get the ball rolling|idiom|işi başlatmak, ilk adımı atmak|ɡet ðə bɔːl roʊlɪŋ|Let's get the ball rolling on this project.|Bu projeyi başlatalım.
+get something off your chest|idiom|içini dökmek, açıp rahatlamak|ɡet ˈsʌmθɪŋ ɔːf jʊr tʃest|Tell me what's wrong. Get it off your chest.|Neyin var anlat. İçini dök.
+get your act together|idiom|kendine çeki düzen vermek|ɡet jʊr ækt təˈɡeðər|You need to get your act together.|Kendine çeki düzen vermen lazım.
+give someone the benefit of the doubt|idiom|şüpheyi birinin lehine yorumlamak|ɡɪv ˈsʌmwʌn ðə ˈbenɪfɪt əv ðə daʊt|I'll give him the benefit of the doubt this time.|Bu sefer şüpheyi onun lehine yorumlayacağım.
+go with the flow|idiom|akışına bırakmak|ɡoʊ wɪð ðə floʊ|Don't plan everything. Just go with the flow.|Her şeyi planlama. Akışına bırak.
+hit the nail on the head|idiom|tam üstüne basmak, tam isabet|hɪt ðə neɪl ɑːn ðə hed|You hit the nail on the head.|Tam üstüne bastın.
+hit the road|idiom|yola koyulmak|hɪt ðə roʊd|It's getting late. Let's hit the road.|Geç oluyor. Yola koyulalım.
+hold your horses|idiom|dur bakalım, acele etme|hoʊld jʊr hɔːrsɪz|Hold your horses! We haven't decided yet.|Dur bakalım! Henüz karar vermedik.
+in a nutshell|idiom|kısacası, özetle|ɪn ə ˈnʌtʃel|In a nutshell, we need more money.|Kısacası daha fazla paraya ihtiyacımız var.
+in the long run|idiom|uzun vadede|ɪn ðə lɔːŋ rʌn|It's expensive, but it will save money in the long run.|Pahalı ama uzun vadede para kazandıracak.
+in the nick of time|idiom|son anda, tam zamanında|ɪn ðə nɪk əv taɪm|The ambulance arrived in the nick of time.|Ambulans tam zamanında geldi.
+it's raining cats and dogs|idiom|bardaktan boşanırcasına yağıyor|ɪts reɪnɪŋ kæts ənd dɔːɡz|Take an umbrella, it's raining cats and dogs.|Şemsiye al, bardaktan boşanırcasına yağıyor.
+jump to conclusions|idiom|aceleyle hüküm vermek|dʒʌmp tə kənˈkluːʒənz|Don't jump to conclusions. Listen first.|Aceleyle hüküm verme. Önce dinle.
+keep your chin up|idiom|moralini bozma, başını dik tut|kiːp jʊr tʃɪn ʌp|Keep your chin up. Things will get better.|Moralini bozma. İşler düzelecek.
+know something inside out|idiom|bir şeyi avucunun içi gibi bilmek|noʊ ˈsʌmθɪŋ ɪnˈsaɪd aʊt|He knows this city inside out.|Bu şehri avucunun içi gibi biliyor.
+learn the ropes|idiom|işin inceliklerini öğrenmek|lɜːrn ðə roʊps|It takes a few weeks to learn the ropes.|İşin inceliklerini öğrenmek birkaç hafta sürer.
+leave no stone unturned|idiom|aramadık yer bırakmamak, her yolu denemek|liːv noʊ stoʊn ʌnˈtɜːrnd|The police left no stone unturned.|Polis aramadık yer bırakmadı.
+let it slide|idiom|üstünde durmamak, görmezden gelmek|let ɪt slaɪd|It's the first time, so I'll let it slide.|İlk sefer olduğu için üstünde durmayacağım.
+miss the point|idiom|asıl meseleyi kaçırmak|mɪs ðə pɔɪnt|You're missing the point.|Asıl meseleyi kaçırıyorsun.
+nip it in the bud|idiom|daha başlamadan önlemek|nɪp ɪt ɪn ðə bʌd|If there's a problem, nip it in the bud.|Bir sorun varsa daha başlamadan önle.
+not my cup of tea|idiom|bana göre değil, tarzım değil|nɑːt maɪ kʌp əv tiː|Jazz is not my cup of tea.|Caz bana göre değil.
+on the ball|idiom|uyanık, işinin ehli|ɑːn ðə bɔːl|Our new manager is really on the ball.|Yeni müdürümüz gerçekten işinin ehli.
+once and for all|idiom|kesin olarak, ilk ve son kez|wʌns ənd fər ɔːl|Let's solve this once and for all.|Bunu kesin olarak çözelim.
+out of the question|idiom|söz konusu bile değil, imkânsız|aʊt əv ðə ˈkwestʃən|Buying a new car is out of the question.|Yeni araba almak söz konusu bile değil.
+over the moon|idiom|havalara uçmak (çok mutlu)|ˈoʊvər ðə muːn|She was over the moon about her new job.|Yeni işi yüzünden havalara uçtu.
+pay through the nose|idiom|fahiş para ödemek, kazık yemek|peɪ θruː ðə noʊz|We paid through the nose for those tickets.|O biletler için kazık yedik.
+play devil's advocate|idiom|şeytanın avukatlığını yapmak|pleɪ ˈdevəlz ˈædvəkeɪt|Let me play devil's advocate for a moment.|Bir an için şeytanın avukatlığını yapayım.
+pull the plug|idiom|fişini çekmek, durdurmak|pʊl ðə plʌɡ|The company pulled the plug on the project.|Şirket projenin fişini çekti.
+put all your eggs in one basket|idiom|bütün yumurtaları aynı sepete koymak|pʊt ɔːl jʊr eɡz ɪn wʌn ˈbæskɪt|Don't put all your eggs in one basket. Apply to several jobs.|Bütün yumurtaları aynı sepete koyma. Birkaç işe başvur.
+put your foot down|idiom|ayak diremek, kesin tavır koymak|pʊt jʊr fʊt daʊn|My mom put her foot down: no phones at dinner.|Annem kesin tavır koydu: yemekte telefon yok.
+put yourself in someone's shoes|idiom|kendini birinin yerine koymak|pʊt jʊrˈself ɪn ˈsʌmwʌnz ʃuːz|Put yourself in my shoes. What would you do?|Kendini benim yerime koy. Ne yapardın?
+rain on someone's parade|idiom|birinin keyfini kaçırmak|reɪn ɑːn ˈsʌmwʌnz pəˈreɪd|Sorry to rain on your parade, but the trip is cancelled.|Keyfini kaçırmak istemem ama gezi iptal.
+ring a bell|idiom|tanıdık gelmek|rɪŋ ə bel|His name rings a bell.|Adı tanıdık geliyor.
+rock the boat|idiom|huzuru bozmak, ortalığı karıştırmak|rɑːk ðə boʊt|Don't rock the boat. Everything is fine now.|Huzuru bozma. Şu an her şey yolunda.
+run out of steam|idiom|enerjisi tükenmek, gaz bitmek|rʌn aʊt əv stiːm|I ran out of steam after an hour.|Bir saat sonra gazım bitti.
+save the day|idiom|durumu kurtarmak|seɪv ðə deɪ|The goalkeeper saved the day.|Kaleci durumu kurtardı.
+second nature|idiom|alışkanlık haline gelmiş, ikinci doğa|ˈsekənd ˈneɪtʃər|After years of practice, driving is second nature to me.|Yıllarca pratikten sonra araba sürmek bende alışkanlık oldu.
+sleep on it|idiom|bir gece düşünmek (karar için)|sliːp ɑːn ɪt|Don't decide now. Sleep on it.|Şimdi karar verme. Bir gece düşün.
+speak of the devil|idiom|iti an çomağı hazırla|spiːk əv ðə ˈdevəl|Speak of the devil! We were just talking about you.|İti an çomağı hazırla! Biz de senden bahsediyorduk.
+steal the show|idiom|tüm ilgiyi toplamak, gösteriyi çalmak|stiːl ðə ʃoʊ|The little girl stole the show.|Küçük kız tüm ilgiyi topladı.
+take it with a grain of salt|idiom|ihtiyatla yaklaşmak, şüpheyle karşılamak|teɪk ɪt wɪð ə ɡreɪn əv sɔːlt|He exaggerates, so take it with a grain of salt.|Abartır, o yüzden ihtiyatla yaklaş.
+take the bull by the horns|idiom|zorluğun üstüne gitmek|teɪk ðə bʊl baɪ ðə hɔːrnz|It's time to take the bull by the horns.|Sorunun üstüne gitme zamanı.
+the elephant in the room|idiom|herkesin bildiği ama konuşmadığı sorun|ðə ˈelɪfənt ɪn ðə ruːm|Nobody mentioned the elephant in the room: the money.|Kimse herkesin bildiği asıl sorundan, paradan bahsetmedi.
+the tip of the iceberg|idiom|buzdağının görünen kısmı|ðə tɪp əv ðə ˈaɪsbɜːrɡ|These problems are just the tip of the iceberg.|Bu sorunlar buzdağının sadece görünen kısmı.
+through thick and thin|idiom|iyi günde kötü günde|θruː θɪk ənd θɪn|She stood by me through thick and thin.|İyi günde kötü günde yanımda oldu.
+tie the knot|idiom|dünya evine girmek, evlenmek|taɪ ðə nɑːt|They're tying the knot next June.|Önümüzdeki haziran dünya evine giriyorlar.
+up to scratch|idiom|beklenen seviyede, yeterli|ʌp tə skrætʃ|His work isn't up to scratch.|İşi beklenen seviyede değil.
+walk on eggshells|idiom|diken üstünde olmak, çok dikkatli davranmak|wɔːk ɑːn ˈeɡʃelz|I feel like I'm walking on eggshells around him.|Onun yanında diken üstündeymişim gibi hissediyorum.
+water under the bridge|idiom|geçmişte kaldı, unutuldu|ˈwɔːtər ˈʌndər ðə brɪdʒ|We argued last year, but it's water under the bridge.|Geçen yıl tartıştık ama geçmişte kaldı.
+weather the storm|idiom|zor dönemi atlatmak|ˈweðər ðə stɔːrm|The company managed to weather the storm.|Şirket zor dönemi atlatmayı başardı.
+wrap your head around something|idiom|bir şeyi kavramak, aklı almak|ræp jʊr hed əˈraʊnd ˈsʌmθɪŋ|I can't wrap my head around this math problem.|Bu matematik problemini kavrayamıyorum.
+your guess is as good as mine|idiom|ben de senin kadar biliyorum, hiç fikrim yok|jʊr ɡes ɪz æz ɡʊd æz maɪn|When will the bus come? Your guess is as good as mine.|Otobüs ne zaman gelir? Ben de senin kadar biliyorum.
+a far cry from|idiom|...-den çok farklı, ...-le uzaktan yakından ilgisi yok|ə fɑːr kraɪ frʌm|This hotel is a far cry from what we expected.|Bu otelin beklediğimizle uzaktan yakından ilgisi yok.
+a hot potato|idiom|kimsenin elini sürmek istemediği tartışmalı konu|ə hɑːt pəˈteɪtoʊ|Immigration is a political hot potato.|Göç siyasette kimsenin dokunmak istemediği bir konu.
+a no-brainer|idiom|düşünmeye bile gerek yok, apaçık|ə noʊbreɪnər|Free pizza? That's a no-brainer.|Bedava pizza mı? Düşünmeye gerek yok.
+a slap on the wrist|idiom|göstermelik ceza|ə slæp ɑːn ðə rɪst|He only got a slap on the wrist.|Sadece göstermelik bir ceza aldı.
+a storm in a teacup|idiom|bir bardak suda fırtına|ə stɔːrm ɪn ə ˈtiːkʌp|Don't worry, it's just a storm in a teacup.|Merak etme, bir bardak suda fırtına sadece.
+all in all|idiom|sonuç olarak, her şey göz önüne alındığında|ɔːl ɪn ɔːl|All in all, it was a great trip.|Sonuç olarak harika bir geziydi.
+as cool as a cucumber|idiom|buz gibi sakin, soğukkanlı|æz kuːl æz ə ˈkjuːkʌmbər|He stayed as cool as a cucumber during the interview.|Mülakat boyunca buz gibi sakin kaldı.
+at the end of the day|idiom|günün sonunda, nihayetinde|æt ðə end əv ðə deɪ|At the end of the day, it's your decision.|Nihayetinde bu senin kararın.
+on cloud nine|idiom|bulutların üstünde, çok mutlu|ɑːn klaʊd naɪn|She's been on cloud nine since she got engaged.|Nişanlandığından beri bulutların üstünde.
+bark up the wrong tree|idiom|yanlış kapı çalmak, yanlış kişiyi suçlamak|bɑːrk ʌp ðə rɔːŋ triː|If you think I took it, you're barking up the wrong tree.|Onu benim aldığımı düşünüyorsan yanlış kapı çalıyorsun.
+behind someone's back|idiom|birinin arkasından|bɪˈhaɪnd ˈsʌmwʌnz bæk|Don't talk about people behind their backs.|İnsanların arkasından konuşma.
+bite your tongue|idiom|dilini tutmak|baɪt jʊr tʌŋ|I wanted to say something, but I bit my tongue.|Bir şey söylemek istedim ama dilimi tuttum.
+bring home the bacon|idiom|eve ekmek getirmek|brɪŋ hoʊm ðə ˈbeɪkən|Who brings home the bacon in your family?|Ailenizde eve ekmeği kim getiriyor?
+burn bridges|idiom|köprüleri atmak|bɜːrn brɪdʒɪz|Don't burn bridges with your old boss.|Eski patronunla köprüleri atma.
+by and large|idiom|genel olarak, büyük ölçüde|baɪ ənd lɑːrdʒ|By and large, the project was a success.|Genel olarak proje başarılı oldu.
+call it a night|idiom|bu gecelik bu kadar demek|kɔːl ɪt ə naɪt|It's midnight. Let's call it a night.|Gece yarısı oldu. Bu gecelik bu kadar diyelim.
+come clean|idiom|itiraf etmek, gerçeği söylemek|kʌm kliːn|He finally came clean about the accident.|Sonunda kazayla ilgili gerçeği itiraf etti.
+cost a fortune|idiom|servete mal olmak, çok pahalı olmak|kɔːst ə ˈfɔːrtʃən|Their wedding cost a fortune.|Düğünleri servete mal oldu.
+cut someone some slack|idiom|birine biraz anlayış göstermek|kʌt ˈsʌmwʌn sʌm slæk|Cut him some slack, he's new here.|Ona biraz anlayış göster, burada yeni.
+by the book|idiom|kurallara harfiyen uyarak|baɪ ðə bʊk|Our boss does everything by the book.|Patronumuz her şeyi kitabına uygun yapar.
+drive someone up the wall|idiom|birini çileden çıkarmak|draɪv ˈsʌmwʌn ʌp ðə wɔːl|That noise is driving me up the wall.|O gürültü beni çileden çıkarıyor.
+eat your words|idiom|söylediğini geri almak zorunda kalmak|iːt jʊr wɜːrdz|He said I'd fail, but he had to eat his words.|Başarısız olacağımı söyledi ama sözünü geri almak zorunda kaldı.
+get on someone's nerves|idiom|birinin sinirine dokunmak|ɡet ɑːn ˈsʌmwʌnz nɜːrvz|His voice gets on my nerves.|Sesi sinirime dokunuyor.
+give it a shot|idiom|bir denemek, şansını denemek|ɡɪv ɪt ə ʃɑːt|I've never surfed, but I'll give it a shot.|Hiç sörf yapmadım ama bir deneyeceğim.
+go cold turkey|idiom|(alışkanlığı) birden bırakmak|ɡoʊ koʊld ˈtɜːrki|He quit smoking cold turkey.|Sigarayı birden bıraktı.
+go Dutch|idiom|hesabı paylaşmak, Alman usulü ödemek|ɡoʊ dʌtʃ|Let's go Dutch on dinner.|Akşam yemeğinde Alman usulü ödeyelim.
+have second thoughts|idiom|tereddüt etmek, ikinci kez düşünmek|hæv ˈsekənd θɔːts|I'm having second thoughts about moving abroad.|Yurt dışına taşınma konusunda tereddüt ediyorum.
+head over heels|idiom|sırılsıklam (aşık)|hed ˈoʊvər hiːlz|He's head over heels in love with her.|Ona sırılsıklam aşık.
+hit it off|idiom|hemen anlaşmak, kaynaşmak|hɪt ɪt ɔːf|We hit it off right away.|Hemen kaynaştık.
+in the dark|idiom|habersiz, karanlıkta|ɪn ðə dɑːrk|They kept me in the dark about the plan.|Plan hakkında beni habersiz bıraktılar.
+a long shot|idiom|düşük ihtimal, zayıf bir şans|ə lɔːŋ ʃɑːt|It's a long shot, but it might work.|Zayıf bir ihtimal ama işe yarayabilir.
+jump the gun|idiom|erken davranmak, aceleci olmak|dʒʌmp ðə ɡʌn|Don't jump the gun. Wait for the results.|Aceleci olma. Sonuçları bekle.
+keep someone in the loop|idiom|birini haberdar etmek, bilgi vermek|kiːp ˈsʌmwʌn ɪn ðə luːp|Please keep me in the loop.|Lütfen beni haberdar et.
+lend a hand|idiom|yardım etmek, el uzatmak|lend ə hænd|Could you lend me a hand with this table?|Bu masa için bana yardım edebilir misin?
+lose track of time|idiom|zamanın nasıl geçtiğini anlamamak|luːz træk əv taɪm|I was playing and lost track of time.|Oyun oynuyordum, zamanın nasıl geçtiğini anlamadım.
+make a scene|idiom|olay çıkarmak, rezalet çıkarmak|meɪk ə siːn|Please don't make a scene in the restaurant.|Lütfen restoranda olay çıkarma.
+my hands are tied|idiom|elim kolum bağlı|maɪ hændz ɑːr taɪd|I'd like to help, but my hands are tied.|Yardım etmek isterdim ama elim kolum bağlı.
+no strings attached|idiom|şartsız şurtsuz, karşılıksız|noʊ strɪŋz əˈtætʃt|It's a free gift, no strings attached.|Karşılıksız bir hediye, şartı şurtu yok.
+off the top of my head|idiom|hazırlıksız, ilk aklıma gelen|ɔːf ðə tɑːp əv maɪ hed|Off the top of my head, I'd say fifty people.|İlk aklıma gelen, elli kişi derim.
+on the go|idiom|sürekli koşturmaca içinde, hareket halinde|ɑːn ðə ɡoʊ|I've been on the go all day.|Bütün gün koşturdum.
+on the house|idiom|müesseseden, ikram|ɑːn ðə haʊs|The drinks are on the house.|İçecekler müesseseden.
+on the tip of my tongue|idiom|dilimin ucunda|ɑːn ðə tɪp əv maɪ tʌŋ|His name is on the tip of my tongue.|Adı dilimin ucunda.
+out of shape|idiom|formsuz, kondisyonsuz|aʊt əv ʃeɪp|I'm so out of shape. I can't run anymore.|Çok formsuzum. Artık koşamıyorum.
+out of the woods|idiom|tehlikeyi atlatmış|aʊt əv ðə wʊdz|The patient isn't out of the woods yet.|Hasta henüz tehlikeyi atlatmadı.
+a pain in the neck|idiom|baş belası, can sıkıcı|ə peɪn ɪn ðə nek|This printer is a pain in the neck.|Bu yazıcı tam bir baş belası.
+pass the buck|idiom|sorumluluğu başkasına atmak|pæs ðə bʌk|Stop passing the buck and fix it.|Sorumluluğu başkasına atmayı bırak da düzelt.
+pull an all-nighter|idiom|sabahlamak (çalışarak)|pʊl ən ɔːlnaɪtər|I pulled an all-nighter before the exam.|Sınavdan önce sabahladım.
+put two and two together|idiom|olayları birleştirip sonuca varmak|pʊt tuː ənd tuː təˈɡeðər|I put two and two together and realized the truth.|Olayları birleştirip gerçeği anladım.
+read between the lines|idiom|satır aralarını okumak|riːd bɪˈtwiːn ðə laɪnz|If you read between the lines, she's not happy.|Satır aralarını okursan mutlu değil.
+right off the bat|idiom|hemen, en başta|raɪt ɔːf ðə bæt|I liked him right off the bat.|Ondan en başta hoşlandım.
+see red|idiom|gözü dönmek, çok sinirlenmek|siː red|When he insulted my family, I saw red.|Aileme hakaret edince gözüm döndü.
+show someone the ropes|idiom|birine işi öğretmek|ʃoʊ ˈsʌmwʌn ðə roʊps|Mark will show you the ropes on your first day.|İlk gününde Mark sana işi öğretecek.
+spread yourself too thin|idiom|kendini çok fazla işe bölmek|spred jʊrˈself tuː θɪn|You're spreading yourself too thin.|Kendini çok fazla işe bölüyorsun.
+stab someone in the back|idiom|birini sırtından bıçaklamak|stæb ˈsʌmwʌn ɪn ðə bæk|I trusted him, and he stabbed me in the back.|Ona güvendim, beni sırtımdan bıçakladı.
+start from scratch|idiom|sıfırdan başlamak|stɑːrt frʌm skrætʃ|My file was deleted, so I had to start from scratch.|Dosyam silindi, sıfırdan başlamak zorunda kaldım.
+stick to your guns|idiom|fikrinden dönmemek|stɪk tə jʊr ɡʌnz|Everyone disagreed, but she stuck to her guns.|Herkes karşı çıktı ama o fikrinden dönmedi.
+take a toll|idiom|yıpratmak, bedelini ödetmek|teɪk ə toʊl|Stress can take a toll on your health.|Stres sağlığını yıpratabilir.
+the bottom line|idiom|işin özü, sonuç|ðə ˈbɑːtəm laɪn|The bottom line is that we need more players.|İşin özü, daha fazla oyuncuya ihtiyacımız var.
+think outside the box|idiom|kalıpların dışında düşünmek|θɪŋk ˌaʊtˈsaɪd ðə bɑːks|To solve this, we need to think outside the box.|Bunu çözmek için kalıpların dışında düşünmeliyiz.
+throw someone under the bus|idiom|birini harcamak, kendini kurtarmak için feda etmek|θroʊ ˈsʌmwʌn ˈʌndər ðə bʌs|He threw his friend under the bus to save himself.|Kendini kurtarmak için arkadaşını harcadı.
+on the safe side|idiom|garantiye almak için, ne olur ne olmaz|ɑːn ðə seɪf saɪd|Leave early to be on the safe side.|Garantiye almak için erken çık.
+turn a blind eye|idiom|göz yummak, görmezden gelmek|tɜːrn ə blaɪnd aɪ|The teacher turned a blind eye to his phone.|Öğretmen telefonuna göz yumdu.
+under the radar|idiom|gözlerden uzak, dikkat çekmeden|ˈʌndər ðə ˈreɪdɑːr|The game was released under the radar.|Oyun dikkat çekmeden piyasaya çıktı.
+up in arms|idiom|ayaklanmış, çok kızgın|ʌp ɪn ɑːrmz|Fans are up in arms about the new rules.|Taraftarlar yeni kurallar yüzünden ayaklanmış durumda.
+wear your heart on your sleeve|idiom|duygularını saklamamak|wer jʊr hɑːrt ɑːn jʊr sliːv|He wears his heart on his sleeve.|Duygularını hiç saklamaz.
+with flying colors|idiom|büyük başarıyla, parlak bir şekilde|wɪð flaɪɪŋ ˈkʌlərz|She passed the test with flying colors.|Testi büyük başarıyla geçti.
+a penny for your thoughts|idiom|ne düşünüyorsun bakalım?|ə ˈpeni fər jʊr θɔːts|You're quiet. A penny for your thoughts?|Sessizsin. Ne düşünüyorsun bakalım?
+add insult to injury|idiom|yaraya tuz biber ekmek|æd ɪnˈsʌlt tə ˈɪndʒəri|They lost, and to add insult to injury, it rained all day.|Kaybettiler, üstüne yaraya tuz biber, bütün gün yağmur yağdı.
+the apple of my eye|idiom|gözümün bebeği, en değerlim|ðə ˈæpəl əv maɪ aɪ|My daughter is the apple of my eye.|Kızım gözümün bebeği.
+around the corner|idiom|kapıda, çok yakında|əˈraʊnd ðə ˈkɔːrnər|Summer is just around the corner.|Yaz kapıda.
+a ballpark figure|idiom|kabaca tahmin|ə ˈbɔːlpɑːrk ˈfɪɡjər|Can you give me a ballpark figure?|Bana kabaca bir rakam verebilir misin?
+cat got your tongue|idiom|dilini kedi mi yuttu?|kæt ɡɑːt jʊr tʌŋ|Why so quiet? Cat got your tongue?|Neden bu kadar sessizsin? Dilini kedi mi yuttu?
+couch potato|idiom|bütün gün kanepede yatan tembel|kaʊtʃ pəˈteɪtoʊ|Don't be a couch potato, go outside!|Bütün gün kanepede yatma, dışarı çık!
+cry wolf|idiom|yok yere yardım istemek, "kurt var" diye bağırmak|kraɪ wʊlf|He cries wolf so often that nobody believes him.|O kadar çok yok yere bağırıyor ki kimse ona inanmıyor.
+a dark horse|idiom|sürpriz aday, kimsenin beklemediği yetenek|ə dɑːrk hɔːrs|The new player is a dark horse in this tournament.|Yeni oyuncu bu turnuvanın sürpriz adayı.
+draw the line|idiom|sınırı çekmek, buraya kadar demek|drɔː ðə laɪn|I don't mind helping, but I draw the line at lying.|Yardım etmeye itirazım yok ama yalan söylemekte sınırı çekerim.
+drop the ball|idiom|işi yüzüne gözüne bulaştırmak, hata yapmak|drɑːp ðə bɔːl|Someone dropped the ball and forgot to order the food.|Biri işi yüzüne gözüne bulaştırıp yemeği sipariş etmeyi unuttu.
+a fish out of water|idiom|suyun dışındaki balık gibi, yabancı hisseden|ə fɪʃ aʊt əv ˈwɔːtər|I felt like a fish out of water at the party.|Partide suyun dışındaki balık gibiydim.
+from the bottom of my heart|idiom|kalbimin derinliklerinden, yürekten|frʌm ðə ˈbɑːtəm əv maɪ hɑːrt|Thank you from the bottom of my heart.|Yürekten teşekkür ederim.
+get a kick out of something|idiom|bir şeyden çok keyif almak|ɡet ə kɪk aʊt əv ˈsʌmθɪŋ|I get a kick out of watching old cartoons.|Eski çizgi filmleri izlemekten çok keyif alıyorum.
+have a sweet tooth|idiom|tatlıya düşkün olmak|hæv ə swiːt tuːθ|I have a sweet tooth, so I love desserts.|Tatlıya düşkünüm, o yüzden tatlılara bayılırım.
+let your hair down|idiom|rahatlamak, salmak, eğlenmek|let jʊr her daʊn|It's Friday! Let your hair down.|Bugün cuma! Sal kendini.
+make a mountain out of a molehill|idiom|pireyi deve yapmak|meɪk ə ˈmaʊntən aʊt əv ə ˈmoʊlhɪl|It's a small scratch. Don't make a mountain out of a molehill.|Küçük bir çizik. Pireyi deve yapma.
+neck and neck|idiom|başa baş|nek ənd nek|The two teams are neck and neck.|İki takım başa baş gidiyor.
+on edge|idiom|gergin, diken üstünde|ɑːn edʒ|I've been on edge all day.|Bütün gün gergindim.
+open a can of worms|idiom|başına iş açmak, çıbanın başını koparmak|ˈoʊpən ə kæn əv wɜːrmz|Asking about his past will open a can of worms.|Geçmişini sormak başına iş açar.
+out of this world|idiom|muhteşem, harika|aʊt əv ðɪs wɜːrld|This chocolate cake is out of this world.|Bu çikolatalı pasta muhteşem.
+over my dead body|idiom|cesedimi çiğnemen lazım, asla|ˈoʊvər maɪ ded ˈbɑːdi|You'll sell my car over my dead body!|Arabamı ancak cesedimi çiğneyerek satarsın!
+pull strings|idiom|torpil yaptırmak, iltimas geçmek|pʊl strɪŋz|He pulled some strings to get the job.|İşi almak için torpil yaptırdı.
+sell like hot cakes|idiom|kapış kapış satılmak|sel laɪk hɑːt keɪks|The new console is selling like hot cakes.|Yeni konsol kapış kapış satılıyor.
+smell a rat|idiom|işin içinde bir iş olduğunu sezmek|smel ə ræt|When he offered to pay, I smelled a rat.|Ödemeyi teklif edince işin içinde bir iş olduğunu sezdim.
+the icing on the cake|idiom|üstüne tüy dikmek, işin en güzel yanı|ðə aɪsɪŋ ɑːn ðə keɪk|The hotel was great, and the free breakfast was the icing on the cake.|Otel harikaydı, bedava kahvaltı da üstüne tüy dikti.
+two peas in a pod|idiom|bir elmanın iki yarısı|tuː piːz ɪn ə pɑːd|The twins are like two peas in a pod.|İkizler bir elmanın iki yarısı gibi.
+up for grabs|idiom|kapanın elinde kalır, isteyen alabilir|ʌp fər ɡræbz|There are two tickets up for grabs.|Kapan alır, iki bilet var.
+a wild goose chase|idiom|boşuna arayış, nafile uğraş|ə waɪld ɡuːs tʃeɪs|The map sent us on a wild goose chase.|Harita bizi boşuna dolaştırdı.
+word of mouth|idiom|kulaktan kulağa, ağızdan ağıza|wɜːrd əv maʊθ|The restaurant became popular by word of mouth.|Restoran kulaktan kulağa yayılarak ünlendi.
+go bananas|idiom|çıldırmak, kafayı yemek|ɡoʊ bəˈnænəz|The fans went bananas when he scored.|Gol atınca taraftarlar çıldırdı.
+level playing field|idiom|herkese eşit şartlar|ˈlevəl pleɪɪŋ fiːld|The new rules create a level playing field.|Yeni kurallar herkese eşit şartlar sağlıyor.
+in the same league|idiom|aynı seviyede, aynı ligde|ɪn ðə seɪm liːɡ|They're not in the same league as us.|Bizimle aynı seviyede değiller.
+game changer|idiom|oyunun kurallarını değiştiren şey, devrim niteliğinde|ɡeɪm ˈtʃeɪndʒər|Smartphones were a game changer.|Akıllı telefonlar oyunun kurallarını değiştirdi.
+the whole nine yards|idiom|her şeyiyle, sonuna kadar|ðə hoʊl naɪn jɑːrdz|We had music, food, fireworks, the whole nine yards.|Müzik, yemek, havai fişek, her şey vardı.

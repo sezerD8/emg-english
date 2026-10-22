@@ -1,0 +1,542 @@
+# B2 — ek günlük hayat kelimeleri
+accent|n|aksan|ˈæksent
+accessory|n|aksesuar|əkˈsesəri
+accountant|n|muhasebeci|əˈkaʊntənt
+actress|n|kadın oyuncu|ˈæktrəs
+adjective|n|sıfat|ˈædʒɪktɪv
+adverb|n|zarf|ˈædvɜːrb
+advertising|n|reklamcılık|ˈædvərtaɪzɪŋ
+aisle|n|koridor (market, uçak)|aɪl
+alley|n|ara sokak|ˈæli
+amateur|n,adj|amatör|ˈæmətər
+amazement|n|hayret|əˈmeɪzmənt
+analyst|n|analist|ˈænəlɪst
+anthem|n|marş|ˈænθəm
+antique|adj,n|antika|ænˈtiːk
+aquarium|n|akvaryum|əˈkweriəm
+arch|n|kemer (yapı)|ɑːrtʃ
+archaeology|n|arkeoloji|ˌɑːrkiˈɑːlədʒi
+armchair|n|koltuk|ˈɑːrmtʃer
+artwork|n|sanat eseri|ˈɑːrtwɜːrk
+ash|n|kül|æʃ
+astronomy|n|astronomi|əˈstrɑːnəmi
+athletics|n|atletizm|æθˈletɪks
+attachment|n|ek (e-posta); bağlılık|əˈtætʃmənt
+autograph|n|imza (ünlü)|ˈɔːtəɡræf
+avalanche|n|çığ|ˈævəlæntʃ
+baggage|n|bagaj|ˈbæɡɪdʒ
+baker|n|fırıncı|ˈbeɪkər
+balcony|n|balkon|ˈbælkəni
+ballet|n|bale|bæˈleɪ
+bamboo|n|bambu|bæmˈbuː
+banquet|n|ziyafet|ˈbæŋkwɪt
+barbecue|n|mangal|ˈbɑːrbɪkjuː
+barrel|n|varil, fıçı|ˈbærəl
+baseball|n|beyzbol|ˈbeɪsbɔːl
+basketball|n|basketbol|ˈbæskɪtbɔːl
+bathtub|n|küvet|ˈbæθtʌb
+battlefield|n|savaş alanı|ˈbætəlfiːld
+bead|n|boncuk|biːd
+bedtime|n|yatma vakti|ˈbedtaɪm
+beggar|n|dilenci|ˈbeɡər
+behalf|n|adına (on behalf of)|bɪˈhæf
+bestseller|n|çok satan|ˌbestˈselər
+beverage|n|içecek|ˈbevərɪdʒ
+billboard|n|reklam panosu|ˈbɪlbɔːrd
+binoculars|n|dürbün|bɪˈnɑːkjələrz
+birthplace|n|doğum yeri|ˈbɜːrθpleɪs
+blackboard|n|kara tahta|ˈblækbɔːrd
+blender|n|blender|ˈblendər
+blizzard|n|kar fırtınası|ˈblɪzərd
+blogger|n|blog yazarı|ˈblɑːɡər
+bodyguard|n|koruma|ˈbɑːdiɡɑːrd
+bookcase|n|kitaplık|ˈbʊkkeɪs
+bookshop|n|kitapçı|ˈbʊkʃɑːp
+boredom|n|can sıkıntısı|ˈbɔːrdəm
+bouquet|n|buket|buˈkeɪ
+boxing|n|boks|ˈbɑːksɪŋ
+bravery|n|cesaret|ˈbreɪvəri
+breakdown|n|arıza; çöküş|ˈbreɪkdaʊn
+bribe|n,v|rüşvet; rüşvet vermek|braɪb
+bridegroom|n|damat|ˈbraɪdɡruːm
+briefcase|n|evrak çantası|ˈbriːfkeɪs
+broadband|n|geniş bant|ˈbrɔːdbænd
+brotherhood|n|kardeşlik|ˈbrʌðərhʊd
+brutal|adj|acımasız|ˈbruːtəl
+buffet|n|açık büfe|bəˈfeɪ
+bulletin|n|bülten|ˈbʊlətɪn
+burglar|n|hırsız (ev)|ˈbɜːrɡlər
+cafeteria|n|kafeterya|ˌkæfəˈtɪriə
+calculator|n|hesap makinesi|ˈkælkjəleɪtər
+calorie|n|kalori|ˈkæləri
+camping|n|kamp yapma|ˈkæmpɪŋ
+canoe|n|kano|kəˈnuː
+canvas|n|tuval; branda|ˈkænvəs
+carnival|n|karnaval|ˈkɑːrnɪvəl
+carpenter|n|marangoz|ˈkɑːrpəntər
+carriage|n|vagon; at arabası|ˈkærɪdʒ
+casualty|n|kayıp (yaralı/ölü)|ˈkæʒuəlti
+catalogue|n|katalog|ˈkætəlɔːɡ
+cathedral|n|katedral|kəˈθiːdrəl
+cemetery|n|mezarlık|ˈseməteri
+chess|n|satranç|tʃes
+chick|n|civciv|tʃɪk
+chilly|adj|serin, soğuk|ˈtʃɪli
+choir|n|koro|ˈkwaɪər
+chorus|n|nakarat; koro|ˈkɔːrəs
+cigarette|n|sigara|ˌsɪɡəˈret
+circus|n|sirk|ˈsɜːrkəs
+classmate|n|sınıf arkadaşı|ˈklæsmeɪt
+clinic|n|klinik|ˈklɪnɪk
+closet|n|dolap (gömme)|ˈklɑːzɪt
+coastline|n|kıyı şeridi|ˈkoʊstlaɪn
+cockpit|n|kokpit|ˈkɑːkpɪt
+comedian|n|komedyen|kəˈmiːdiən
+compass|n|pusula|ˈkʌmpəs
+compliment|n,v|iltifat; iltifat etmek|ˈkɑːmplɪmənt
+confession|n|itiraf|kənˈfeʃən
+conscience|n|vicdan|ˈkɑːnʃəns
+consultant|n|danışman|kənˈsʌltənt
+corridor|n|koridor|ˈkɔːrɪdɔːr
+cosmetics|n|kozmetik|kɑːzˈmetɪks
+cottage|n|kulübe, yazlık ev|ˈkɑːtɪdʒ
+countdown|n|geri sayım|ˈkaʊntdaʊn
+courtyard|n|avlu|ˈkɔːrtjɑːrd
+cowboy|n|kovboy|ˈkaʊbɔɪ
+crayon|n|boya kalemi|ˈkreɪɑːn
+crocodile|n|timsah|ˈkrɑːkədaɪl
+crossword|n|bulmaca|ˈkrɔːswɜːrd
+cruise|n|gemi turu|kruːz
+crystal|n|kristal|ˈkrɪstəl
+cuisine|n|mutfak (yemek kültürü)|kwɪˈziːn
+cupcake|n|kek (küçük)|ˈkʌpkeɪk
+curiosity|n|merak|ˌkjʊriˈɑːsəti
+cushion|n|minder|ˈkʊʃən
+cyclist|n|bisikletçi|ˈsaɪklɪst
+dairy|n|süt ürünleri|ˈderi
+dam|n|baraj|dæm
+dancer|n|dansçı|ˈdænsər
+darkness|n|karanlık|ˈdɑːrknəs
+dawn|n|şafak|dɔːn
+daylight|n|gün ışığı|ˈdeɪlaɪt
+debut|n|ilk çıkış|deɪˈbjuː
+decoration|n|süsleme|ˌdekəˈreɪʃən
+defender|n|defans oyuncusu; savunucu|dɪˈfendər
+descendant|n|torun, soyundan gelen|dɪˈsendənt
+designer|n|tasarımcı|dɪˈzaɪnər
+detergent|n|deterjan|dɪˈtɜːrdʒənt
+diagram|n|şema|ˈdaɪəɡræm
+dialect|n|lehçe|ˈdaɪəlekt
+diameter|n|çap|daɪˈæmɪtər
+dictator|n|diktatör|ˈdɪkteɪtər
+diploma|n|diploma|dɪˈploʊmə
+discomfort|n|rahatsızlık|dɪsˈkʌmfərt
+dishonest|adj|sahtekar|dɪsˈɑːnɪst
+dock|n|rıhtım|dɑːk
+documentary|n|belgesel|ˌdɑːkjuˈmentəri
+dormitory|n|yurt|ˈdɔːrmɪtɔːri
+doorbell|n|kapı zili|ˈdɔːrbel
+doorway|n|kapı aralığı|ˈdɔːrweɪ
+dough|n|hamur|doʊ
+downtown|n,adv|şehir merkezi|ˌdaʊnˈtaʊn
+drawback|n|dezavantaj|ˈdrɔːbæk
+driveway|n|garaj yolu|ˈdraɪvweɪ
+drummer|n|davulcu|ˈdrʌmər
+dusk|n|alacakaranlık|dʌsk
+dwarf|n|cüce|dwɔːrf
+editorial|n|başyazı|ˌedɪˈtɔːriəl
+elegance|n|zarafet|ˈelɪɡəns
+embassy|n|büyükelçilik|ˈembəsi
+emperor|n|imparator|ˈempərər
+encyclopedia|n|ansiklopedi|ɪnˌsaɪkləˈpiːdiə
+endurance|n|dayanıklılık|ɪnˈdʊrəns
+epidemic|n|salgın|ˌepɪˈdemɪk
+equation|n|denklem|ɪˈkweɪʒən
+essence|n|öz|ˈesəns
+eternity|n|sonsuzluk|ɪˈtɜːrnəti
+ethnic|adj|etnik|ˈeθnɪk
+eyesight|n|görme yeteneği|ˈaɪsaɪt
+fake|adj|sahte|feɪk
+fascinating|adj|büyüleyici|ˈfæsɪneɪtɪŋ
+feast|n|şölen|fiːst
+fiancé|n|nişanlı|ˌfiːɑːnˈseɪ
+fingerprint|n|parmak izi|ˈfɪŋɡərprɪnt
+firefighter|n|itfaiyeci|ˈfaɪərfaɪtər
+fireplace|n|şömine|ˈfaɪərpleɪs
+firework|n|havai fişek|ˈfaɪərwɜːrk
+flashlight|n|el feneri|ˈflæʃlaɪt
+fleet|n|filo|fliːt
+flock|n|sürü (kuş, koyun)|flɑːk
+fluid|n|sıvı|ˈfluːɪd
+flute|n|flüt|fluːt
+folklore|n|folklor|ˈfoʊklɔːr
+footprint|n|ayak izi|ˈfʊtprɪnt
+footstep|n|ayak sesi|ˈfʊtstep
+fortnight|n|iki hafta|ˈfɔːrtnaɪt
+fountain|n|çeşme, fıskiye|ˈfaʊntən
+fragrance|n|güzel koku|ˈfreɪɡrəns
+freshman|n|birinci sınıf öğrencisi|ˈfreʃmən
+friendship|n|arkadaşlık|ˈfrendʃɪp
+fries|n|patates kızartması|fraɪz
+gadget|n|alet, cihaz|ˈɡædʒɪt
+gardener|n|bahçıvan|ˈɡɑːrdnər
+genre|n|tür (sanat)|ˈʒɑːnrə
+geology|n|jeoloji|dʒiˈɑːlədʒi
+glacier|n|buzul|ˈɡleɪʃər
+goalkeeper|n|kaleci|ˈɡoʊlkiːpər
+gossip|n,v|dedikodu; dedikodu yapmak|ˈɡɑːsɪp
+graffiti|n|duvar yazısı|ɡrəˈfiːti
+granddaughter|n|kız torun|ˈɡrændɔːtər
+grandson|n|erkek torun|ˈɡrænsʌn
+greenhouse|n|sera|ˈɡriːnhaʊs
+grief|n|keder|ɡriːf
+guardian|n|vasi, koruyucu|ˈɡɑːrdiən
+gymnastics|n|jimnastik|dʒɪmˈnæstɪks
+haircut|n|saç kesimi|ˈherkʌt
+hallway|n|koridor|ˈhɔːlweɪ
+handbag|n|el çantası|ˈhændbæɡ
+handkerchief|n|mendil|ˈhæŋkərtʃɪf
+handwriting|n|el yazısı|ˈhændraɪtɪŋ
+harmony|n|uyum|ˈhɑːrməni
+hatred|n|nefret|ˈheɪtrɪd
+haunted|adj|perili|ˈhɔːntɪd
+hazelnut|n|fındık|ˈheɪzəlnʌt
+hedge|n|çit (bitki)|hedʒ
+heir|n|varis|er
+heroine|n|kadın kahraman|ˈheroʊɪn
+hiking|n|doğa yürüyüşü|ˈhaɪkɪŋ
+hockey|n|hokey|ˈhɑːki
+homeland|n|vatan|ˈhoʊmlænd
+homeless|adj|evsiz|ˈhoʊmləs
+honeymoon|n|balayı|ˈhʌnimuːn
+hood|n|kapüşon; kaput|hʊd
+hospitality|n|misafirperverlik|ˌhɑːspɪˈtæləti
+hostage|n|rehine|ˈhɑːstɪdʒ
+humanity|n|insanlık|hjuːˈmænəti
+hurricane|n|kasırga|ˈhɜːrɪkeɪn
+hut|n|kulübe|hʌt
+hygiene|n|hijyen|ˈhaɪdʒiːn
+iceberg|n|buzdağı|ˈaɪsbɜːrɡ
+icon|n|simge|ˈaɪkɑːn
+idiom|n|deyim|ˈɪdiəm
+idol|n|idol|ˈaɪdəl
+inn|n|han, küçük otel|ɪn
+inventor|n|mucit|ɪnˈventər
+ivory|n|fildişi|ˈaɪvəri
+jail|n|hapishane|dʒeɪl
+janitor|n|hademe|ˈdʒænɪtər
+journalism|n|gazetecilik|ˈdʒɜːrnəlɪzəm
+keyhole|n|anahtar deliği|ˈkiːhoʊl
+kindergarten|n|anaokulu|ˈkɪndərɡɑːrtən
+knight|n|şövalye|naɪt
+landlord|n|ev sahibi (kiraya veren)|ˈlændlɔːrd
+landslide|n|heyelan|ˈlændslaɪd
+laundry|n|çamaşır|ˈlɔːndri
+layout|n|düzen, yerleşim|ˈleɪaʊt
+leftovers|n|yemek artıkları|ˈleftoʊvərz
+lemonade|n|limonata|ˌleməˈneɪd
+lens|n|mercek, lens|lenz
+librarian|n|kütüphaneci|laɪˈbreriən
+lifeguard|n|cankurtaran|ˈlaɪfɡɑːrd
+lighthouse|n|deniz feneri|ˈlaɪthaʊs
+lipstick|n|ruj|ˈlɪpstɪk
+locker|n|dolap (kilitli)|ˈlɑːkər
+lottery|n|piyango|ˈlɑːtəri
+lullaby|n|ninni|ˈlʌləbaɪ
+lunchtime|n|öğle vakti|ˈlʌntʃtaɪm
+magician|n|sihirbaz|məˈdʒɪʃən
+mailbox|n|posta kutusu|ˈmeɪlbɑːks
+mammal|n|memeli|ˈmæməl
+mansion|n|malikane|ˈmænʃən
+marble|n|mermer; bilye|ˈmɑːrbəl
+marker|n|işaret kalemi|ˈmɑːrkər
+mascot|n|maskot|ˈmæskɑːt
+maze|n|labirent|meɪz
+mayor|n|belediye başkanı|ˈmeɪər
+meatball|n|köfte|ˈmiːtbɔːl
+melody|n|melodi|ˈmelədi
+membership|n|üyelik|ˈmembərʃɪp
+merchandise|n|ticari mal|ˈmɜːrtʃəndaɪs
+microscope|n|mikroskop|ˈmaɪkrəskoʊp
+midday|n|öğle|ˌmɪdˈdeɪ
+milestone|n|dönüm noktası|ˈmaɪlstoʊn
+millionaire|n|milyoner|ˌmɪljəˈner
+miner|n|madenci|ˈmaɪnər
+mischief|n|yaramazlık|ˈmɪstʃɪf
+misunderstanding|n|yanlış anlama|ˌmɪsʌndərˈstændɪŋ
+monument|n|anıt|ˈmɑːnjumənt
+motel|n|motel|moʊˈtel
+mustard|n|hardal|ˈmʌstərd
+nanny|n|dadı|ˈnæni
+narrator|n|anlatıcı|ˈnæreɪtər
+neighborhood|n|mahalle|ˈneɪbərhʊd
+nonsense|n|saçmalık|ˈnɑːnsens
+notebook|n|defter|ˈnoʊtbʊk
+novelist|n|romancı|ˈnɑːvəlɪst
+nursery|n|kreş|ˈnɜːrsəri
+obesity|n|obezite|oʊˈbiːsəti
+orchestra|n|orkestra|ˈɔːrkɪstrə
+orphan|n|yetim|ˈɔːrfən
+outfit|n|kıyafet takımı|ˈaʊtfɪt
+outlet|n|priz; satış noktası|ˈaʊtlet
+outskirts|n|kenar mahalleler|ˈaʊtskɜːrts
+overview|n|genel bakış|ˈoʊvərvjuː
+paddle|n|kürek (kano)|ˈpædəl
+pamphlet|n|broşür|ˈpæmflət
+paperwork|n|evrak işi|ˈpeɪpərwɜːrk
+parachute|n|paraşüt|ˈpærəʃuːt
+paradise|n|cennet|ˈpærədaɪs
+paragraph|n|paragraf|ˈpærəɡræf
+parliament|n|parlamento|ˈpɑːrləmənt
+pastry|n|hamur işi|ˈpeɪstri
+pavement|n|kaldırım|ˈpeɪvmənt
+peasant|n|köylü|ˈpezənt
+pedal|n|pedal|ˈpedəl
+peer|n|akran|pɪr
+penny|n|kuruş|ˈpeni
+pharmacist|n|eczacı|ˈfɑːrməsɪst
+philosopher|n|filozof|fəˈlɑːsəfər
+photocopy|n|fotokopi|ˈfoʊtoʊkɑːpi
+pickle|n|turşu|ˈpɪkəl
+picnic|n|piknik|ˈpɪknɪk
+pilgrim|n|hacı|ˈpɪlɡrɪm
+pillar|n|sütun|ˈpɪlər
+pirate|n|korsan|ˈpaɪrət
+plumber|n|tesisatçı|ˈplʌmər
+poetry|n|şiir (sanatı)|ˈpoʊətri
+porch|n|veranda|pɔːrtʃ
+postman|n|postacı|ˈpoʊstmən
+pottery|n|çömlekçilik|ˈpɑːtəri
+prey|n|av|preɪ
+printer|n|yazıcı|ˈprɪntər
+prisoner|n|mahkum|ˈprɪzənər
+prophet|n|peygamber|ˈprɑːfɪt
+prose|n|düzyazı|proʊz
+puppet|n|kukla|ˈpʌpɪt
+queue|n,v|kuyruk, sıra; sıra beklemek|kjuː
+racket|n|raket; gürültü|ˈrækɪt
+radar|n|radar|ˈreɪdɑːr
+raft|n|sal|ræft
+rainforest|n|yağmur ormanı|ˈreɪnfɔːrɪst
+ranch|n|çiftlik (hayvan)|ræntʃ
+reef|n|resif|riːf
+referee|n|hakem|ˌrefəˈriː
+rehearsal|n|prova|rɪˈhɜːrsəl
+reptile|n|sürüngen|ˈreptaɪl
+rhyme|n|kafiye|raɪm
+riddle|n|bilmece|ˈrɪdəl
+ritual|n|ritüel|ˈrɪtʃuəl
+robbery|n|soygun|ˈrɑːbəri
+rooftop|n|çatı üstü|ˈruːftɑːp
+runway|n|pist|ˈrʌnweɪ
+saddle|n|eyer|ˈsædəl
+saint|n|aziz|seɪnt
+salmon|n|somon|ˈsæmən
+salon|n|salon (güzellik)|səˈlɑːn
+sanctuary|n|sığınak|ˈsæŋktʃueri
+sauna|n|sauna|ˈsɔːnə
+saucer|n|fincan tabağı|ˈsɔːsər
+scenery|n|manzara|ˈsiːnəri
+scooter|n|skuter|ˈskuːtər
+scout|n|izci|skaʊt
+seagull|n|martı|ˈsiːɡʌl
+seaside|n|deniz kenarı|ˈsiːsaɪd
+sentiment|n|duygu|ˈsentɪmənt
+shepherd|n|çoban|ˈʃepərd
+shipwreck|n|gemi enkazı|ˈʃɪprek
+shrimp|n|karides|ʃrɪmp
+skeleton|n|iskelet|ˈskelɪtən
+skyscraper|n|gökdelen|ˈskaɪskreɪpər
+slang|n|argo|slæŋ
+slum|n|gecekondu bölgesi|slʌm
+snowman|n|kardan adam|ˈsnoʊmæn
+solar|adj|güneş ile ilgili|ˈsoʊlər
+songwriter|n|söz yazarı|ˈsɔːŋraɪtər
+sorrow|n|keder|ˈsɑːroʊ
+soul|n|ruh|soʊl
+spa|n|kaplıca|spɑː
+spaceship|n|uzay gemisi|ˈspeɪsʃɪp
+spear|n|mızrak|spɪr
+stationery|n|kırtasiye|ˈsteɪʃəneri
+steam|n|buhar|stiːm
+stew|n|güveç, yahni|stuː
+storyteller|n|hikaye anlatıcı|ˈstɔːritelər
+sunglasses|n|güneş gözlüğü|ˈsʌnɡlæsɪz
+sunshine|n|güneş ışığı|ˈsʌnʃaɪn
+superhero|n|süper kahraman|ˈsuːpərhɪroʊ
+superstition|n|batıl inanç|ˌsuːpərˈstɪʃən
+surname|n|soyadı|ˈsɜːrneɪm
+swamp|n|bataklık|swɑːmp
+sweatshirt|n|sweatshirt|ˈswetʃɜːrt
+syllable|n|hece|ˈsɪləbəl
+symphony|n|senfoni|ˈsɪmfəni
+syrup|n|şurup|ˈsɪrəp
+tablecloth|n|masa örtüsü|ˈteɪbəlklɔːθ
+tailor|n|terzi|ˈteɪlər
+teaspoon|n|çay kaşığı|ˈtiːspuːn
+temper|n|öfke, huy|ˈtempər
+thermometer|n|termometre|θərˈmɑːmɪtər
+thunderstorm|n|gök gürültülü fırtına|ˈθʌndərstɔːrm
+toddler|n|yeni yürüyen çocuk|ˈtɑːdlər
+tomb|n|mezar, türbe|tuːm
+toothache|n|diş ağrısı|ˈtuːθeɪk
+torch|n|meşale; el feneri|tɔːrtʃ
+tornado|n|hortum (fırtına)|tɔːrˈneɪdoʊ
+tortoise|n|kara kaplumbağası|ˈtɔːrtəs
+tractor|n|traktör|ˈtræktər
+trainer|n|antrenör; spor ayakkabı|ˈtreɪnər
+trophy|n|kupa (ödül)|ˈtroʊfi
+trousers|n|pantolon|ˈtraʊzərz
+tuition|n|öğrenim ücreti|tuˈɪʃən
+tulip|n|lale|ˈtuːlɪp
+twilight|n|alacakaranlık|ˈtwaɪlaɪt
+unicorn|n|tek boynuzlu at|ˈjuːnɪkɔːrn
+utensil|n|mutfak gereci|juˈtensəl
+van|n|minibüs, kamyonet|væn
+vase|n|vazo|veɪs
+violin|n|keman|ˌvaɪəˈlɪn
+vitamin|n|vitamin|ˈvaɪtəmɪn
+voyage|n|deniz yolculuğu|ˈvɔɪɪdʒ
+wagon|n|vagon; at arabası|ˈwæɡən
+weekday|n|hafta içi günü|ˈwiːkdeɪ
+wheat|n|buğday|wiːt
+wheelchair|n|tekerlekli sandalye|ˈwiːltʃer
+wig|n|peruk|wɪɡ
+windmill|n|yel değirmeni|ˈwɪndmɪl
+woodland|n|ormanlık alan|ˈwʊdlənd
+wool|n|yün|wʊl
+workout|n|antrenman|ˈwɜːrkaʊt
+x-ray|n|röntgen|ˈeks reɪ
+yacht|n|yat|jɑːt
+yolk|n|yumurta sarısı|joʊk
+zoo|n|hayvanat bahçesi|zuː
+dial|v|(numara) çevirmek|ˈdaɪəl
+dye|v,n|boyamak; boya|daɪ
+fetch|v|gidip getirmek|fetʃ
+fry|v|kızartmak|fraɪ
+grill|v,n|ızgara yapmak; ızgara|ɡrɪl
+mop|v,n|paspaslamak; paspas|mɑːp
+nap|n,v|şekerleme; kestirmek|næp
+rinse|v|durulamak|rɪns
+roast|v|kızartmak (fırında)|roʊst
+snore|v|horlamak|snɔːr
+spray|v,n|püskürtmek; sprey|spreɪ
+sunbathe|v|güneşlenmek|ˈsʌnbeɪð
+unplug|v|fişten çekmek|ʌnˈplʌɡ
+adorable|adj|çok sevimli|əˈdɔːrəbəl
+allergic|adj|alerjik|əˈlɜːrdʒɪk
+artistic|adj|sanatsal|ɑːrˈtɪstɪk
+athletic|adj|atletik|æθˈletɪk
+bald|adj|kel|bɔːld
+beloved|adj|sevgili, çok sevilen|bɪˈlʌvɪd
+bossy|adj|emir vermeyi seven|ˈbɔːsi
+breathtaking|adj|nefes kesici|ˈbreθteɪkɪŋ
+bumpy|adj|engebeli|ˈbʌmpi
+chubby|adj|tombul|ˈtʃʌbi
+classical|adj|klasik|ˈklæsɪkəl
+colorful|adj|renkli|ˈkʌlərfəl
+competent|adj|yetkin|ˈkɑːmpɪtənt
+compulsory|adj|zorunlu|kəmˈpʌlsəri
+considerate|adj|düşünceli|kənˈsɪdərət
+costly|adj|pahalı, maliyetli|ˈkɔːstli
+cunning|adj|kurnaz|ˈkʌnɪŋ
+curly|adj|kıvırcık|ˈkɜːrli
+damaged|adj|hasarlı|ˈdæmɪdʒd
+dedicated|adj|kendini adamış|ˈdedɪkeɪtɪd
+delightful|adj|çok hoş|dɪˈlaɪtfəl
+disgusting|adj|iğrenç|dɪsˈɡʌstɪŋ
+distant|adj|uzak|ˈdɪstənt
+dreadful|adj|berbat|ˈdredfəl
+dusty|adj|tozlu|ˈdʌsti
+edible|adj|yenilebilir|ˈedəbəl
+electronic|adj|elektronik|ɪˌlekˈtrɑːnɪk
+energetic|adj|enerjik|ˌenərˈdʒetɪk
+enjoyable|adj|zevkli|ɪnˈdʒɔɪəbəl
+entertaining|adj|eğlendirici|ˌentərˈteɪnɪŋ
+exhausting|adj|yorucu|ɪɡˈzɔːstɪŋ
+fabulous|adj|muhteşem|ˈfæbjələs
+fashionable|adj|modaya uygun|ˈfæʃənəbəl
+fearless|adj|korkusuz|ˈfɪrləs
+fertile|adj|verimli (toprak)|ˈfɜːrtəl
+festive|adj|şenlikli|ˈfestɪv
+fictional|adj|kurgusal|ˈfɪkʃənəl
+forgetful|adj|unutkan|fərˈɡetfəl
+frightening|adj|korkutucu|ˈfraɪtənɪŋ
+furry|adj|tüylü|ˈfɜːri
+gifted|adj|yetenekli|ˈɡɪftɪd
+gigantic|adj|dev gibi|dʒaɪˈɡæntɪk
+glamorous|adj|göz alıcı|ˈɡlæmərəs
+gloomy|adj|kasvetli|ˈɡluːmi
+graceful|adj|zarif|ˈɡreɪsfəl
+handy|adj|kullanışlı|ˈhændi
+harmless|adj|zararsız|ˈhɑːrmləs
+hilarious|adj|çok komik|hɪˈleriəs
+icy|adj|buzlu|ˈaɪsi
+identical|adj|aynı, özdeş|aɪˈdentɪkəl
+idle|adj|boş, aylak|ˈaɪdəl
+imaginary|adj|hayali|ɪˈmædʒɪneri
+informal|adj|gayri resmi|ɪnˈfɔːrməl
+injured|adj|yaralı|ˈɪndʒərd
+insane|adj|deli|ɪnˈseɪn
+inspiring|adj|ilham verici|ɪnˈspaɪərɪŋ
+isolated|adj|izole, yalıtılmış|ˈaɪsəleɪtɪd
+knowledgeable|adj|bilgili|ˈnɑːlɪdʒəbəl
+lasting|adj|kalıcı|ˈlæstɪŋ
+legendary|adj|efsanevi|ˈledʒənderi
+lengthy|adj|uzun|ˈleŋθi
+lively|adj|canlı, hareketli|ˈlaɪvli
+magical|adj|büyülü|ˈmædʒɪkəl
+marvelous|adj|harika|ˈmɑːrvələs
+medieval|adj|ortaçağa ait|ˌmediˈiːvəl
+memorable|adj|unutulmaz|ˈmemərəbəl
+mighty|adj|kudretli|ˈmaɪti
+misty|adj|puslu|ˈmɪsti
+muddy|adj|çamurlu|ˈmʌdi
+mysterious|adj|gizemli|mɪˈstɪriəs
+nasty|adj|kötü, iğrenç|ˈnæsti
+nostalgic|adj|nostaljik|nɑːˈstældʒɪk
+numb|adj|uyuşmuş|nʌm
+obedient|adj|itaatkar|oʊˈbiːdiənt
+offline|adj|çevrimdışı|ˌɔːfˈlaɪn
+overwhelming|adj|ezici, bunaltıcı|ˌoʊvərˈwelmɪŋ
+playful|adj|oyuncu, şakacı|ˈpleɪfəl
+pointless|adj|anlamsız|ˈpɔɪntləs
+priceless|adj|paha biçilmez|ˈpraɪsləs
+productive|adj|üretken|prəˈdʌktɪv
+promising|adj|umut vadeden|ˈprɑːmɪsɪŋ
+punctual|adj|dakik|ˈpʌŋktʃuəl
+reasonable|adj|makul|ˈriːzənəbəl
+refreshing|adj|ferahlatıcı|rɪˈfreʃɪŋ
+renewable|adj|yenilenebilir|rɪˈnuːəbəl
+respectful|adj|saygılı|rɪˈspektfəl
+rewarding|adj|tatmin edici|rɪˈwɔːrdɪŋ
+risky|adj|riskli|ˈrɪski
+rusty|adj|paslı|ˈrʌsti
+scenic|adj|manzaralı|ˈsiːnɪk
+seasonal|adj|mevsimlik|ˈsiːzənəl
+secondhand|adj|ikinci el|ˌsekəndˈhænd
+sleepless|adj|uykusuz|ˈsliːpləs
+sociable|adj|sosyal, girişken|ˈsoʊʃəbəl
+speechless|adj|dili tutulmuş|ˈspiːtʃləs
+spoiled|adj|şımarık|spɔɪld
+stunning|adj|çarpıcı, göz kamaştırıcı|ˈstʌnɪŋ
+sturdy|adj|sağlam|ˈstɜːrdi
+stylish|adj|şık|ˈstaɪlɪʃ
+suitable|adj|uygun|ˈsuːtəbəl
+supportive|adj|destekleyici|səˈpɔːrtɪv
+tedious|adj|sıkıcı, usandırıcı|ˈtiːdiəs
+tolerant|adj|hoşgörülü|ˈtɑːlərənt
+trendy|adj|moda olan|ˈtrendi
+trustworthy|adj|güvenilir|ˈtrʌstwɜːrði
+unbelievable|adj|inanılmaz|ˌʌnbɪˈliːvəbəl
+uncomfortable|adj|rahatsız|ʌnˈkʌmftəbəl
+unhappy|adj|mutsuz|ʌnˈhæpi
+unhealthy|adj|sağlıksız|ʌnˈhelθi
+unlucky|adj|şanssız|ʌnˈlʌki
+unusual|adj|alışılmadık|ʌnˈjuːʒuəl
+useless|adj|işe yaramaz|ˈjuːsləs
+vacant|adj|boş (yer)|ˈveɪkənt
+vintage|adj|eski tarz, vintage|ˈvɪntɪdʒ
+waterproof|adj|su geçirmez|ˈwɔːtərpruːf
+worthless|adj|değersiz|ˈwɜːrθləs
+youthful|adj|genç görünümlü|ˈjuːθfəl

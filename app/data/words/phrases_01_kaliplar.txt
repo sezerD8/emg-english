@@ -1,0 +1,206 @@
+# Kalıplar: cümle yapıları ve sık kullanılan söz öbekleri (B1)
+# english|tür|türkçe|ipa|örnek|örnek (türkçe)
+#! level=B1
+it's time to|pat|...-me vakti geldi|ɪts taɪm tə|It's time to go home.|Eve gitme vakti geldi.
+I can't help it|pat|elimde değil, kendimi tutamıyorum|aɪ kænt help ɪt|I know I eat too much chocolate, but I can't help it.|Çok çikolata yediğimi biliyorum ama elimde değil.
+can't help doing something|pat|...-meden edememek|kænt help duːɪŋ ˈsʌmθɪŋ|I couldn't help laughing when he fell.|O düşünce gülmeden edemedim.
+it's no use doing something|pat|...-menin faydası yok|ɪts noʊ juːz duːɪŋ ˈsʌmθɪŋ|It's no use arguing with him.|Onunla tartışmanın faydası yok.
+there's no point in doing something|pat|...-menin anlamı yok|ðerz noʊ pɔɪnt ɪn duːɪŋ ˈsʌmθɪŋ|There's no point in waiting any longer.|Daha fazla beklemenin anlamı yok.
+would rather|pat|...-meyi tercih ederim, ...-sem daha iyi|wʊd ˈræðər|I'd rather stay at home tonight.|Bu akşam evde kalmayı tercih ederim.
+had better|pat|...-sen iyi olur (uyarı)|hæd ˈbetər|You'd better take an umbrella.|Şemsiye alsan iyi olur.
+it's worth doing something|pat|...-meye değer|ɪts wɜːrθ duːɪŋ ˈsʌmθɪŋ|This film is worth watching.|Bu film izlemeye değer.
+it's not worth it|pat|buna değmez|ɪts nɑːt wɜːrθ ɪt|Don't fight about money, it's not worth it.|Para için kavga etme, buna değmez.
+the more, the better|pat|ne kadar çok, o kadar iyi|ðə mɔːr ðə ˈbetər|The more you practice, the better you get.|Ne kadar çok pratik yaparsan o kadar iyi olursun.
+no matter what|pat|ne olursa olsun|noʊ ˈmætər wʌt|I'll be there no matter what.|Ne olursa olsun orada olacağım.
+no matter how|pat|ne kadar ... olursa olsun|noʊ ˈmætər haʊ|No matter how hard I try, I can't sleep.|Ne kadar uğraşırsam uğraşayım uyuyamıyorum.
+what if|pat|ya ... olursa?|wʌt ɪf|What if it rains tomorrow?|Ya yarın yağmur yağarsa?
+how come|pat|nasıl oluyor da, neden|haʊ kʌm|How come you're still awake?|Nasıl oluyor da hâlâ uyanıksın?
+I wish I had|pat|keşke ... olsaydı / -seydim|aɪ wɪʃ aɪ hæd|I wish I had more free time.|Keşke daha fazla boş zamanım olsaydı.
+if only|pat|keşke, bir ... olsa|ɪf ˈoʊnli|If only I had listened to you.|Keşke seni dinleseydim.
+as if|pat|sanki, -mış gibi|æz ɪf|He talks as if he knows everything.|Her şeyi biliyormuş gibi konuşuyor.
+even if|pat|-se bile|ˈiːvən ɪf|I'll go even if it rains.|Yağmur yağsa bile gideceğim.
+not only but also|pat|sadece ... değil, aynı zamanda ...|nɑːt ˈoʊnli bʌt ˈɔːlsoʊ|She is not only smart but also funny.|O sadece zeki değil, aynı zamanda komik.
+either or|pat|ya ... ya da ...|ˈiːðər ɔːr|You can either call me or send a message.|Ya beni ararsın ya da mesaj atarsın.
+neither nor|pat|ne ... ne de ...|ˈniːðər nɔːr|I like neither tea nor coffee.|Ne çay ne de kahve severim.
+so that|pat|...-sin diye, ...-mek için|soʊ ðæt|Speak louder so that everyone can hear you.|Herkes duyabilsin diye daha yüksek sesle konuş.
+so tired that|pat|o kadar yorgun ki|soʊ ˈtaɪərd ðæt|I was so tired that I fell asleep on the bus.|O kadar yorgundum ki otobüste uyuyakaldım.
+such a good time|pat|öyle güzel vakit ki (such a + sıfat + isim)|sʌtʃ ə ɡʊd taɪm|We had such a good time that we didn't want to leave.|O kadar güzel vakit geçirdik ki ayrılmak istemedik.
+too tired to|pat|...-emeyecek kadar yorgun (too + sıfat + to)|tuː ˈtaɪərd tə|I'm too tired to go out.|Dışarı çıkamayacak kadar yorgunum.
+old enough to|pat|...-ecek yaşta (sıfat + enough to)|oʊld ɪˈnʌf tə|He isn't old enough to drive.|Araba kullanacak yaşta değil.
+it takes time|pat|zaman alır|ɪt teɪks taɪm|Learning a language takes time.|Dil öğrenmek zaman alır.
+it took me an hour to|pat|...-mek bana bir saatimi aldı|ɪt tʊk miː ən ˈaʊər tə|It took me an hour to get here.|Buraya gelmem bir saatimi aldı.
+used to do something|pat|eskiden ...-erdi (artık değil)|juːzd tə duː ˈsʌmθɪŋ|I used to play football every day.|Eskiden her gün futbol oynardım.
+be supposed to|pat|...-mesi gerekiyor (bekleniyor)|biː səˈpoʊzd tə|We were supposed to meet at six.|Saat altıda buluşmamız gerekiyordu.
+be likely to|pat|muhtemelen ...-ecek|biː ˈlaɪkli tə|It's likely to rain this afternoon.|Öğleden sonra muhtemelen yağmur yağacak.
+be bound to|pat|kesin ...-ecek, kaçınılmaz|biː baʊnd tə|If you keep practicing, you're bound to improve.|Pratik yapmaya devam edersen kesin gelişirsin.
+would you mind|pat|...-mesi sizce sakıncalı mı, rica etsem ...-r mısınız|wʊd juː maɪnd|Would you mind closing the window?|Pencereyi kapatır mısınız, rica etsem?
+do you mind if I|pat|...-sem sorun olur mu?|duː juː maɪnd ɪf aɪ|Do you mind if I sit here?|Buraya otursam sorun olur mu?
+how about|pat|...-e ne dersin?|haʊ əˈbaʊt|How about going to the cinema tonight?|Bu akşam sinemaya gitmeye ne dersin?
+why don't we|pat|neden ... -miyoruz? (öneri)|waɪ doʊnt wiː|Why don't we order a pizza?|Neden pizza söylemiyoruz?
+let's not|pat|...-meyelim|lets nɑːt|Let's not talk about work today.|Bugün iş hakkında konuşmayalım.
+I feel like|pat|canım ... istiyor|aɪ fiːl laɪk|I feel like eating something sweet.|Canım tatlı bir şey yemek istiyor.
+I'm in the mood for|pat|... havasındayım, canım ... istiyor|aɪm ɪn ðə muːd fər|I'm in the mood for a movie.|Film izleme havasındayım.
+I can't stand|pat|...-e dayanamıyorum, hiç çekemem|aɪ kænt stænd|I can't stand people who lie.|Yalan söyleyen insanlara dayanamıyorum.
+I can't wait to|pat|...-mek için sabırsızlanıyorum|aɪ kænt weɪt tə|I can't wait to see you.|Seni görmek için sabırsızlanıyorum.
+it seems that|pat|görünüşe göre, öyle görünüyor ki|ɪt siːmz ðæt|It seems that nobody is home.|Görünüşe göre evde kimse yok.
+it turns out that|pat|...-diği ortaya çıktı, meğer|ɪt tɜːrnz aʊt ðæt|It turns out that he was right.|Meğer o haklıymış.
+the thing is|pat|mesele şu ki, olay şu|ðə θɪŋ ɪz|The thing is, I don't have enough money.|Mesele şu ki yeterli param yok.
+the point is|pat|asıl mesele şu|ðə pɔɪnt ɪz|The point is that we need more time.|Asıl mesele, daha fazla zamana ihtiyacımız olması.
+what I mean is|pat|demek istediğim şu|wʌt aɪ miːn ɪz|What I mean is, we should be careful.|Demek istediğim şu: dikkatli olmalıyız.
+as far as I know|pat|bildiğim kadarıyla|æz fɑːr æz aɪ noʊ|As far as I know, the shop is closed on Sundays.|Bildiğim kadarıyla dükkân pazar günleri kapalı.
+as far as I'm concerned|pat|bana kalırsa, bence|æz fɑːr æz aɪm kənˈsɜːrnd|As far as I'm concerned, the plan is fine.|Bana kalırsa plan gayet iyi.
+when it comes to|pat|söz konusu ... olunca|wen ɪt kʌmz tə|When it comes to games, he is an expert.|Söz konusu oyunlar olunca o bir uzman.
+in terms of|pat|... açısından|ɪn tɜːrmz əv|In terms of price, this phone is the best.|Fiyat açısından bu telefon en iyisi.
+in case|pat|...-ir diye, ihtimaline karşı|ɪn keɪs|Take a jacket in case it gets cold.|Hava soğur diye bir ceket al.
+just in case|pat|ne olur ne olmaz, her ihtimale karşı|dʒʌst ɪn keɪs|I'll bring some extra water, just in case.|Ne olur ne olmaz, biraz fazladan su getireceğim.
+in spite of|pat|-e rağmen|ɪn spaɪt əv|In spite of the rain, we went out.|Yağmura rağmen dışarı çıktık.
+despite the fact that|pat|...-diği halde|dɪˈspaɪt ðə fækt ðæt|Despite the fact that he was ill, he went to work.|Hasta olduğu halde işe gitti.
+unless|pat|-medikçe, -mezse|ənˈles|I won't go unless you come with me.|Sen benimle gelmezsen gitmem.
+provided that|pat|...-mesi şartıyla|prəˈvaɪdɪd ðæt|You can borrow my car provided that you drive carefully.|Dikkatli sürmen şartıyla arabamı ödünç alabilirsin.
+whether or not|pat|... olsun olmasın|ˈweðər ɔːr nɑːt|Whether or not you like it, you have to do it.|Hoşuna gitsin gitmesin bunu yapmak zorundasın.
+the reason why|pat|...-mesinin sebebi|ðə ˈriːzən waɪ|The reason why I'm late is the traffic.|Geç kalmamın sebebi trafik.
+that's why|pat|bu yüzden, işte bu yüzden|ðæts waɪ|I missed the bus. That's why I'm late.|Otobüsü kaçırdım. Bu yüzden geç kaldım.
+that's because|pat|çünkü, bunun sebebi|ðæts bɪˈkɔːz|He's tired. That's because he worked all night.|Yorgun. Çünkü bütün gece çalıştı.
+not to mention|pat|...-den bahsetmiyorum bile|nɑːt tə ˈmenʃən|The hotel was expensive, not to mention dirty.|Otel pahalıydı, pisliğinden bahsetmiyorum bile.
+let alone|pat|bırak ...-yı, ... şöyle dursun|let əˈloʊn|I can't afford a bike, let alone a car.|Araba şöyle dursun, bisiklet bile alamam.
+rather than|pat|...-mektense, ... yerine|ˈræðər ðæn|Let's walk rather than take a taxi.|Taksiye binmektense yürüyelim.
+prefer something to something|pat|...-i ...-e tercih etmek|prɪˈfɜːr ˈsʌmθɪŋ tə ˈsʌmθɪŋ|I prefer tea to coffee.|Çayı kahveye tercih ederim.
+have something done|pat|(bir şeyi) yaptırmak|hæv ˈsʌmθɪŋ dʌn|I had my hair cut yesterday.|Dün saçımı kestirdim.
+get something done|pat|bir işi halletmek; yaptırmak|ɡet ˈsʌmθɪŋ dʌn|I need to get this report done by Friday.|Bu raporu cumaya kadar halletmem lazım.
+make someone do something|pat|birine (zorla) bir şey yaptırmak|meɪk ˈsʌmwʌn duː ˈsʌmθɪŋ|My boss made me work on Sunday.|Patronum beni pazar günü çalıştırdı.
+let someone do something|pat|birinin bir şey yapmasına izin vermek|let ˈsʌmwʌn duː ˈsʌmθɪŋ|Let me help you.|Sana yardım etmeme izin ver.
+be fed up with|pat|-den bıkmak, gına gelmek|biː fed ʌp wɪð|I'm fed up with this weather.|Bu havadan bıktım.
+be tired of|pat|-den bıkmak, usanmak|biː ˈtaɪərd əv|I'm tired of waiting.|Beklemekten bıktım.
+be sick of|pat|-den bıkıp usanmak|biː sɪk əv|I'm sick of eating pasta every day.|Her gün makarna yemekten bıktım usandım.
+be keen on|pat|-e hevesli olmak, meraklı olmak|biː kiːn ɑːn|She's very keen on photography.|Fotoğrafçılığa çok meraklı.
+be into something|pat|...-e merakı olmak, sarmak|biː ˈɪntuː ˈsʌmθɪŋ|I'm really into video games these days.|Bu aralar video oyunları beni çok sarıyor.
+be up to something|pat|bir işler çevirmek|biː ʌp tə ˈsʌmθɪŋ|The kids are quiet. They must be up to something.|Çocuklar sessiz. Bir işler çeviriyor olmalılar.
+be on the way|pat|yolda olmak|biː ɑːn ðə weɪ|The pizza is on the way.|Pizza yolda.
+be aware of|pat|...-in farkında olmak|biː əˈwer əv|Are you aware of the risks?|Risklerin farkında mısın?
+be familiar with|pat|...-e aşina olmak, bilmek|biː fəˈmɪljər wɪð|I'm not familiar with this software.|Bu yazılıma aşina değilim.
+be responsible for|pat|...-den sorumlu olmak|biː rɪˈspɑːnsəbəl fər|Who is responsible for this mess?|Bu dağınıklıktan kim sorumlu?
+be capable of|pat|...-e muktedir olmak, yapabilecek durumda olmak|biː ˈkeɪpəbəl əv|She is capable of doing much better.|O çok daha iyisini yapabilir.
+be proud of|pat|...-den gurur duymak|biː praʊd əv|I'm proud of you.|Seninle gurur duyuyorum.
+be afraid of|pat|...-den korkmak|biː əˈfreɪd əv|He's afraid of the dark.|Karanlıktan korkuyor.
+be similar to|pat|...-e benzer olmak|biː ˈsɪmələr tə|My phone is similar to yours.|Telefonum seninkine benziyor.
+be different from|pat|...-den farklı olmak|biː ˈdɪfrənt frʌm|Life here is very different from life in the city.|Buradaki hayat şehirdeki hayattan çok farklı.
+there's no need to|pat|...-e gerek yok|ðerz noʊ niːd tə|There's no need to shout.|Bağırmana gerek yok.
+I've been meaning to|pat|bir süredir ...-meyi düşünüyordum|aɪv bɪn miːnɪŋ tə|I've been meaning to call you.|Bir süredir seni aramayı düşünüyordum.
+I'm thinking of|pat|...-meyi düşünüyorum|aɪm θɪŋkɪŋ əv|I'm thinking of buying a new laptop.|Yeni bir dizüstü almayı düşünüyorum.
+I was wondering if|pat|acaba ... diye merak ediyordum (kibar rica)|aɪ wʌz ˈwʌndərɪŋ ɪf|I was wondering if you could help me.|Acaba bana yardım edebilir misiniz diye merak ediyordum.
+could you possibly|pat|acaba ...-ebilir misiniz (çok kibar)|kʊd juː ˈpɑːsəbli|Could you possibly lend me some money?|Acaba bana biraz borç verebilir misiniz?
+I'd like to|pat|...-mek isterim|aɪd laɪk tə|I'd like to book a table for two.|İki kişilik masa ayırtmak istiyorum.
+would you like to|pat|...-mek ister misin?|wʊd juː laɪk tə|Would you like to come with us?|Bizimle gelmek ister misin?
+how long does it take|pat|ne kadar sürer?|haʊ lɔːŋ duːz ɪt teɪk|How long does it take to get to the airport?|Havalimanına gitmek ne kadar sürer?
+what's it like|pat|nasıl bir şey?, nasıl?|wʌts ɪt laɪk|What's it like to live in London?|Londra'da yaşamak nasıl bir şey?
+what does it look like|pat|neye benziyor?, nasıl görünüyor?|wʌt duːz ɪt lʊk laɪk|What does your new house look like?|Yeni evin nasıl görünüyor?
+what's wrong with|pat|...-in nesi var?, ...-de sorun ne?|wʌts rɔːŋ wɪð|What's wrong with your car?|Arabanın nesi var?
+it doesn't matter|pat|fark etmez, önemli değil|ɪt ˈdʌzənt ˈmætər|It doesn't matter what you wear.|Ne giydiğin fark etmez.
+no wonder|pat|hiç şaşırtıcı değil, ondan ...|noʊ ˈwʌndər|You didn't sleep at all? No wonder you're tired.|Hiç uyumadın mı? Ondan yorgunsun.
+it's a shame that|pat|... yazık, ... çok kötü|ɪts ə ʃeɪm ðæt|It's a shame that you can't come.|Gelemiyor olman çok yazık.
+it's high time|pat|çoktan ...-me zamanı geldi|ɪts haɪ taɪm|It's high time you found a job.|İş bulmanın zamanı çoktan geldi.
+hardly ever|pat|neredeyse hiç|ˈhɑːrdli ˈevər|I hardly ever watch TV.|Neredeyse hiç televizyon izlemem.
+as soon as possible|pat|mümkün olan en kısa sürede|æz suːn æz ˈpɑːsəbəl|Please call me back as soon as possible.|Lütfen beni en kısa sürede geri ara.
+at the same time|pat|aynı zamanda, aynı anda|æt ðə seɪm taɪm|I can't talk and drive at the same time.|Aynı anda hem konuşup hem araba süremem.
+in the end|pat|sonunda, en sonunda|ɪn ðə end|In the end, we decided to stay.|Sonunda kalmaya karar verdik.
+by the time|pat|...-diğinde (çoktan)|baɪ ðə taɪm|By the time we arrived, the film had started.|Biz vardığımızda film çoktan başlamıştı.
+for the first time|pat|ilk kez|fər ðə fɜːrst taɪm|I saw the sea for the first time when I was ten.|Denizi ilk kez on yaşındayken gördüm.
+by myself|pat|kendi başıma, tek başıma|baɪ maɪˈself|I fixed the computer by myself.|Bilgisayarı kendi başıma tamir ettim.
+on my own|pat|kendi başıma, yalnız|ɑːn maɪ oʊn|I live on my own.|Tek başıma yaşıyorum.
+it's getting late|pat|geç oluyor (it's getting + sıfat: giderek ... oluyor)|ɪts ɡetɪŋ leɪt|It's getting late, we should go.|Geç oluyor, gitmeliyiz.
+I bet|pat|eminim, bahse girerim|aɪ bet|I bet he'll be late again.|Bahse girerim yine geç kalacak.
+I guess|pat|sanırım, galiba|aɪ ɡes|I guess you're right.|Sanırım haklısın.
+I suppose|pat|herhalde, sanırım|aɪ səˈpoʊz|I suppose we could take the bus.|Herhalde otobüse binebiliriz.
+I doubt it|pat|sanmam, şüpheliyim|aɪ daʊt ɪt|Will he come? I doubt it.|Gelecek mi? Sanmam.
+I'm afraid|pat|korkarım, maalesef|aɪm əˈfreɪd|I'm afraid we're closed.|Maalesef kapalıyız.
+to be honest|pat|açıkçası, dürüst olmak gerekirse|tə biː ˈɑːnɪst|To be honest, I didn't like the food.|Açıkçası yemeği beğenmedim.
+to be fair|pat|hakkını vermek gerekirse|tə biː fer|To be fair, he did try his best.|Hakkını vermek gerekirse, elinden geleni yaptı.
+to tell you the truth|pat|doğrusunu söylemek gerekirse|tə tel juː ðə truːθ|To tell you the truth, I forgot your birthday.|Doğrusunu söylemek gerekirse doğum gününü unuttum.
+in other words|pat|başka bir deyişle, yani|ɪn ˈʌðər wɜːrdz|He was fired. In other words, he lost his job.|Kovuldu. Yani işini kaybetti.
+after all|pat|ne de olsa; sonuçta|ˈæftər ɔːl|Don't be angry with him. After all, he's only a child.|Ona kızma. Ne de olsa daha çocuk.
+above all|pat|her şeyden önce, hepsinden önemlisi|əˈbʌv ɔːl|Above all, be honest.|Her şeyden önce dürüst ol.
+first of all|pat|her şeyden önce, ilk olarak|fɜːrst əv ɔːl|First of all, let me introduce myself.|Öncelikle kendimi tanıtayım.
+on top of that|pat|üstüne üstlük, bir de|ɑːn tɑːp əv ðæt|I lost my keys, and on top of that it started raining.|Anahtarlarımı kaybettim, üstüne üstlük yağmur başladı.
+as a matter of fact|pat|aslına bakarsan, hatta|æz ə ˈmætər əv fækt|As a matter of fact, I've already finished it.|Aslına bakarsan onu çoktan bitirdim.
+in the meantime|pat|bu arada, o zamana kadar|ɪn ðə ˈmiːntaɪm|Dinner is almost ready. In the meantime, have a drink.|Akşam yemeği neredeyse hazır. Bu arada bir şey iç.
+for good|pat|temelli, kalıcı olarak|fər ɡʊd|He left the country for good.|Ülkeyi temelli terk etti.
+once in a while|pat|arada bir, ara sıra|wʌns ɪn ə waɪl|We go out for dinner once in a while.|Arada bir akşam yemeğine çıkarız.
+every now and then|pat|ara sıra, zaman zaman|ˈevri naʊ ənd ðen|Every now and then I check my old emails.|Ara sıra eski e-postalarıma bakarım.
+most of the time|pat|çoğu zaman|moʊst əv ðə taɪm|Most of the time I work from home.|Çoğu zaman evden çalışırım.
+in any case|pat|her halükarda, ne olursa olsun|ɪn ˈeni keɪs|In any case, I'll call you tomorrow.|Her halükarda yarın seni ararım.
+by far|pat|açık ara, fersah fersah|baɪ fɑːr|This is by far the best pizza in town.|Bu açık ara şehirdeki en iyi pizza.
+so far|pat|şimdiye kadar, şu ana kadar|soʊ fɑːr|So far, everything is going well.|Şu ana kadar her şey iyi gidiyor.
+more or less|pat|aşağı yukarı, az çok|mɔːr ɔːr les|The work is more or less finished.|İş aşağı yukarı bitti.
+or something|pat|ya da öyle bir şey|ɔːr ˈsʌmθɪŋ|Let's grab a coffee or something.|Bir kahve falan içelim.
+and so on|pat|ve benzeri, vesaire|ənd soʊ ɑːn|We bought bread, milk, eggs and so on.|Ekmek, süt, yumurta vesaire aldık.
+as usual|pat|her zamanki gibi|æz ˈjuːʒuəl|He was late as usual.|Her zamanki gibi geç kaldı.
+for sure|pat|kesinlikle, kesin|fər ʃʊr|I'll be there for sure.|Kesin orada olacağım.
+for now|pat|şimdilik|fər naʊ|That's all for now.|Şimdilik bu kadar.
+in a hurry|pat|aceleyle, acelesi olan|ɪn ə ˈhɜːri|Sorry, I'm in a hurry.|Kusura bakma, acelem var.
+on the contrary|pat|aksine, tam tersine|ɑːn ðə ˈkɑːntreri|I'm not tired. On the contrary, I feel great.|Yorgun değilim. Aksine, harika hissediyorum.
+the other way around|pat|tam tersi, öbür türlü|ðə ˈʌðər weɪ əˈraʊnd|It's not me who called him, it was the other way around.|Onu arayan ben değildim, tam tersiydi.
+nothing but|pat|...-den başka bir şey değil, sadece|ˈnʌθɪŋ bʌt|He eats nothing but fast food.|Fast food'dan başka bir şey yemiyor.
+no longer|pat|artık ...-miyor|noʊ lɔːŋər|He no longer works here.|Artık burada çalışmıyor.
+not anymore|pat|artık değil|nɑːt ˌeniˈmɔːr|I used to smoke, but not anymore.|Eskiden sigara içerdim ama artık içmiyorum.
+at most|pat|en fazla, olsa olsa|æt moʊst|It will take two hours at most.|En fazla iki saat sürer.
+make a mistake|pat|hata yapmak|meɪk ə mɪˈsteɪk|Everyone makes mistakes.|Herkes hata yapar.
+make an effort|pat|çaba göstermek|meɪk ən ˈefərt|You need to make more of an effort.|Daha fazla çaba göstermen lazım.
+make progress|pat|ilerleme kaydetmek|meɪk ˈprɑːɡres|You're making good progress with your English.|İngilizcende iyi ilerleme kaydediyorsun.
+make fun of|pat|...-le dalga geçmek|meɪk fʌn əv|Don't make fun of him.|Onunla dalga geçme.
+make it|pat|başarmak; yetişmek, gelebilmek|meɪk ɪt|We made it to the airport just in time.|Havalimanına tam zamanında yetiştik.
+make a living|pat|geçimini sağlamak|meɪk ə lɪvɪŋ|He makes a living as a driver.|Geçimini şoförlük yaparak sağlıyor.
+make up your mind|pat|karar vermek|meɪk ʌp jʊr maɪnd|Make up your mind, we don't have all day.|Karar ver, bütün günümüz yok.
+change your mind|pat|fikrini değiştirmek|tʃeɪndʒ jʊr maɪnd|If you change your mind, call me.|Fikrini değiştirirsen beni ara.
+do someone a favor|pat|birine iyilik yapmak|duː ˈsʌmwʌn ə ˈfeɪvər|Can you do me a favor?|Bana bir iyilik yapar mısın?
+take advantage of|pat|...-den faydalanmak; ...-i istismar etmek|teɪk ədˈvæntɪdʒ əv|Take advantage of the sale.|İndirimden faydalan.
+take place|pat|gerçekleşmek, yer almak|teɪk pleɪs|The concert will take place on Friday.|Konser cuma günü gerçekleşecek.
+take into account|pat|hesaba katmak|teɪk ˈɪntuː əˈkaʊnt|You should take the cost into account.|Maliyeti hesaba katmalısın.
+take for granted|pat|...-i hazır bilmek, kıymetini bilmemek|teɪk fər ɡræntɪd|Don't take your parents for granted.|Annenin babanın kıymetini bil, onları hazır bilme.
+take turns|pat|sırayla yapmak|teɪk tɜːrnz|We take turns cooking dinner.|Akşam yemeğini sırayla pişiriyoruz.
+take responsibility|pat|sorumluluk almak|teɪk rɪˌspɑːnsəˈbɪləti|You have to take responsibility for your actions.|Davranışlarının sorumluluğunu almalısın.
+have a look|pat|bir bakmak, göz atmak|hæv ə lʊk|Can I have a look at your notes?|Notlarına bir bakabilir miyim?
+have a go|pat|bir denemek|hæv ə ɡoʊ|Let me have a go.|Bir de ben deneyeyim.
+give someone a hand|pat|birine yardım etmek|ɡɪv ˈsʌmwʌn ə hænd|Can you give me a hand with these bags?|Bu çantalar için bana yardım eder misin?
+give someone a ride|pat|birini arabayla bırakmak|ɡɪv ˈsʌmwʌn ə raɪd|I can give you a ride home.|Seni eve bırakabilirim.
+keep an eye on|pat|...-e göz kulak olmak|kiːp ən aɪ ɑːn|Can you keep an eye on my bag?|Çantama göz kulak olur musun?
+keep in mind|pat|aklında tutmak, unutmamak|kiːp ɪn maɪnd|Keep in mind that the shop closes at eight.|Dükkânın sekizde kapandığını unutma.
+keep a secret|pat|sır tutmak|kiːp ə ˈsiːkrət|Can you keep a secret?|Sır tutabilir misin?
+keep calm|pat|sakin kalmak|kiːp kɑːm|Keep calm and try again.|Sakin ol ve tekrar dene.
+lose your temper|pat|kendini kaybetmek, öfkelenmek|luːz jʊr ˈtempər|He lost his temper and started shouting.|Kendini kaybedip bağırmaya başladı.
+break a promise|pat|sözünü tutmamak|breɪk ə ˈprɑːmɪs|You broke your promise.|Sözünü tutmadın.
+keep a promise|pat|sözünü tutmak|kiːp ə ˈprɑːmɪs|She always keeps her promises.|O her zaman sözünü tutar.
+tell the truth|pat|doğruyu söylemek|tel ðə truːθ|Just tell me the truth.|Bana sadece doğruyu söyle.
+tell a lie|pat|yalan söylemek|tel ə laɪ|I've never told a lie to you.|Sana hiç yalan söylemedim.
+spend time|pat|vakit geçirmek|spend taɪm|I want to spend more time with my family.|Ailemle daha çok vakit geçirmek istiyorum.
+save time|pat|zaman kazanmak|seɪv taɪm|Let's take a taxi to save time.|Zaman kazanmak için taksiye binelim.
+come true|pat|gerçek olmak (hayal)|kʌm truː|My dream finally came true.|Hayalim sonunda gerçek oldu.
+go wrong|pat|ters gitmek, bozulmak|ɡoʊ rɔːŋ|Everything that could go wrong went wrong.|Ters gidebilecek her şey ters gitti.
+run late|pat|gecikmek, geç kalmak|rʌn leɪt|Sorry, I'm running a bit late.|Kusura bakma, biraz gecikiyorum.
+fall behind|pat|geride kalmak|fɔːl bɪˈhaɪnd|If you miss classes, you'll fall behind.|Dersleri kaçırırsan geride kalırsın.
+get lost|pat|kaybolmak; (kaba) defol|ɡet lɔːst|We got lost in the old town.|Eski şehirde kaybolduk.
+get married|pat|evlenmek|ɡet ˈmærid|They got married last summer.|Geçen yaz evlendiler.
+get ready|pat|hazırlanmak|ɡet ˈredi|Get ready, we're leaving in five minutes.|Hazırlan, beş dakikaya çıkıyoruz.
+get the hang of|pat|...-in mantığını kapmak, alışmak|ɡet ðə hæŋ əv|It's hard at first, but you'll get the hang of it.|Başta zor ama mantığını kaparsın.
+get in touch|pat|iletişime geçmek|ɡet ɪn tʌtʃ|I'll get in touch with you next week.|Gelecek hafta seninle iletişime geçeceğim.
+get rid of something|pat|bir şeyden kurtulmak|ɡet rɪd əv ˈsʌmθɪŋ|I need to get rid of these old clothes.|Bu eski kıyafetlerden kurtulmam lazım.
+pay a visit|pat|ziyaret etmek, uğramak|peɪ ə ˈvɪzɪt|We paid a visit to my grandmother.|Büyükanneme bir ziyarette bulunduk.
+run errands|pat|ayak işlerini halletmek|rʌn ˈerəndz|I have to run some errands this morning.|Bu sabah birkaç ayak işi halletmem lazım.
+do the dishes|pat|bulaşıkları yıkamak|duː ðə dɪʃɪz|It's your turn to do the dishes.|Bulaşık yıkama sırası sende.
+make the bed|pat|yatağı toplamak|meɪk ðə bed|Make your bed before you leave.|Çıkmadan önce yatağını topla.
+on the phone|pat|telefonda|ɑːn ðə foʊn|She's on the phone right now.|Şu an telefonda.
+on purpose|pat|bilerek, kasten|ɑːn ˈpɜːrpəs|Sorry, I didn't do it on purpose.|Kusura bakma, bilerek yapmadım.
+out of order|pat|bozuk, çalışmıyor|aʊt əv ˈɔːrdər|The lift is out of order.|Asansör bozuk.
+out of stock|pat|stokta yok|aʊt əv stɑːk|This item is out of stock.|Bu ürün stokta yok.
+sold out|pat|tükendi, kalmadı|soʊld aʊt|The tickets are sold out.|Biletler tükendi.
+on sale|pat|indirimde; satışta|ɑːn seɪl|These shoes are on sale.|Bu ayakkabılar indirimde.
+rush hour|pat|trafiğin en yoğun olduğu saat|rʌʃ ˈaʊər|Don't drive during rush hour.|Trafiğin yoğun olduğu saatte araba kullanma.
+day off|pat|izin günü|deɪ ɔːf|Tomorrow is my day off.|Yarın izin günüm.
+last minute|pat|son dakika|læst ˈmɪnɪt|He always changes the plan at the last minute.|Planı hep son dakikada değiştirir.
+under pressure|pat|baskı altında|ˈʌndər ˈpreʃər|I work better under pressure.|Baskı altında daha iyi çalışırım.
+in charge of|pat|...-den sorumlu, başında|ɪn tʃɑːrdʒ əv|Who is in charge of this project?|Bu projeden kim sorumlu?
+on behalf of|pat|... adına|ɑːn bɪˈhæf əv|I'm writing on behalf of my company.|Şirketim adına yazıyorum.
+according to|pat|...-e göre|əˈkɔːrdɪŋ tə|According to the news, it will snow tomorrow.|Haberlere göre yarın kar yağacak.
+as long as possible|pat|olabildiğince uzun|æz lɔːŋ æz ˈpɑːsəbəl|Stay as long as possible.|Olabildiğince uzun kal.
+as well as|pat|...-in yanı sıra, hem de|æz wel æz|She speaks French as well as English.|İngilizcenin yanı sıra Fransızca da konuşuyor.
+due to|pat|...-den dolayı, yüzünden|duː tə|The flight was delayed due to bad weather.|Uçuş kötü hava yüzünden ertelendi.
+thanks to|pat|sayesinde|θæŋks tə|Thanks to you, I passed the exam.|Senin sayende sınavı geçtim.

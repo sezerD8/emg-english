@@ -1,0 +1,345 @@
+# sıklık sırası ~4000-4500 (B2) — günlük hayat, doğa, hayvanlar, ev, duygular
+airplane|n|uçak|ˈerpleɪn
+alphabet|n|alfabe|ˈælfəbet
+angel|n|melek|ˈeɪndʒəl
+ant|n|karınca|ænt
+apron|n|önlük|ˈeɪprən
+arrow|n|ok|ˈæroʊ
+attic|n|çatı katı|ˈætɪk
+avenue|n|cadde|ˈævənuː
+axe|n|balta|æks
+bandage|n|bandaj, sargı|ˈbændɪdʒ
+barber|n|berber|ˈbɑːrbər
+bark|v,n|havlamak; ağaç kabuğu|bɑːrk
+barn|n|ahır|bɑːrn
+bat|n|yarasa; sopa|bæt
+bay|n|koy|beɪ
+beak|n|gaga|biːk
+beetle|n|böcek (kın kanatlı)|ˈbiːtəl
+berry|n|dut, böğürtlen|ˈberi
+blossom|n|çiçek (ağaç)|ˈblɑːsəm
+bull|n|boğa|bʊl
+butterfly|n|kelebek|ˈbʌtərflaɪ
+cabbage|n|lahana|ˈkæbɪdʒ
+cage|n|kafes|keɪdʒ
+calf|n|buzağı; baldır|kæf
+carrot|n|havuç|ˈkærət
+cart|n|araba (el), sepet|kɑːrt
+cherry|n|kiraz|ˈtʃeri
+chimney|n|baca|ˈtʃɪmni
+claw|n|pençe|klɔː
+coconut|n|hindistan cevizi|ˈkoʊkənʌt
+crab|n|yengeç|kræb
+crow|n|karga|kroʊ
+cucumber|n|salatalık|ˈkjuːkʌmbər
+deer|n|geyik|dɪr
+donkey|n|eşek|ˈdɑːŋki
+dove|n|güvercin, kumru|dʌv
+dragon|n|ejderha|ˈdræɡən
+fox|n|tilki|fɑːks
+giraffe|n|zürafa|dʒəˈræf
+goose|n|kaz|ɡuːs
+gorilla|n|goril|ɡəˈrɪlə
+hawk|n|şahin|hɔːk
+jellyfish|n|denizanası|ˈdʒelifɪʃ
+kangaroo|n|kanguru|ˌkæŋɡəˈruː
+lamb|n|kuzu|læm
+leopard|n|leopar|ˈlepərd
+lizard|n|kertenkele|ˈlɪzərd
+lobster|n|ıstakoz|ˈlɑːbstər
+mosquito|n|sivrisinek|məˈskiːtoʊ
+octopus|n|ahtapot|ˈɑːktəpəs
+owl|n|baykuş|aʊl
+ox|n|öküz|ɑːks
+panda|n|panda|ˈpændə
+peacock|n|tavus kuşu|ˈpiːkɑːk
+penguin|n|penguen|ˈpeŋɡwɪn
+pigeon|n|güvercin|ˈpɪdʒɪn
+squirrel|n|sincap|ˈskwɜːrəl
+swan|n|kuğu|swɑːn
+tiger|n|kaplan|ˈtaɪɡər
+turkey|n|hindi|ˈtɜːrki
+turtle|n|kaplumbağa|ˈtɜːrtəl
+whale|n|balina|weɪl
+wolf|n|kurt|wʊlf
+zebra|n|zebra|ˈziːbrə
+snail|n|salyangoz|sneɪl
+bear|n|ayı|ber
+fly|n|sinek|flaɪ
+worm|n|solucan|wɜːrm
+nest|n|yuva (kuş)|nest
+tail|n|kuyruk|teɪl
+fur|n|kürk|fɜːr
+paw|n|pati|pɔː
+horn|n|boynuz; korna|hɔːrn
+apricot|n|kayısı|ˈæprɪkɑːt
+avocado|n|avokado|ˌævəˈkɑːdoʊ
+broccoli|n|brokoli|ˈbrɑːkəli
+cauliflower|n|karnabahar|ˈkɔːliflaʊər
+cinnamon|n|tarçın|ˈsɪnəmən
+eggplant|n|patlıcan|ˈeɡplænt
+fig|n|incir|fɪɡ
+lettuce|n|marul|ˈletɪs
+mint|n|nane|mɪnt
+mushroom|n|mantar|ˈmʌʃruːm
+olive|n|zeytin|ˈɑːlɪv
+pepper|n|biber|ˈpepər
+pineapple|n|ananas|ˈpaɪnæpəl
+plum|n|erik|plʌm
+pumpkin|n|bal kabağı|ˈpʌmpkɪn
+spinach|n|ıspanak|ˈspɪnɪtʃ
+watermelon|n|karpuz|ˈwɔːtərmelən
+walnut|n|ceviz|ˈwɔːlnʌt
+almond|n|badem|ˈɑːmənd
+peanut|n|yer fıstığı|ˈpiːnʌt
+lentil|n|mercimek|ˈlentəl
+yogurt|n|yoğurt|ˈjoʊɡərt
+vinegar|n|sirke|ˈvɪnɪɡər
+cereal|n|tahıl gevreği|ˈsɪriəl
+pancake|n|krep|ˈpænkeɪk
+toast|n|kızarmış ekmek|toʊst
+sweets|n|tatlılar, şekerleme|swiːts
+ice cream|n|dondurma|ˈaɪs kriːm
+vegetable|n|sebze|ˈvedʒtəbəl
+appetizer|n|meze, aperatif|ˈæpɪtaɪzər
+bakery|n|fırın|ˈbeɪkəri
+butcher|n|kasap|ˈbʊtʃər
+waiter|n|garson|ˈweɪtər
+waitress|n|kadın garson|ˈweɪtrəs
+tip|n|bahşiş|tɪp
+bill|n|hesap (restoran)|bɪl
+napkin|n|peçete|ˈnæpkɪn
+tray|n|tepsi|treɪ
+kettle|n|su ısıtıcısı|ˈketəl
+jar|n|kavanoz|dʒɑːr
+lid|n|kapak|lɪd
+can|n|teneke kutu|kæn
+container|n|kap, konteyner|kənˈteɪnər
+broom|n|süpürge|bruːm
+bucket|n|kova|ˈbʌkɪt
+sponge|n|sünger|spʌndʒ
+vacuum cleaner|n|elektrik süpürgesi|ˈvækjuːm kliːnər
+washing machine|n|çamaşır makinesi|ˈwɑːʃɪŋ məʃiːn
+dishwasher|n|bulaşık makinesi|ˈdɪʃwɑːʃər
+freezer|n|dondurucu|ˈfriːzər
+heater|n|ısıtıcı|ˈhiːtər
+fan|n|vantilatör|fæn
+air conditioner|n|klima|ˈer kəndɪʃənər
+socket|n|priz|ˈsɑːkɪt
+plug|n|fiş|plʌɡ
+wire|n|tel, kablo|ˈwaɪər
+bulb|n|ampul|bʌlb
+switch|n|anahtar (elektrik)|swɪtʃ
+remote control|n|uzaktan kumanda|rɪˌmoʊt kənˈtroʊl
+shelf|n|raf|ʃelf
+wardrobe|n|gardırop|ˈwɔːrdroʊb
+mattress|n|yatak (şilte)|ˈmætrəs
+sheet|n|çarşaf|ʃiːt
+hanger|n|askı|ˈhæŋər
+mirror|n|ayna|ˈmɪrər
+comb|n|tarak|koʊm
+toothbrush|n|diş fırçası|ˈtuːθbrʌʃ
+toothpaste|n|diş macunu|ˈtuːθpeɪst
+shampoo|n|şampuan|ʃæmˈpuː
+tap|n|musluk|tæp
+drain|n|gider|dreɪn
+pipe|n|boru|paɪp
+hose|n|hortum|hoʊz
+tool|n|alet|tuːl
+drill|n|matkap|drɪl
+nail|n|çivi|neɪl
+glue|n|yapıştırıcı|ɡluː
+tape|n|bant|teɪp
+string|n|ip, sicim|strɪŋ
+thread|n|iplik|θred
+button|n|düğme|ˈbʌtən
+zipper|n|fermuar|ˈzɪpər
+pocket|n|cep|ˈpɑːkɪt
+sleeve|n|kol (giysi)|sliːv
+collar|n|yaka|ˈkɑːlər
+tie|n|kravat|taɪ
+vest|n|yelek|vest
+blouse|n|bluz|blaʊs
+pajamas|n|pijama|pəˈdʒɑːməz
+underwear|n|iç çamaşırı|ˈʌndərwer
+sandal|n|sandalet|ˈsændəl
+slipper|n|terlik|ˈslɪpər
+sneakers|n|spor ayakkabı|ˈsniːkərz
+heel|n|topuk|hiːl
+necklace|n|kolye|ˈnekləs
+bracelet|n|bilezik|ˈbreɪslət
+ring|n|yüzük|rɪŋ
+watch|n|kol saati|wɑːtʃ
+umbrella|n|şemsiye|ʌmˈbrelə
+backpack|n|sırt çantası|ˈbækpæk
+suitcase|n|bavul|ˈsuːtkeɪs
+wallet|n|cüzdan|ˈwɑːlɪt
+eyebrow|n|kaş|ˈaɪbraʊ
+eyelash|n|kirpik|ˈaɪlæʃ
+cheek|n|yanak|tʃiːk
+jaw|n|çene|dʒɔː
+lung|n|akciğer|lʌŋ
+liver|n|karaciğer|ˈlɪvər
+kidney|n|böbrek|ˈkɪdni
+spine|n|omurga|spaɪn
+hip|n|kalça|hɪp
+waist|n|bel|weɪst
+toe|n|ayak parmağı|toʊ
+palm|n|avuç içi; palmiye|pɑːm
+fist|n|yumruk|fɪst
+skull|n|kafatası|skʌl
+vein|n|damar|veɪn
+sweat|n,v|ter; terlemek|swet
+tears|n|gözyaşları|tɪrz
+pulse|n|nabız|pʌls
+allergy|n|alerji|ˈælərdʒi
+bruise|n|morluk|bruːz
+scar|n|yara izi|skɑːr
+pill|n|hap|pɪl
+tablet|n|tablet; hap|ˈtæblət
+prescription|n|reçete|prɪˈskrɪpʃən
+cold|n|soğuk algınlığı|koʊld
+sneeze|v|hapşırmak|sniːz
+vomit|v|kusmak|ˈvɑːmɪt
+dizzy|adj|başı dönen|ˈdɪzi
+pale|adj|solgun|peɪl
+fit|adj|formda, zinde|fɪt
+overweight|adj|kilolu|ˌoʊvərˈweɪt
+breeze|n|meltem|briːz
+thunder|n|gök gürültüsü|ˈθʌndər
+hail|n|dolu (yağış)|heɪl
+frost|n|ayaz, kırağı|frɔːst
+humid|adj|nemli|ˈhjuːmɪd
+foggy|adj|sisli|ˈfɑːɡi
+cloudy|adj|bulutlu|ˈklaʊdi
+windy|adj|rüzgarlı|ˈwɪndi
+snowy|adj|karlı|ˈsnoʊi
+stormy|adj|fırtınalı|ˈstɔːrmi
+freezing|adj|dondurucu soğuk|ˈfriːzɪŋ
+boiling|adj|kaynayan; çok sıcak|ˈbɔɪlɪŋ
+puddle|n|su birikintisi|ˈpʌdəl
+wave|n|dalga|weɪv
+shore|n|kıyı|ʃɔːr
+cliff|n|uçurum|klɪf
+volcano|n|yanardağ|vɑːlˈkeɪnoʊ
+waterfall|n|şelale|ˈwɔːtərfɔːl
+pond|n|gölet|pɑːnd
+stream|n|dere|striːm
+meadow|n|çayır|ˈmedoʊ
+field|n|tarla|fiːld
+hill|n|tepe|hɪl
+peak|n|zirve|piːk
+rock|n|kaya|rɑːk
+pebble|n|çakıl taşı|ˈpebəl
+sand|n|kum|sænd
+mud|n|çamur|mʌd
+root|n|kök|ruːt
+seed|n|tohum|siːd
+trunk|n|gövde; bagaj|trʌŋk
+branch|n|dal|bræntʃ
+thorn|n|diken|θɔːrn
+cactus|n|kaktüs|ˈkæktəs
+pine|n|çam|paɪn
+oak|n|meşe|oʊk
+bush|n|çalı|bʊʃ
+weed|n|yabani ot|wiːd
+continent|n|kıta|ˈkɑːntɪnənt
+equator|n|ekvator|ɪˈkweɪtər
+galaxy|n|galaksi|ˈɡæləksi
+comet|n|kuyruklu yıldız|ˈkɑːmɪt
+astronaut|n|astronot|ˈæstrənɔːt
+rocket|n|roket|ˈrɑːkɪt
+cheerful|adj|neşeli|ˈtʃɪrfəl
+delighted|adj|çok memnun|dɪˈlaɪtɪd
+thrilled|adj|çok heyecanlı|θrɪld
+jealous|adj|kıskanç|ˈdʒeləs
+envious|adj|imrenen|ˈenviəs
+furious|adj|öfkeli|ˈfjʊriəs
+annoyed|adj|sinirlenmiş|əˈnɔɪd
+ashamed|adj|utanmış|əˈʃeɪmd
+guilty|adj|suçlu hisseden|ˈɡɪlti
+lonely|adj|yalnız|ˈloʊnli
+homesick|adj|evini özleyen|ˈhoʊmsɪk
+relieved|adj|rahatlamış|rɪˈliːvd
+satisfied|adj|memnun|ˈsætɪsfaɪd
+grateful|adj|minnettar|ˈɡreɪtfəl
+hopeful|adj|umutlu|ˈhoʊpfəl
+hopeless|adj|umutsuz|ˈhoʊpləs
+miserable|adj|perişan|ˈmɪzərəbəl
+upset|adj|üzgün|ʌpˈset
+stressed|adj|stresli|strest
+relaxed|adj|rahat|rɪˈlækst
+amused|adj|eğlenmiş|əˈmjuːzd
+puzzled|adj|şaşkın|ˈpʌzəld
+shocked|adj|şoke olmuş|ʃɑːkt
+terrified|adj|dehşete düşmüş|ˈterɪfaɪd
+confident|adj|özgüvenli|ˈkɑːnfɪdənt
+proud|adj|gururlu|praʊd
+brave|adj|cesur|breɪv
+coward|n|korkak|ˈkaʊərd
+cruel|adj|zalim|ˈkruːəl
+gentle|adj|nazik|ˈdʒentəl
+greedy|adj|açgözlü|ˈɡriːdi
+honest|adj|dürüst|ˈɑːnɪst
+humble|adj|alçakgönüllü|ˈhʌmbəl
+impatient|adj|sabırsız|ɪmˈpeɪʃənt
+lazy|adj|tembel|ˈleɪzi
+mean|adj|kaba, cimri|miːn
+moody|adj|huysuz|ˈmuːdi
+naughty|adj|yaramaz|ˈnɔːti
+patient|adj|sabırlı|ˈpeɪʃənt
+reliable|adj|güvenilir|rɪˈlaɪəbəl
+selfish|adj|bencil|ˈselfɪʃ
+sensible|adj|mantıklı|ˈsensəbəl
+shy|adj|utangaç|ʃaɪ
+stubborn|adj|inatçı|ˈstʌbərn
+talkative|adj|konuşkan|ˈtɔːkətɪv
+thoughtful|adj|düşünceli|ˈθɔːtfəl
+tidy|adj|düzenli|ˈtaɪdi
+clumsy|adj|sakar|ˈklʌmzi
+curious|adj|meraklı|ˈkjʊriəs
+generous|adj|cömert|ˈdʒenərəs
+hardworking|adj|çalışkan|ˌhɑːrdˈwɜːrkɪŋ
+helpful|adj|yardımsever|ˈhelpfəl
+kind-hearted|adj|iyi kalpli|ˌkaɪndˈhɑːrtɪd
+outgoing|adj|dışa dönük|ˈaʊtɡoʊɪŋ
+easygoing|adj|uysal, rahat|ˈiːziɡoʊɪŋ
+ambitious|adj|hırslı|æmˈbɪʃəs
+creative|adj|yaratıcı|kriˈeɪtɪv
+loyal|adj|sadık|ˈlɔɪəl
+rude|adj|kaba|ruːd
+polite|adj|kibar|pəˈlaɪt
+wise|adj|bilge|waɪz
+foolish|adj|aptalca|ˈfuːlɪʃ
+silly|adj|saçma|ˈsɪli
+awkward|adj|tuhaf, beceriksiz|ˈɔːkwərd
+cozy|adj|rahat, sıcacık|ˈkoʊzi
+spacious|adj|ferah|ˈspeɪʃəs
+crowded|adj|kalabalık|ˈkraʊdɪd
+peaceful|adj|huzurlu|ˈpiːsfəl
+noisy|adj|gürültülü|ˈnɔɪzi
+filthy|adj|pis|ˈfɪlθi
+spotless|adj|tertemiz|ˈspɑːtləs
+shiny|adj|parlak|ˈʃaɪni
+fluffy|adj|kabarık|ˈflʌfi
+sticky|adj|yapışkan|ˈstɪki
+slippery|adj|kaygan|ˈslɪpəri
+rough|adj|pürüzlü|rʌf
+smooth|adj|pürüzsüz|smuːð
+sour|adj|ekşi|ˈsaʊər
+salty|adj|tuzlu|ˈsɔːlti
+bitter|adj|acı|ˈbɪtər
+spicy|adj|baharatlı|ˈspaɪsi
+tasty|adj|lezzetli|ˈteɪsti
+crispy|adj|çıtır|ˈkrɪspi
+juicy|adj|sulu|ˈdʒuːsi
+ripe|adj|olgun (meyve)|raɪp
+rotten|adj|çürük|ˈrɑːtən
+stale|adj|bayat|steɪl
+raw|adj|çiğ|rɔː
+cooked|adj|pişmiş|kʊkt
+grilled|adj|ızgara|ɡrɪld
+roasted|adj|kavrulmuş, fırınlanmış|ˈroʊstɪd
+boiled|adj|haşlanmış|bɔɪld
+homemade|adj|ev yapımı|ˌhoʊmˈmeɪd
+vegetarian|adj,n|vejetaryen|ˌvedʒəˈteriən
